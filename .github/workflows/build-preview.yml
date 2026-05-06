@@ -1,4 +1,4 @@
-name: Build active ETF preview data
+name: Build preview data
 
 on:
   schedule:
@@ -42,7 +42,7 @@ jobs:
       - name: Commit updated preview data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: build active ETF preview data"
+          commit_message: "chore: build preview data"
           file_pattern: public/preview/*.json
 
       - name: Configure GitHub Pages

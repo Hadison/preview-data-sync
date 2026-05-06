@@ -17,7 +17,7 @@ def fetch(etf_code: str = "00981A", source_url: str | None = None) -> list[Holdi
             "The endpoint may be JSON or CSV with date/code/name/weight/shares fields."
         )
 
-    response = requests.get(url, timeout=30, headers={"User-Agent": f"ETFupdate/{etf_code}"})
+    response = requests.get(url, timeout=30, headers={"User-Agent": f"preview-data-sync/{etf_code}"})
     response.raise_for_status()
     content_type = response.headers.get("content-type", "").lower()
     text = response.text
@@ -27,4 +27,3 @@ def fetch(etf_code: str = "00981A", source_url: str | None = None) -> list[Holdi
     else:
         rows = parse_csv_payload(text)
     return holdings_from_rows(rows)
-

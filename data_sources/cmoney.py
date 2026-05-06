@@ -20,7 +20,7 @@ def fetch(etf_code: str = "00981A", source_url: str | None = None) -> list[Holdi
     response = requests.get(
         CMONEY_ENDPOINT,
         timeout=30,
-        headers={"User-Agent": f"ETFupdate/{etf_code}"},
+        headers={"User-Agent": f"preview-data-sync/{etf_code}"},
         params={
             "action": "getdtnodata",
             "DtNo": CMONEY_DTNO_SHAREHOLDING_TW,
@@ -33,7 +33,7 @@ def fetch(etf_code: str = "00981A", source_url: str | None = None) -> list[Holdi
 
 
 def _fetch_structured_url(url: str) -> list[Holding]:
-    response = requests.get(url, timeout=30, headers={"User-Agent": "ETFupdate/00981A"})
+    response = requests.get(url, timeout=30, headers={"User-Agent": "preview-data-sync/00981A"})
     response.raise_for_status()
     text = response.text
     if "json" in response.headers.get("content-type", "").lower() or text.lstrip().startswith(("{", "[")):

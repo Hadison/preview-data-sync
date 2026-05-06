@@ -29,7 +29,7 @@ def _get_month_payload(code: str, month_start: str) -> dict:
             response = requests.get(
                 TWSE_STOCK_DAY_ENDPOINT,
                 timeout=30,
-                headers={"User-Agent": f"ETFupdate-prices/{code}"},
+                headers={"User-Agent": f"preview-data-sync-prices/{code}"},
                 params={"response": "json", "date": month_start, "stockNo": code},
             )
             response.raise_for_status()

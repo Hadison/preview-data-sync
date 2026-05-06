@@ -27,7 +27,7 @@ def _get_month_payload(code: str, month_start: str) -> dict:
             response = requests.get(
                 TPEX_TRADING_STOCK_ENDPOINT,
                 timeout=30,
-                headers={"User-Agent": f"ETFupdate-prices/{code}"},
+                headers={"User-Agent": f"preview-data-sync-prices/{code}"},
                 params={"response": "json", "date": _yyyymmdd_to_slash_date(month_start), "code": code},
             )
             response.raise_for_status()
