@@ -346,24 +346,24 @@
     }
   ],
   "exited_codes": [
-    "1519",
-    "2317",
-    "2327",
-    "2382",
-    "2449",
-    "2451",
-    "2486",
-    "3231",
     "3529",
-    "5347",
-    "5439",
-    "5536",
-    "6415",
-    "6781",
-    "6805",
     "8021",
+    "2486",
+    "6805",
+    "8358",
+    "5347",
+    "6781",
+    "2449",
+    "2317",
+    "5439",
     "8210",
-    "8358"
+    "1519",
+    "3231",
+    "6415",
+    "2327",
+    "2451",
+    "5536",
+    "2382"
   ],
   "exit_date": {
     "1519": "20260330",
@@ -387,71 +387,23 @@
   },
   "active_days": {
     "1519": 57,
-    "2059": 80,
-    "2308": 80,
     "2317": 59,
-    "2330": 80,
-    "2344": 80,
-    "2345": 80,
-    "2360": 80,
-    "2368": 77,
     "2382": 12,
-    "2383": 80,
-    "2408": 80,
     "2451": 26,
-    "3017": 80,
-    "3037": 80,
-    "3131": 46,
-    "3163": 80,
-    "3189": 80,
     "3231": 20,
-    "3260": 52,
-    "3324": 78,
     "3529": 77,
-    "3653": 80,
-    "3665": 75,
-    "5289": 80,
     "5439": 59,
     "5536": 25,
-    "6223": 80,
-    "6274": 74,
-    "6442": 80,
-    "6515": 80,
-    "6531": 80,
-    "6584": 80,
-    "6669": 77,
     "6781": 69,
     "6805": 76,
-    "7769": 80,
-    "8046": 80,
     "8210": 59,
-    "8299": 80,
-    "8996": 80,
     "2449": 61,
-    "3443": 72,
-    "3661": 78,
-    "5274": 78,
-    "4749": 77,
     "8358": 72,
     "8021": 73,
     "2327": 19,
     "5347": 63,
     "6415": 11,
-    "2486": 57,
-    "2454": 30,
-    "3533": 53,
-    "7751": 45,
-    "3105": 32,
-    "4991": 28,
-    "6510": 26,
-    "2337": 21,
-    "3036": 21,
-    "3081": 21,
-    "3491": 21,
-    "3711": 21,
-    "6271": 14,
-    "2455": 5,
-    "3583": 4
+    "2486": 57
   },
   "series": {
     "1519": [
@@ -1138,12 +1090,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.02,
+        "weight": 2.0207,
         "shares": 258000.0
       },
       {
         "date": "20260505",
-        "weight": 2.07,
+        "weight": 2.0707,
         "shares": 258000.0
       }
     ],
@@ -1540,12 +1492,12 @@
       },
       {
         "date": "20260504",
-        "weight": 1.53,
+        "weight": 1.5307,
         "shares": 357000.0
       },
       {
         "date": "20260505",
-        "weight": 1.5,
+        "weight": 1.4984,
         "shares": 357000.0
       }
     ],
@@ -2243,12 +2195,12 @@
       },
       {
         "date": "20260504",
-        "weight": 7.74,
+        "weight": 7.738,
         "shares": 1761000.0
       },
       {
         "date": "20260505",
-        "weight": 7.68,
+        "weight": 7.6814,
         "shares": 1761000.0
       }
     ],
@@ -2645,12 +2597,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.16,
+        "weight": 0.1645,
         "shares": 893000.0
       },
       {
         "date": "20260505",
-        "weight": 0.17,
+        "weight": 0.171,
         "shares": 893000.0
       }
     ],
@@ -3047,12 +2999,12 @@
       },
       {
         "date": "20260504",
-        "weight": 3.46,
+        "weight": 3.4642,
         "shares": 716000.0
       },
       {
         "date": "20260505",
-        "weight": 3.46,
+        "weight": 3.4632,
         "shares": 716000.0
       }
     ],
@@ -3449,12 +3401,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.17,
+        "weight": 2.1728,
         "shares": 487000.0
       },
       {
         "date": "20260505",
-        "weight": 2.11,
+        "weight": 2.1101,
         "shares": 487000.0
       }
     ],
@@ -3836,12 +3788,12 @@
       },
       {
         "date": "20260504",
-        "weight": 1.86,
+        "weight": 1.8607,
         "shares": 669000.0
       },
       {
         "date": "20260505",
-        "weight": 1.92,
+        "weight": 1.9195,
         "shares": 669000.0
       }
     ],
@@ -4304,12 +4256,12 @@
       },
       {
         "date": "20260504",
-        "weight": 4.93,
+        "weight": 4.9319,
         "shares": 537000.0
       },
       {
         "date": "20260505",
-        "weight": 4.92,
+        "weight": 4.9242,
         "shares": 537000.0
       }
     ],
@@ -4706,12 +4658,12 @@
       },
       {
         "date": "20260504",
-        "weight": 1.5,
+        "weight": 1.5014,
         "shares": 3280000.0
       },
       {
         "date": "20260505",
-        "weight": 1.63,
+        "weight": 1.631,
         "shares": 3280000.0
       }
     ],
@@ -5244,12 +5196,12 @@
       },
       {
         "date": "20260504",
-        "weight": 3.35,
+        "weight": 3.3489,
         "shares": 601000.0
       },
       {
         "date": "20260505",
-        "weight": 3.15,
+        "weight": 3.1516,
         "shares": 601000.0
       }
     ],
@@ -5646,12 +5598,12 @@
       },
       {
         "date": "20260504",
-        "weight": 4.05,
+        "weight": 4.0505,
         "shares": 2302000.0
       },
       {
         "date": "20260505",
-        "weight": 4.03,
+        "weight": 4.0299,
         "shares": 2302000.0
       }
     ],
@@ -5878,12 +5830,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.91,
+        "weight": 0.9116,
         "shares": 154000.0
       },
       {
         "date": "20260505",
-        "weight": 0.87,
+        "weight": 0.8687,
         "shares": 154000.0
       }
     ],
@@ -6280,12 +6232,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.24,
+        "weight": 2.2373,
         "shares": 923000.0
       },
       {
         "date": "20260505",
-        "weight": 2.18,
+        "weight": 2.183,
         "shares": 923000.0
       }
     ],
@@ -6682,12 +6634,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.5,
+        "weight": 0.4984,
         "shares": 486013.0
       },
       {
         "date": "20260505",
-        "weight": 0.5,
+        "weight": 0.4965,
         "shares": 486013.0
       }
     ],
@@ -7050,12 +7002,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.33,
+        "weight": 0.3347,
         "shares": 393000.0
       },
       {
         "date": "20260505",
-        "weight": 0.34,
+        "weight": 0.3413,
         "shares": 393000.0
       }
     ],
@@ -7442,12 +7394,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.35,
+        "weight": 0.347,
         "shares": 151000.0
       },
       {
         "date": "20260505",
-        "weight": 0.34,
+        "weight": 0.3425,
         "shares": 151000.0
       }
     ],
@@ -8235,12 +8187,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.02,
+        "weight": 2.0166,
         "shares": 197000.0
       },
       {
         "date": "20260505",
-        "weight": 1.83,
+        "weight": 1.8255,
         "shares": 197000.0
       }
     ],
@@ -8612,12 +8564,12 @@
       },
       {
         "date": "20260504",
-        "weight": 3.79,
+        "weight": 3.7876,
         "shares": 667000.0
       },
       {
         "date": "20260505",
-        "weight": 3.72,
+        "weight": 3.7176,
         "shares": 667000.0
       }
     ],
@@ -9014,12 +8966,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.36,
+        "weight": 0.3551,
         "shares": 142000.0
       },
       {
         "date": "20260505",
-        "weight": 0.39,
+        "weight": 0.3909,
         "shares": 142000.0
       }
     ],
@@ -9848,12 +9800,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.88,
+        "weight": 2.8831,
         "shares": 289000.0
       },
       {
         "date": "20260505",
-        "weight": 2.8,
+        "weight": 2.8013,
         "shares": 289000.0
       }
     ],
@@ -10220,12 +10172,12 @@
       },
       {
         "date": "20260504",
-        "weight": 1.36,
+        "weight": 1.3635,
         "shares": 636000.0
       },
       {
         "date": "20260505",
-        "weight": 1.5,
+        "weight": 1.5042,
         "shares": 636000.0
       }
     ],
@@ -10622,12 +10574,12 @@
       },
       {
         "date": "20260504",
-        "weight": 3.16,
+        "weight": 3.1613,
         "shares": 785000.0
       },
       {
         "date": "20260505",
-        "weight": 3.14,
+        "weight": 3.135,
         "shares": 785000.0
       }
     ],
@@ -11024,12 +10976,12 @@
       },
       {
         "date": "20260504",
-        "weight": 3.12,
+        "weight": 3.1207,
         "shares": 151000.0
       },
       {
         "date": "20260505",
-        "weight": 2.94,
+        "weight": 2.9434,
         "shares": 151000.0
       }
     ],
@@ -11426,12 +11378,12 @@
       },
       {
         "date": "20260504",
-        "weight": 1.25,
+        "weight": 1.2546,
         "shares": 703000.0
       },
       {
         "date": "20260505",
-        "weight": 1.27,
+        "weight": 1.2742,
         "shares": 703000.0
       }
     ],
@@ -11828,12 +11780,12 @@
       },
       {
         "date": "20260504",
-        "weight": 1.74,
+        "weight": 1.7353,
         "shares": 1337000.0
       },
       {
         "date": "20260505",
-        "weight": 1.85,
+        "weight": 1.8506,
         "shares": 1337000.0
       }
     ],
@@ -12215,12 +12167,12 @@
       },
       {
         "date": "20260504",
-        "weight": 4.36,
+        "weight": 4.3649,
         "shares": 465000.0
       },
       {
         "date": "20260505",
-        "weight": 4.29,
+        "weight": 4.2865,
         "shares": 465000.0
       }
     ],
@@ -13354,12 +13306,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.02,
+        "weight": 2.0159,
         "shares": 194000.0
       },
       {
         "date": "20260505",
-        "weight": 2.11,
+        "weight": 2.1061,
         "shares": 194000.0
       }
     ],
@@ -13756,12 +13708,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.11,
+        "weight": 2.1101,
         "shares": 1108000.0
       },
       {
         "date": "20260505",
-        "weight": 2.14,
+        "weight": 2.1415,
         "shares": 1108000.0
       }
     ],
@@ -14459,12 +14411,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.76,
+        "weight": 2.7603,
         "shares": 711000.0
       },
       {
         "date": "20260505",
-        "weight": 2.92,
+        "weight": 2.9152,
         "shares": 711000.0
       }
     ],
@@ -14861,12 +14813,12 @@
       },
       {
         "date": "20260504",
-        "weight": 4.06,
+        "weight": 4.0615,
         "shares": 1689000.0
       },
       {
         "date": "20260505",
-        "weight": 3.9,
+        "weight": 3.8965,
         "shares": 1689000.0
       }
     ],
@@ -15534,12 +15486,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.35,
+        "weight": 2.3527,
         "shares": 260000.0
       },
       {
         "date": "20260505",
-        "weight": 2.44,
+        "weight": 2.437,
         "shares": 260000.0
       }
     ],
@@ -15926,12 +15878,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.24,
+        "weight": 2.241,
         "shares": 273000.0
       },
       {
         "date": "20260505",
-        "weight": 2.2,
+        "weight": 2.1964,
         "shares": 273000.0
       }
     ],
@@ -16318,12 +16270,12 @@
       },
       {
         "date": "20260504",
-        "weight": 1.52,
+        "weight": 1.5249,
         "shares": 45000.0
       },
       {
         "date": "20260505",
-        "weight": 1.55,
+        "weight": 1.5519,
         "shares": 45000.0
       }
     ],
@@ -16705,12 +16657,12 @@
       },
       {
         "date": "20260504",
-        "weight": 1.39,
+        "weight": 1.3945,
         "shares": 701000.0
       },
       {
         "date": "20260505",
-        "weight": 1.33,
+        "weight": 1.3331,
         "shares": 701000.0
       }
     ],
@@ -18368,12 +18320,12 @@
       },
       {
         "date": "20260504",
-        "weight": 1.0,
+        "weight": 0.9978,
         "shares": 180000.0
       },
       {
         "date": "20260505",
-        "weight": 1.1,
+        "weight": 1.1009,
         "shares": 180000.0
       }
     ],
@@ -18635,12 +18587,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.36,
+        "weight": 2.3592,
         "shares": 468000.0
       },
       {
         "date": "20260505",
-        "weight": 2.26,
+        "weight": 2.2591,
         "shares": 468000.0
       }
     ],
@@ -18862,12 +18814,12 @@
       },
       {
         "date": "20260504",
-        "weight": 1.99,
+        "weight": 1.9934,
         "shares": 388000.0
       },
       {
         "date": "20260505",
-        "weight": 2.0,
+        "weight": 1.997,
         "shares": 388000.0
       }
     ],
@@ -19024,12 +18976,12 @@
       },
       {
         "date": "20260504",
-        "weight": 3.47,
+        "weight": 3.4745,
         "shares": 3433000.0
       },
       {
         "date": "20260505",
-        "weight": 3.69,
+        "weight": 3.6937,
         "shares": 3433000.0
       }
     ],
@@ -19166,12 +19118,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.9,
+        "weight": 0.9048,
         "shares": 692000.0
       },
       {
         "date": "20260505",
-        "weight": 1.0,
+        "weight": 0.9981,
         "shares": 692000.0
       }
     ],
@@ -19298,12 +19250,12 @@
       },
       {
         "date": "20260504",
-        "weight": 3.08,
+        "weight": 3.081,
         "shares": 422000.0
       },
       {
         "date": "20260505",
-        "weight": 2.99,
+        "weight": 2.9943,
         "shares": 422000.0
       }
     ],
@@ -19405,12 +19357,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.38,
+        "weight": 0.3792,
         "shares": 1271000.0
       },
       {
         "date": "20260505",
-        "weight": 0.4,
+        "weight": 0.3954,
         "shares": 1271000.0
       }
     ],
@@ -19512,12 +19464,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.48,
+        "weight": 0.4785,
         "shares": 1177000.0
       },
       {
         "date": "20260505",
-        "weight": 0.48,
+        "weight": 0.4768,
         "shares": 1177000.0
       }
     ],
@@ -19619,12 +19571,12 @@
       },
       {
         "date": "20260504",
-        "weight": 2.01,
+        "weight": 2.0147,
         "shares": 380000.0
       },
       {
         "date": "20260505",
-        "weight": 2.07,
+        "weight": 2.0737,
         "shares": 380000.0
       }
     ],
@@ -19726,12 +19678,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.32,
+        "weight": 0.3194,
         "shares": 97000.0
       },
       {
         "date": "20260505",
-        "weight": 0.32,
+        "weight": 0.3187,
         "shares": 97000.0
       }
     ],
@@ -19833,12 +19785,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.32,
+        "weight": 0.3244,
         "shares": 320000.0
       },
       {
         "date": "20260505",
-        "weight": 0.32,
+        "weight": 0.3225,
         "shares": 320000.0
       }
     ],
@@ -19905,12 +19857,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.89,
+        "weight": 0.8901,
         "shares": 2589000.0
       },
       {
         "date": "20260505",
-        "weight": 0.33,
+        "weight": 0.3337,
         "shares": 970000.0
       }
     ],
@@ -19932,12 +19884,12 @@
       },
       {
         "date": "20260504",
-        "weight": 1.32,
+        "weight": 1.3213,
         "shares": 1927000.0
       },
       {
         "date": "20260505",
-        "weight": 1.44,
+        "weight": 1.4438,
         "shares": 1927000.0
       }
     ],
@@ -19954,12 +19906,12 @@
       },
       {
         "date": "20260504",
-        "weight": 0.05,
+        "weight": 0.0505,
         "shares": 33000.0
       },
       {
         "date": "20260505",
-        "weight": 0.05,
+        "weight": 0.0507,
         "shares": 33000.0
       }
     ]
@@ -20102,38 +20054,28 @@
   },
   "is_new": {},
   "daily_shares": {
-    "latest_date": "20260430",
-    "prev_date": "20260429",
+    "latest_date": "20260505",
+    "prev_date": "20260504",
     "top_adds": [],
-    "top_reductions": [],
-    "new_positions": [],
-    "exits": [
+    "top_reductions": [
       {
-        "code": "8021",
-        "name": "尖點",
-        "prev_shares": 334000.0,
-        "prev_weight": 0.26,
-        "ntd": -133433000
-      },
-      {
-        "code": "2486",
-        "name": "一詮",
-        "prev_shares": 567000.0,
-        "prev_weight": 0.29,
-        "ntd": -130693500
-      },
-      {
-        "code": "3529",
-        "name": "力旺",
-        "prev_shares": 4000.0,
-        "prev_weight": 0.03,
-        "ntd": -15940000
+        "code": "6271",
+        "name": "同欣電",
+        "shares": 970000.0,
+        "prev_shares": 2589000.0,
+        "delta": -1619000.0,
+        "pct": -62.53,
+        "weight": 0.33,
+        "prev_weight": 0.89,
+        "ntd": -284134500
       }
     ],
+    "new_positions": [],
+    "exits": [],
     "n_adds_total": 0,
-    "n_reductions_total": 0,
+    "n_reductions_total": 1,
     "n_new_total": 0,
-    "n_exits_total": 3,
+    "n_exits_total": 0,
     "n_holdings": 48,
     "shares_pct_threshold": 3.0,
     "weight_floor_pp": 0.0
@@ -20156,12 +20098,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 258000.0,
-      "latest_date": "20260430",
-      "latest_price": 3910.0,
-      "mv_now": 1008780000.0,
-      "cost_basis": 966660000.0,
-      "pnl": 61790000.0,
-      "pnl_pct": 6.39,
+      "latest_date": "20260505",
+      "latest_price": 4140.0,
+      "mv_now": 1068120000.0,
+      "cost_basis": 970620000.0,
+      "pnl": 117170000.0,
+      "pnl_pct": 12.07,
       "missing_price_days": 0,
       "total_delta_days": 20
     },
@@ -20169,12 +20111,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 357000.0,
-      "latest_date": "20260430",
+      "latest_date": "20260505",
       "latest_price": 2165.0,
       "mv_now": 772905000.0,
-      "cost_basis": 936371000.0,
-      "pnl": 391399000.0,
-      "pnl_pct": 41.8,
+      "cost_basis": 959371000.0,
+      "pnl": 368399000.0,
+      "pnl_pct": 38.4,
       "missing_price_days": 0,
       "total_delta_days": 20
     },
@@ -20195,12 +20137,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 1761000.0,
-      "latest_date": "20260430",
-      "latest_price": 2135.0,
-      "mv_now": 3759735000.0,
-      "cost_basis": 3347955000.0,
-      "pnl": 433930000.0,
-      "pnl_pct": 12.96,
+      "latest_date": "20260505",
+      "latest_price": 2250.0,
+      "mv_now": 3962250000.0,
+      "cost_basis": 3352230000.0,
+      "pnl": 632170000.0,
+      "pnl_pct": 18.86,
       "missing_price_days": 0,
       "total_delta_days": 16
     },
@@ -20208,12 +20150,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 893000.0,
-      "latest_date": "20260430",
-      "latest_price": 89.8,
-      "mv_now": 80191400.0,
-      "cost_basis": 132832300.0,
-      "pnl": 23309100.0,
-      "pnl_pct": 17.55,
+      "latest_date": "20260505",
+      "latest_price": 98.8,
+      "mv_now": 88228400.0,
+      "cost_basis": 133469500.0,
+      "pnl": 30708900.0,
+      "pnl_pct": 23.01,
       "missing_price_days": 0,
       "total_delta_days": 14
     },
@@ -20221,12 +20163,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 716000.0,
-      "latest_date": "20260430",
-      "latest_price": 2280.0,
-      "mv_now": 1632480000.0,
-      "cost_basis": 1084580000.0,
-      "pnl": 605775000.0,
-      "pnl_pct": 55.85,
+      "latest_date": "20260505",
+      "latest_price": 2495.0,
+      "mv_now": 1786420000.0,
+      "cost_basis": 1102155000.0,
+      "pnl": 742140000.0,
+      "pnl_pct": 67.34,
       "missing_price_days": 0,
       "total_delta_days": 20
     },
@@ -20234,12 +20176,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 487000.0,
-      "latest_date": "20260430",
-      "latest_price": 2120.0,
-      "mv_now": 1032440000.0,
-      "cost_basis": 572209000.0,
-      "pnl": 460231000.0,
-      "pnl_pct": 80.43,
+      "latest_date": "20260505",
+      "latest_price": 2235.0,
+      "mv_now": 1088445000.0,
+      "cost_basis": 570434000.0,
+      "pnl": 518011000.0,
+      "pnl_pct": 90.81,
       "missing_price_days": 0,
       "total_delta_days": 12
     },
@@ -20247,12 +20189,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 669000.0,
-      "latest_date": "20260430",
-      "latest_price": 1390.0,
-      "mv_now": 929910000.0,
-      "cost_basis": 907224000.0,
-      "pnl": 164472000.0,
-      "pnl_pct": 18.13,
+      "latest_date": "20260505",
+      "latest_price": 1480.0,
+      "mv_now": 990120000.0,
+      "cost_basis": 907884000.0,
+      "pnl": 224022000.0,
+      "pnl_pct": 24.68,
       "missing_price_days": 0,
       "total_delta_days": 17
     },
@@ -20273,12 +20215,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 537000.0,
-      "latest_date": "20260430",
-      "latest_price": 4545.0,
-      "mv_now": 2440665000.0,
-      "cost_basis": 1770300000.0,
-      "pnl": 972690000.0,
-      "pnl_pct": 54.94,
+      "latest_date": "20260505",
+      "latest_price": 4730.0,
+      "mv_now": 2540010000.0,
+      "cost_basis": 1776500000.0,
+      "pnl": 1065835000.0,
+      "pnl_pct": 60.0,
       "missing_price_days": 0,
       "total_delta_days": 23
     },
@@ -20286,12 +20228,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 3280000.0,
-      "latest_date": "20260430",
-      "latest_price": 215.5,
-      "mv_now": 706840000.0,
-      "cost_basis": 998961500.0,
-      "pnl": -76529000.0,
-      "pnl_pct": -7.66,
+      "latest_date": "20260505",
+      "latest_price": 256.5,
+      "mv_now": 841320000.0,
+      "cost_basis": 1004629500.0,
+      "pnl": 52283000.0,
+      "pnl_pct": 5.2,
       "missing_price_days": 0,
       "total_delta_days": 21
     },
@@ -20312,38 +20254,38 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 601000.0,
-      "latest_date": "20260430",
-      "latest_price": 2835.0,
-      "mv_now": 1703835000.0,
-      "cost_basis": 1256120000.0,
-      "pnl": 516415000.0,
-      "pnl_pct": 41.11,
+      "latest_date": "20260505",
+      "latest_price": 2705.0,
+      "mv_now": 1625705000.0,
+      "cost_basis": 1261370000.0,
+      "pnl": 433035000.0,
+      "pnl_pct": 34.33,
       "missing_price_days": 0,
       "total_delta_days": 19
     },
     "3037": {
       "has_prices": true,
       "is_exited": false,
-      "shares_latest": 2303000.0,
-      "latest_date": "20260430",
-      "latest_price": 883.0,
-      "mv_now": 2033549000.0,
-      "cost_basis": 1134228500.0,
-      "pnl": 923443500.0,
-      "pnl_pct": 81.42,
+      "shares_latest": 2302000.0,
+      "latest_date": "20260505",
+      "latest_price": 903.0,
+      "mv_now": 2078706000.0,
+      "cost_basis": 1144180500.0,
+      "pnl": 959559500.0,
+      "pnl_pct": 83.86,
       "missing_price_days": 0,
-      "total_delta_days": 20
+      "total_delta_days": 21
     },
     "3131": {
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 154000.0,
-      "latest_date": "20260430",
-      "latest_price": 2950.0,
-      "mv_now": 454300000.0,
+      "latest_date": "20260505",
+      "latest_price": 2910.0,
+      "mv_now": 448140000.0,
       "cost_basis": 447460000.0,
-      "pnl": 182625000.0,
-      "pnl_pct": 40.81,
+      "pnl": 176465000.0,
+      "pnl_pct": 39.44,
       "missing_price_days": 0,
       "total_delta_days": 14
     },
@@ -20351,12 +20293,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 923000.0,
-      "latest_date": "20260430",
-      "latest_price": 1145.0,
-      "mv_now": 1056835000.0,
+      "latest_date": "20260505",
+      "latest_price": 1220.0,
+      "mv_now": 1126060000.0,
       "cost_basis": 611010000.0,
-      "pnl": 453746500.0,
-      "pnl_pct": 74.26,
+      "pnl": 522971500.0,
+      "pnl_pct": 85.59,
       "missing_price_days": 0,
       "total_delta_days": 15
     },
@@ -20364,12 +20306,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 486013.0,
-      "latest_date": "20260430",
-      "latest_price": 528.0,
-      "mv_now": 256614864.0,
+      "latest_date": "20260505",
+      "latest_price": 527.0,
+      "mv_now": 256128851.0,
       "cost_basis": 145202438.0,
-      "pnl": 121756926.0,
-      "pnl_pct": 83.85,
+      "pnl": 121270912.0,
+      "pnl_pct": 83.52,
       "missing_price_days": 0,
       "total_delta_days": 16
     },
@@ -20390,12 +20332,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 393000.0,
-      "latest_date": "20260430",
-      "latest_price": 436.0,
-      "mv_now": 171348000.0,
+      "latest_date": "20260505",
+      "latest_price": 448.0,
+      "mv_now": 176064000.0,
       "cost_basis": 271332000.0,
-      "pnl": 118598500.0,
-      "pnl_pct": 43.71,
+      "pnl": 123314500.0,
+      "pnl_pct": 45.45,
       "missing_price_days": 0,
       "total_delta_days": 12
     },
@@ -20403,12 +20345,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 151000.0,
-      "latest_date": "20260430",
-      "latest_price": 1140.0,
-      "mv_now": 172140000.0,
+      "latest_date": "20260505",
+      "latest_price": 1170.0,
+      "mv_now": 176670000.0,
       "cost_basis": 519664000.0,
-      "pnl": 19166000.0,
-      "pnl_pct": 3.69,
+      "pnl": 23696000.0,
+      "pnl_pct": 4.56,
       "missing_price_days": 0,
       "total_delta_days": 19
     },
@@ -20429,12 +20371,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 197000.0,
-      "latest_date": "20260430",
-      "latest_price": 5380.0,
-      "mv_now": 1059860000.0,
-      "cost_basis": 852500000.0,
-      "pnl": 207360000.0,
-      "pnl_pct": 24.32,
+      "latest_date": "20260505",
+      "latest_price": 4780.0,
+      "mv_now": 941660000.0,
+      "cost_basis": 881200000.0,
+      "pnl": 60460000.0,
+      "pnl_pct": 6.86,
       "missing_price_days": 0,
       "total_delta_days": 13
     },
@@ -20442,12 +20384,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 667000.0,
-      "latest_date": "20260430",
-      "latest_price": 2770.0,
-      "mv_now": 1847590000.0,
-      "cost_basis": 1951710000.0,
-      "pnl": 343725000.0,
-      "pnl_pct": 17.61,
+      "latest_date": "20260505",
+      "latest_price": 2875.0,
+      "mv_now": 1917625000.0,
+      "cost_basis": 1947510000.0,
+      "pnl": 417960000.0,
+      "pnl_pct": 21.46,
       "missing_price_days": 0,
       "total_delta_days": 18
     },
@@ -20455,12 +20397,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 142000.0,
-      "latest_date": "20260430",
-      "latest_price": 1245.0,
-      "mv_now": 176790000.0,
+      "latest_date": "20260505",
+      "latest_price": 1420.0,
+      "mv_now": 201640000.0,
       "cost_basis": 159480000.0,
-      "pnl": 100068000.0,
-      "pnl_pct": 62.75,
+      "pnl": 124918000.0,
+      "pnl_pct": 78.33,
       "missing_price_days": 0,
       "total_delta_days": 15
     },
@@ -20494,12 +20436,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 289000.0,
-      "latest_date": "20260430",
-      "latest_price": 4925.0,
-      "mv_now": 1423325000.0,
+      "latest_date": "20260505",
+      "latest_price": 5000.0,
+      "mv_now": 1445000000.0,
       "cost_basis": 945955000.0,
-      "pnl": 486605000.0,
-      "pnl_pct": 51.44,
+      "pnl": 508280000.0,
+      "pnl_pct": 53.73,
       "missing_price_days": 0,
       "total_delta_days": 17
     },
@@ -20507,12 +20449,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 636000.0,
-      "latest_date": "20260430",
-      "latest_price": 1010.0,
-      "mv_now": 642360000.0,
+      "latest_date": "20260505",
+      "latest_price": 1220.0,
+      "mv_now": 775920000.0,
       "cost_basis": 799277000.0,
-      "pnl": 119489500.0,
-      "pnl_pct": 14.95,
+      "pnl": 253049500.0,
+      "pnl_pct": 31.66,
       "missing_price_days": 0,
       "total_delta_days": 18
     },
@@ -20520,12 +20462,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 785000.0,
-      "latest_date": "20260430",
-      "latest_price": 2110.0,
-      "mv_now": 1656350000.0,
-      "cost_basis": 1619840000.0,
-      "pnl": 36510000.0,
-      "pnl_pct": 2.25,
+      "latest_date": "20260505",
+      "latest_price": 2060.0,
+      "mv_now": 1617100000.0,
+      "cost_basis": 1612670000.0,
+      "pnl": 4430000.0,
+      "pnl_pct": 0.27,
       "missing_price_days": 0,
       "total_delta_days": 12
     },
@@ -20533,12 +20475,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 151000.0,
-      "latest_date": "20260430",
-      "latest_price": 10385.0,
-      "mv_now": 1568135000.0,
-      "cost_basis": 790020000.0,
-      "pnl": 786650000.0,
-      "pnl_pct": 99.57,
+      "latest_date": "20260505",
+      "latest_price": 10055.0,
+      "mv_now": 1518305000.0,
+      "cost_basis": 788340000.0,
+      "pnl": 738500000.0,
+      "pnl_pct": 93.68,
       "missing_price_days": 0,
       "total_delta_days": 17
     },
@@ -20546,12 +20488,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 703000.0,
-      "latest_date": "20260430",
-      "latest_price": 840.0,
-      "mv_now": 590520000.0,
-      "cost_basis": 390070000.0,
-      "pnl": 200450000.0,
-      "pnl_pct": 51.39,
+      "latest_date": "20260505",
+      "latest_price": 935.0,
+      "mv_now": 657305000.0,
+      "cost_basis": 393718000.0,
+      "pnl": 263587000.0,
+      "pnl_pct": 66.95,
       "missing_price_days": 0,
       "total_delta_days": 12
     },
@@ -20559,12 +20501,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 1337000.0,
-      "latest_date": "20260430",
-      "latest_price": 678.0,
-      "mv_now": 906486000.0,
+      "latest_date": "20260505",
+      "latest_price": 714.0,
+      "mv_now": 954618000.0,
       "cost_basis": 1021043500.0,
-      "pnl": 38082500.0,
-      "pnl_pct": 3.73,
+      "pnl": 86214500.0,
+      "pnl_pct": 8.44,
       "missing_price_days": 0,
       "total_delta_days": 16
     },
@@ -20572,12 +20514,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 465000.0,
-      "latest_date": "20260430",
-      "latest_price": 4675.0,
-      "mv_now": 2173875000.0,
-      "cost_basis": 1959015000.0,
-      "pnl": 344075000.0,
-      "pnl_pct": 17.56,
+      "latest_date": "20260505",
+      "latest_price": 4755.0,
+      "mv_now": 2211075000.0,
+      "cost_basis": 2007015000.0,
+      "pnl": 333275000.0,
+      "pnl_pct": 16.61,
       "missing_price_days": 0,
       "total_delta_days": 18
     },
@@ -20601,9 +20543,9 @@
       "latest_date": "20260429",
       "latest_price": 2070.0,
       "mv_now": 0.0,
-      "cost_basis": 693380000.0,
-      "pnl": 41690000.0,
-      "pnl_pct": 6.01,
+      "cost_basis": 694220000.0,
+      "pnl": 40850000.0,
+      "pnl_pct": 5.88,
       "missing_price_days": 0,
       "total_delta_days": 20
     },
@@ -20611,12 +20553,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 194000.0,
-      "latest_date": "20260430",
-      "latest_price": 4945.0,
-      "mv_now": 959330000.0,
-      "cost_basis": 746615000.0,
-      "pnl": 216245000.0,
-      "pnl_pct": 28.96,
+      "latest_date": "20260505",
+      "latest_price": 5600.0,
+      "mv_now": 1086400000.0,
+      "cost_basis": 747175000.0,
+      "pnl": 342755000.0,
+      "pnl_pct": 45.87,
       "missing_price_days": 0,
       "total_delta_days": 17
     },
@@ -20624,12 +20566,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 1108000.0,
-      "latest_date": "20260430",
-      "latest_price": 1005.0,
-      "mv_now": 1113540000.0,
-      "cost_basis": 619689000.0,
-      "pnl": 493851000.0,
-      "pnl_pct": 79.69,
+      "latest_date": "20260505",
+      "latest_price": 997.0,
+      "mv_now": 1104676000.0,
+      "cost_basis": 618534000.0,
+      "pnl": 486142000.0,
+      "pnl_pct": 78.6,
       "missing_price_days": 0,
       "total_delta_days": 14
     },
@@ -20650,12 +20592,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 711000.0,
-      "latest_date": "20260430",
-      "latest_price": 1900.0,
-      "mv_now": 1350900000.0,
+      "latest_date": "20260505",
+      "latest_price": 2115.0,
+      "mv_now": 1503765000.0,
       "cost_basis": 1271935000.0,
-      "pnl": 204990000.0,
-      "pnl_pct": 16.12,
+      "pnl": 357855000.0,
+      "pnl_pct": 28.13,
       "missing_price_days": 0,
       "total_delta_days": 17
     },
@@ -20663,12 +20605,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 1689000.0,
-      "latest_date": "20260430",
-      "latest_price": 1250.0,
-      "mv_now": 2111250000.0,
-      "cost_basis": 1669203000.0,
-      "pnl": 444767000.0,
-      "pnl_pct": 26.65,
+      "latest_date": "20260505",
+      "latest_price": 1190.0,
+      "mv_now": 2009910000.0,
+      "cost_basis": 1671888000.0,
+      "pnl": 340742000.0,
+      "pnl_pct": 20.38,
       "missing_price_days": 0,
       "total_delta_days": 17
     },
@@ -20699,38 +20641,38 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 260000.0,
-      "latest_date": "20260430",
-      "latest_price": 4260.0,
-      "mv_now": 1107600000.0,
-      "cost_basis": 827415000.0,
-      "pnl": 285115000.0,
-      "pnl_pct": 34.46,
+      "latest_date": "20260505",
+      "latest_price": 4835.0,
+      "mv_now": 1257100000.0,
+      "cost_basis": 834235000.0,
+      "pnl": 427795000.0,
+      "pnl_pct": 51.28,
       "missing_price_days": 0,
       "total_delta_days": 10
     },
     "3661": {
       "has_prices": true,
       "is_exited": false,
-      "shares_latest": 173000.0,
-      "latest_date": "20260430",
-      "latest_price": 4135.0,
-      "mv_now": 715355000.0,
-      "cost_basis": 716820000.0,
-      "pnl": 91905000.0,
-      "pnl_pct": 12.82,
+      "shares_latest": 273000.0,
+      "latest_date": "20260505",
+      "latest_price": 4150.0,
+      "mv_now": 1132950000.0,
+      "cost_basis": 1179260000.0,
+      "pnl": 47060000.0,
+      "pnl_pct": 3.99,
       "missing_price_days": 0,
-      "total_delta_days": 13
+      "total_delta_days": 14
     },
     "5274": {
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 45000.0,
-      "latest_date": "20260430",
-      "latest_price": 16475.0,
-      "mv_now": 741375000.0,
+      "latest_date": "20260505",
+      "latest_price": 17790.0,
+      "mv_now": 800550000.0,
       "cost_basis": 469740000.0,
-      "pnl": 271635000.0,
-      "pnl_pct": 57.83,
+      "pnl": 330810000.0,
+      "pnl_pct": 70.42,
       "missing_price_days": 0,
       "total_delta_days": 11
     },
@@ -20738,12 +20680,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 701000.0,
-      "latest_date": "20260430",
-      "latest_price": 1005.0,
-      "mv_now": 704505000.0,
+      "latest_date": "20260505",
+      "latest_price": 981.0,
+      "mv_now": 687681000.0,
       "cost_basis": 636523000.0,
-      "pnl": 67982000.0,
-      "pnl_pct": 10.68,
+      "pnl": 51158000.0,
+      "pnl_pct": 8.04,
       "missing_price_days": 0,
       "total_delta_days": 14
     },
@@ -20767,9 +20709,9 @@
       "latest_date": "20260430",
       "latest_price": 402.5,
       "mv_now": 0.0,
-      "cost_basis": 160431320.0,
-      "pnl": 114914220.0,
-      "pnl_pct": 71.63,
+      "cost_basis": 159079320.0,
+      "pnl": 116266220.0,
+      "pnl_pct": 73.09,
       "missing_price_days": 0,
       "total_delta_days": 16
     },
@@ -20864,9 +20806,9 @@
       "latest_date": "20260430",
       "latest_price": 270.5,
       "mv_now": 0.0,
-      "cost_basis": 218866500.0,
-      "pnl": 142557000.0,
-      "pnl_pct": 65.13,
+      "cost_basis": 220290000.0,
+      "pnl": 141133500.0,
+      "pnl_pct": 64.07,
       "missing_price_days": 0,
       "total_delta_days": 13
     },
@@ -20879,12 +20821,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 180000.0,
-      "latest_date": "20260430",
-      "latest_price": 2610.0,
-      "mv_now": 469800000.0,
+      "latest_date": "20260505",
+      "latest_price": 3155.0,
+      "mv_now": 567900000.0,
       "cost_basis": 516570000.0,
-      "pnl": 116175000.0,
-      "pnl_pct": 22.49,
+      "pnl": 214275000.0,
+      "pnl_pct": 41.48,
       "missing_price_days": 0,
       "total_delta_days": 5
     },
@@ -20902,12 +20844,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 468000.0,
-      "latest_date": "20260430",
-      "latest_price": 2615.0,
-      "mv_now": 1223820000.0,
-      "cost_basis": 924750000.0,
-      "pnl": 299070000.0,
-      "pnl_pct": 32.34,
+      "latest_date": "20260505",
+      "latest_price": 2490.0,
+      "mv_now": 1165320000.0,
+      "cost_basis": 925420000.0,
+      "pnl": 239900000.0,
+      "pnl_pct": 25.92,
       "missing_price_days": 0,
       "total_delta_days": 13
     },
@@ -20930,12 +20872,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 388000.0,
-      "latest_date": "20260430",
-      "latest_price": 2420.0,
-      "mv_now": 938960000.0,
+      "latest_date": "20260505",
+      "latest_price": 2655.0,
+      "mv_now": 1030140000.0,
       "cost_basis": 582765000.0,
-      "pnl": 356195000.0,
-      "pnl_pct": 61.12,
+      "pnl": 447375000.0,
+      "pnl_pct": 76.77,
       "missing_price_days": 0,
       "total_delta_days": 12
     },
@@ -20943,12 +20885,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 3433000.0,
-      "latest_date": "20260430",
-      "latest_price": 536.0,
-      "mv_now": 1840088000.0,
+      "latest_date": "20260505",
+      "latest_price": 555.0,
+      "mv_now": 1905315000.0,
       "cost_basis": 1559314000.0,
-      "pnl": 280774000.0,
-      "pnl_pct": 18.01,
+      "pnl": 346001000.0,
+      "pnl_pct": 22.19,
       "missing_price_days": 0,
       "total_delta_days": 9
     },
@@ -20956,12 +20898,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 692000.0,
-      "latest_date": "20260430",
-      "latest_price": 676.0,
-      "mv_now": 467792000.0,
+      "latest_date": "20260505",
+      "latest_price": 744.0,
+      "mv_now": 514848000.0,
       "cost_basis": 329832000.0,
-      "pnl": 137960000.0,
-      "pnl_pct": 41.83,
+      "pnl": 185016000.0,
+      "pnl_pct": 56.09,
       "missing_price_days": 0,
       "total_delta_days": 8
     },
@@ -20974,12 +20916,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 422000.0,
-      "latest_date": "20260430",
-      "latest_price": 3440.0,
-      "mv_now": 1451680000.0,
+      "latest_date": "20260505",
+      "latest_price": 3660.0,
+      "mv_now": 1544520000.0,
       "cost_basis": 1567570000.0,
-      "pnl": -115890000.0,
-      "pnl_pct": -7.39,
+      "pnl": -23050000.0,
+      "pnl_pct": -1.47,
       "missing_price_days": 0,
       "total_delta_days": 10
     },
@@ -20987,12 +20929,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 1271000.0,
-      "latest_date": "20260430",
-      "latest_price": 154.0,
-      "mv_now": 195734000.0,
+      "latest_date": "20260505",
+      "latest_price": 160.5,
+      "mv_now": 203995500.0,
       "cost_basis": 163053000.0,
-      "pnl": 32681000.0,
-      "pnl_pct": 20.04,
+      "pnl": 40942500.0,
+      "pnl_pct": 25.11,
       "missing_price_days": 0,
       "total_delta_days": 6
     },
@@ -21000,12 +20942,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 1177000.0,
-      "latest_date": "20260430",
-      "latest_price": 204.0,
-      "mv_now": 240108000.0,
-      "cost_basis": 262534000.0,
-      "pnl": -22426000.0,
-      "pnl_pct": -8.54,
+      "latest_date": "20260505",
+      "latest_price": 209.0,
+      "mv_now": 245993000.0,
+      "cost_basis": 262619500.0,
+      "pnl": -16626500.0,
+      "pnl_pct": -6.33,
       "missing_price_days": 0,
       "total_delta_days": 7
     },
@@ -21013,12 +20955,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 380000.0,
-      "latest_date": "20260430",
-      "latest_price": 2640.0,
-      "mv_now": 1003200000.0,
+      "latest_date": "20260505",
+      "latest_price": 2815.0,
+      "mv_now": 1069700000.0,
       "cost_basis": 915910000.0,
-      "pnl": 87290000.0,
-      "pnl_pct": 9.53,
+      "pnl": 153790000.0,
+      "pnl_pct": 16.79,
       "missing_price_days": 0,
       "total_delta_days": 5
     },
@@ -21026,12 +20968,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 97000.0,
-      "latest_date": "20260430",
-      "latest_price": 1550.0,
-      "mv_now": 150350000.0,
+      "latest_date": "20260505",
+      "latest_price": 1695.0,
+      "mv_now": 164415000.0,
       "cost_basis": 151510000.0,
-      "pnl": -1160000.0,
-      "pnl_pct": -0.77,
+      "pnl": 12905000.0,
+      "pnl_pct": 8.52,
       "missing_price_days": 0,
       "total_delta_days": 6
     },
@@ -21039,12 +20981,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 320000.0,
-      "latest_date": "20260430",
-      "latest_price": 478.0,
-      "mv_now": 152960000.0,
-      "cost_basis": 123256500.0,
-      "pnl": 29703500.0,
-      "pnl_pct": 24.1,
+      "latest_date": "20260505",
+      "latest_price": 520.0,
+      "mv_now": 166400000.0,
+      "cost_basis": 123718500.0,
+      "pnl": 42681500.0,
+      "pnl_pct": 34.5,
       "missing_price_days": 0,
       "total_delta_days": 7
     },
@@ -21081,39 +21023,39 @@
     "6271": {
       "has_prices": true,
       "is_exited": false,
-      "shares_latest": 2589000.0,
-      "latest_date": "20260430",
-      "latest_price": 173.0,
-      "mv_now": 447897000.0,
-      "cost_basis": 471522000.0,
-      "pnl": -23625000.0,
-      "pnl_pct": -5.01,
+      "shares_latest": 970000.0,
+      "latest_date": "20260505",
+      "latest_price": 177.5,
+      "mv_now": 172175000.0,
+      "cost_basis": 472100000.0,
+      "pnl": -12552500.0,
+      "pnl_pct": -2.66,
       "missing_price_days": 0,
-      "total_delta_days": 4
+      "total_delta_days": 5
     },
     "2455": {
       "has_prices": true,
       "is_exited": false,
-      "shares_latest": 427000.0,
-      "latest_date": "20260430",
-      "latest_price": 347.5,
-      "mv_now": 148382500.0,
-      "cost_basis": 135786000.0,
-      "pnl": 12596500.0,
-      "pnl_pct": 9.28,
+      "shares_latest": 1927000.0,
+      "latest_date": "20260505",
+      "latest_price": 386.5,
+      "mv_now": 744785500.0,
+      "cost_basis": 668286000.0,
+      "pnl": 76499500.0,
+      "pnl_pct": 11.45,
       "missing_price_days": 0,
-      "total_delta_days": 1
+      "total_delta_days": 2
     },
     "3583": {
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 33000.0,
-      "latest_date": "20260430",
-      "latest_price": 792.0,
-      "mv_now": 26136000.0,
+      "latest_date": "20260505",
+      "latest_price": 794.0,
+      "mv_now": 26202000.0,
       "cost_basis": 25476000.0,
-      "pnl": 660000.0,
-      "pnl_pct": 2.59,
+      "pnl": 726000.0,
+      "pnl_pct": 2.85,
       "missing_price_days": 0,
       "total_delta_days": 1
     }
@@ -21196,7 +21138,9 @@
     "20260427",
     "20260428",
     "20260429",
-    "20260430"
+    "20260430",
+    "20260504",
+    "20260505"
   ],
   "pnl_curves": {
     "1519": [
@@ -21242,7 +21186,7 @@
       57641000,
       52541000,
       41321000,
-      41321000,
+      49685000,
       53765000,
       51725000,
       51521000,
@@ -21257,6 +21201,8 @@
       45931000,
       39928000,
       33387000,
+      23470000,
+      23470000,
       23470000,
       23470000,
       23470000,
@@ -21322,7 +21268,7 @@
       -51210000,
       -66620000,
       -94090000,
-      -94090000,
+      -86050000,
       -46520000,
       -55230000,
       -45180000,
@@ -21350,14 +21296,16 @@
       -41975000,
       -2780000,
       19060000,
-      19060000,
-      67890000,
-      -22060000,
-      32120000,
-      74690000,
-      79850000,
-      126290000,
-      61790000
+      43370000,
+      63930000,
+      -26020000,
+      28160000,
+      70730000,
+      75890000,
+      122330000,
+      57830000,
+      95240000,
+      117170000
     ],
     "2308": [
       0,
@@ -21402,7 +21350,7 @@
       185969000,
       178409000,
       128009000,
-      128009000,
+      163289000,
       218729000,
       203609000,
       211169000,
@@ -21430,14 +21378,16 @@
       288764000,
       288054000,
       296874000,
-      296874000,
-      337814000,
-      325354000,
-      359269000,
-      339634000,
-      377119000,
-      391399000,
-      391399000
+      314814000,
+      314814000,
+      302354000,
+      336269000,
+      316634000,
+      354119000,
+      368399000,
+      368399000,
+      388034000,
+      368399000
     ],
     "2317": [
       0,
@@ -21482,7 +21432,7 @@
       -2096000,
       -2421000,
       -6483500,
-      -6483500,
+      -6808500,
       -3721000,
       -5183500,
       -5183500,
@@ -21499,6 +21449,8 @@
       -12097500,
       -14366000,
       -11050500,
+      -12446500,
+      -12446500,
       -12446500,
       -12446500,
       -12446500,
@@ -21562,7 +21514,7 @@
       207510000,
       201950000,
       157470000,
-      157470000,
+      179710000,
       229750000,
       199170000,
       188050000,
@@ -21590,14 +21542,16 @@
       383165000,
       330970000,
       326050000,
-      326050000,
-      358675000,
-      397825000,
-      535480000,
-      640360000,
-      574810000,
-      513175000,
-      433930000
+      354400000,
+      354400000,
+      393550000,
+      531205000,
+      636085000,
+      570535000,
+      508900000,
+      429655000,
+      676195000,
+      632170000
     ],
     "2344": [
       0,
@@ -21642,7 +21596,7 @@
       34642900,
       32558400,
       30473900,
-      30473900,
+      32179400,
       35400900,
       33505900,
       33505900,
@@ -21670,14 +21624,16 @@
       22433000,
       21176600,
       19656200,
-      19656200,
-      24012300,
-      21523100,
-      21880300,
-      26970400,
-      28399200,
-      25898800,
-      23309100
+      23819600,
+      23375100,
+      20885900,
+      21243100,
+      26333200,
+      27762000,
+      25261600,
+      22671900,
+      27672700,
+      30708900
     ],
     "2345": [
       0,
@@ -21722,7 +21678,7 @@
       101010000,
       122970000,
       81490000,
-      81490000,
+      108330000,
       132730000,
       142490000,
       101010000,
@@ -21750,14 +21706,16 @@
       427265000,
       446865000,
       409100000,
-      409100000,
-      548135000,
-      462575000,
-      505535000,
-      530595000,
-      616515000,
-      555655000,
-      605775000
+      523430000,
+      530560000,
+      445000000,
+      487960000,
+      513020000,
+      598940000,
+      538080000,
+      588200000,
+      749300000,
+      742140000
     ],
     "2360": [
       0,
@@ -21802,7 +21760,7 @@
       193956000,
       184566000,
       142311000,
-      142311000,
+      179871000,
       222126000,
       222126000,
       233081000,
@@ -21830,14 +21788,16 @@
       425921000,
       505666000,
       425921000,
-      425921000,
-      416221000,
-      372571000,
-      362831000,
-      365266000,
-      433446000,
-      428576000,
-      460231000
+      415571000,
+      417996000,
+      374346000,
+      364606000,
+      367041000,
+      435221000,
+      430351000,
+      462006000,
+      554536000,
+      518011000
     ],
     "2368": [
       0,
@@ -21882,7 +21842,7 @@
       -2566000,
       794000,
       -1066000,
-      -1066000,
+      2294000,
       7154000,
       7934000,
       9374000,
@@ -21910,14 +21870,16 @@
       52837000,
       55227000,
       63907000,
-      63907000,
-      76227000,
-      80847000,
-      164472000,
-      184542000,
-      164472000,
-      144402000,
-      164472000
+      67867000,
+      75567000,
+      80187000,
+      163812000,
+      183882000,
+      163812000,
+      143742000,
+      163812000,
+      197262000,
+      224022000
     ],
     "2382": [
       0,
@@ -21932,6 +21894,8 @@
       6280500,
       5961000,
       7452000,
+      6813000,
+      6813000,
       6813000,
       6813000,
       6813000,
@@ -22042,7 +22006,7 @@
       154790000,
       153695000,
       113180000,
-      113180000,
+      156980000,
       173405000,
       218255000,
       249650000,
@@ -22070,14 +22034,16 @@
       618100000,
       606200000,
       623850000,
-      623850000,
-      718020000,
-      733350000,
-      935100000,
-      1072035000,
-      881400000,
-      916305000,
-      972690000
+      661450000,
+      711820000,
+      727150000,
+      928900000,
+      1065835000,
+      875200000,
+      910105000,
+      966490000,
+      1079260000,
+      1065835000
     ],
     "2408": [
       0,
@@ -22122,7 +22088,7 @@
       16408500,
       -24727000,
       -63344000,
-      -63344000,
+      -28085000,
       10532000,
       -23963500,
       -27532000,
@@ -22150,14 +22116,16 @@
       -87456000,
       -96423000,
       -104394000,
-      -104394000,
-      -65214000,
-      -101129000,
-      -107689000,
-      -40449000,
-      -4369000,
-      -12569000,
-      -76529000
+      -67617000,
+      -70882000,
+      -106797000,
+      -113357000,
+      -46117000,
+      -10037000,
+      -18237000,
+      -82197000,
+      -11677000,
+      52283000
     ],
     "2451": [
       0,
@@ -22186,6 +22154,8 @@
       61363000,
       49093500,
       44926500,
+      43769000,
+      43769000,
       43769000,
       43769000,
       43769000,
@@ -22282,7 +22252,7 @@
       83250000,
       91525000,
       31945000,
-      31945000,
+      41875000,
       96490000,
       101455000,
       98145000,
@@ -22310,14 +22280,16 @@
       307220000,
       291620000,
       328070000,
-      328070000,
-      430775000,
-      423260000,
-      582525000,
-      516415000,
-      483360000,
-      516415000,
-      516415000
+      360395000,
+      425525000,
+      418010000,
+      577275000,
+      511165000,
+      478110000,
+      511165000,
+      511165000,
+      541215000,
+      433035000
     ],
     "3037": [
       0,
@@ -22362,7 +22334,7 @@
       145701500,
       124227500,
       72928500,
-      72928500,
+      114683500,
       164789500,
       181491500,
       214895500,
@@ -22390,14 +22362,16 @@
       395893500,
       392453500,
       454893500,
-      454893500,
-      538873500,
-      565393500,
-      708613500,
-      821803500,
-      789463500,
-      738643500,
-      923443500
+      515661500,
+      528921500,
+      555441500,
+      698661500,
+      811851500,
+      779511500,
+      728691500,
+      913491500,
+      977975500,
+      959559500
     ],
     "3131": [
       0,
@@ -22477,7 +22451,9 @@
       171075000,
       170305000,
       170305000,
-      182625000
+      182625000,
+      200335000,
+      176465000
     ],
     "3163": [
       0,
@@ -22557,7 +22533,9 @@
       356826500,
       384546500,
       361446500,
-      453746500
+      453746500,
+      555276500,
+      522971500
     ],
     "3189": [
       0,
@@ -22602,7 +22580,7 @@
       30966000,
       29688000,
       23937000,
-      23937000,
+      26188624,
       30099338,
       29743818,
       36498689,
@@ -22630,14 +22608,16 @@
       56557177,
       55591151,
       74467658,
-      74467658,
+      95280217,
       103992451,
       97942288,
       120784900,
       115438756,
       112036666,
       112036666,
-      121756926
+      121756926,
+      123214964,
+      121270912
     ],
     "3231": [
       0,
@@ -22672,6 +22652,8 @@
       -9940500,
       -11181000,
       -9527000,
+      -11181000,
+      -11181000,
       -11181000,
       -11181000,
       -11181000,
@@ -22797,7 +22779,9 @@
       120170500,
       137462500,
       126065500,
-      118598500
+      118598500,
+      120563500,
+      123314500
     ],
     "3324": [
       0,
@@ -22877,7 +22861,9 @@
       25206000,
       19921000,
       22186000,
-      19166000
+      19166000,
+      26716000,
+      23696000
     ],
     "3529": [
       0,
@@ -22957,6 +22943,8 @@
       136975000,
       136735000,
       136395000,
+      136375000,
+      136375000,
       136375000
     ],
     "3653": [
@@ -23002,7 +22990,7 @@
       6025000,
       9875000,
       6585000,
-      6585000,
+      10995000,
       10855000,
       10225000,
       7495000,
@@ -23030,14 +23018,16 @@
       68230000,
       87840000,
       137890000,
-      137890000,
-      212770000,
-      193570000,
-      205390000,
-      124620000,
-      122650000,
-      220165000,
-      207360000
+      176390000,
+      184070000,
+      164870000,
+      176690000,
+      95920000,
+      93950000,
+      191465000,
+      178660000,
+      162900000,
+      60460000
     ],
     "3665": [
       0,
@@ -23082,7 +23072,7 @@
       33450000,
       43215000,
       5240000,
-      5240000,
+      -1270000,
       18260000,
       13920000,
       4155000,
@@ -23110,14 +23100,16 @@
       138705000,
       126555000,
       166455000,
-      166455000,
-      220320000,
-      333720000,
-      340390000,
-      250345000,
-      250345000,
-      350395000,
-      343725000
+      150810000,
+      224520000,
+      337920000,
+      344590000,
+      254545000,
+      254545000,
+      354595000,
+      347925000,
+      461315000,
+      417960000
     ],
     "5289": [
       0,
@@ -23197,7 +23189,9 @@
       92258000,
       108588000,
       110008000,
-      100068000
+      100068000,
+      107168000,
+      124918000
     ],
     "5439": [
       0,
@@ -23277,6 +23271,8 @@
       -5393000,
       -5393000,
       -5393000,
+      -5393000,
+      -5393000,
       -5393000
     ],
     "5536": [
@@ -23305,6 +23301,8 @@
       -26631000,
       -26967000,
       -26785000,
+      -26820000,
+      -26820000,
       -26820000,
       -26820000,
       -26820000,
@@ -23437,7 +23435,9 @@
       473600000,
       473600000,
       492385000,
-      486605000
+      486605000,
+      555965000,
+      508280000
     ],
     "6274": [
       0,
@@ -23517,7 +23517,9 @@
       106769500,
       91505500,
       97229500,
-      119489500
+      119489500,
+      183089500,
+      253049500
     ],
     "6442": [
       0,
@@ -23562,7 +23564,7 @@
       84320000,
       73160000,
       50220000,
-      50220000,
+      49600000,
       62620000,
       47740000,
       47740000,
@@ -23590,14 +23592,16 @@
       80840000,
       122680000,
       239210000,
-      239210000,
-      137680000,
-      -34140000,
-      -144040000,
-      -226465000,
-      -124415000,
-      -45915000,
-      36510000
+      222950000,
+      144850000,
+      -26970000,
+      -136870000,
+      -219295000,
+      -117245000,
+      -38745000,
+      43680000,
+      24055000,
+      4430000
     ],
     "6515": [
       0,
@@ -23642,7 +23646,7 @@
       195120000,
       242620000,
       215620000,
-      215620000,
+      265120000,
       307620000,
       350620000,
       346120000,
@@ -23670,14 +23674,16 @@
       732460000,
       789205000,
       848495000,
-      848495000,
-      838745000,
-      838745000,
-      737575000,
-      665095000,
-      748900000,
-      756450000,
-      786650000
+      838175000,
+      840425000,
+      840425000,
+      739255000,
+      666775000,
+      750580000,
+      758130000,
+      788330000,
+      835895000,
+      738500000
     ],
     "6531": [
       0,
@@ -23722,7 +23728,7 @@
       -988500,
       -2458500,
       -10176000,
-      -10176000,
+      -4173500,
       -743500,
       10036500,
       21184000,
@@ -23750,14 +23756,16 @@
       35253000,
       68139000,
       89685000,
-      89685000,
-      166685000,
-      161785000,
-      163894000,
-      139289000,
-      172330000,
-      186390000,
-      200450000
+      112637000,
+      163037000,
+      158137000,
+      160246000,
+      135641000,
+      168682000,
+      182742000,
+      196802000,
+      255854000,
+      263587000
     ],
     "6584": [
       0,
@@ -23837,7 +23845,9 @@
       54126500,
       75518500,
       76855500,
-      38082500
+      38082500,
+      30060500,
+      86214500
     ],
     "6669": [
       0,
@@ -23882,7 +23892,7 @@
       -26625000,
       -26875000,
       -41125000,
-      -41125000,
+      -39625000,
       -28125000,
       -33375000,
       -34125000,
@@ -23910,14 +23920,16 @@
       -31575000,
       -15405000,
       21170000,
-      21170000,
-      192850000,
-      146450000,
-      325475000,
-      444050000,
-      402200000,
-      423125000,
-      344075000
+      84530000,
+      144850000,
+      98450000,
+      277475000,
+      396050000,
+      354200000,
+      375125000,
+      296075000,
+      382100000,
+      333275000
     ],
     "6781": [
       0,
@@ -23962,7 +23974,7 @@
       -57285000,
       -57285000,
       -68745000,
-      -68745000,
+      -63970000,
       -57285000,
       -62060000,
       -63015000,
@@ -23989,6 +24001,8 @@
       -68154000,
       -65882000,
       -64107000,
+      -66327000,
+      -66327000,
       -66327000,
       -66327000,
       -66327000,
@@ -24042,7 +24056,7 @@
       -14925000,
       -7775000,
       -17675000,
-      -17675000,
+      -13000000,
       -6675000,
       -8050000,
       -12725000,
@@ -24070,14 +24084,16 @@
       -9515000,
       -16445000,
       -10445000,
-      -10445000,
-      16285000,
-      -5990000,
-      -4500000,
-      41690000,
-      46160000,
-      41690000,
-      41690000
+      -5345000,
+      15445000,
+      -6830000,
+      -5340000,
+      40850000,
+      45320000,
+      40850000,
+      40850000,
+      40850000,
+      40850000
     ],
     "7769": [
       0,
@@ -24122,7 +24138,7 @@
       86420000,
       82610000,
       46415000,
-      46415000,
+      68640000,
       96580000,
       96580000,
       48955000,
@@ -24150,14 +24166,16 @@
       97385000,
       128135000,
       119610000,
-      119610000,
-      177510000,
-      190055000,
-      174535000,
-      221095000,
-      246315000,
-      269595000,
-      216245000
+      122910000,
+      176950000,
+      189495000,
+      173975000,
+      220535000,
+      245755000,
+      269035000,
+      215685000,
+      300075000,
+      342755000
     ],
     "8046": [
       0,
@@ -24202,7 +24220,7 @@
       33262000,
       34622000,
       27182000,
-      27182000,
+      27982000,
       34782000,
       34462000,
       41902000,
@@ -24230,14 +24248,16 @@
       192026000,
       194738000,
       262274000,
-      262274000,
-      269995000,
-      261171000,
-      348703000,
-      391915000,
-      412967000,
-      395239000,
-      493851000
+      255708000,
+      271150000,
+      262326000,
+      349858000,
+      393070000,
+      414122000,
+      396394000,
+      495006000,
+      473954000,
+      486142000
     ],
     "8210": [
       0,
@@ -24282,7 +24302,7 @@
       -9607000,
       -8122000,
       -19342000,
-      -19342000,
+      -16702000,
       -15547000,
       -17692000,
       -15547000,
@@ -24299,6 +24319,8 @@
       -15424000,
       -20268000,
       -14732000,
+      -24766000,
+      -24766000,
       -24766000,
       -24766000,
       -24766000,
@@ -24397,7 +24419,9 @@
       158775000,
       254760000,
       325860000,
-      204990000
+      204990000,
+      283200000,
+      357855000
     ],
     "8996": [
       0,
@@ -24442,7 +24466,7 @@
       50295000,
       50295000,
       4172000,
-      4172000,
+      45503000,
       84438000,
       134155000,
       123373000,
@@ -24470,14 +24494,16 @@
       278652000,
       382917000,
       362317000,
-      362317000,
-      354872000,
-      377207000,
-      233642000,
-      140747000,
-      318092000,
-      258977000,
-      444767000
+      381967000,
+      352187000,
+      374522000,
+      230957000,
+      138062000,
+      315407000,
+      256292000,
+      442082000,
+      433637000,
+      340742000
     ],
     "2449": [
       0,
@@ -24522,7 +24548,7 @@
       18215000,
       8429000,
       -3221000,
-      -3221000,
+      16351000,
       28467000,
       22875000,
       18681000,
@@ -24543,6 +24569,8 @@
       -421000,
       1571000,
       741000,
+      1156000,
+      1156000,
       1156000,
       1156000,
       1156000,
@@ -24602,7 +24630,7 @@
       5970000,
       6660000,
       2175000,
-      2175000,
+      3440000,
       6430000,
       4475000,
       4360000,
@@ -24630,14 +24658,16 @@
       60165000,
       54045000,
       108645000,
-      108645000,
-      133250000,
-      194115000,
-      226615000,
-      205815000,
-      266915000,
-      248715000,
-      285115000
+      141970000,
+      126430000,
+      187295000,
+      219795000,
+      198995000,
+      260095000,
+      241895000,
+      278295000,
+      388795000,
+      427795000
     ],
     "3661": [
       0,
@@ -24682,7 +24712,7 @@
       -17590000,
       -16110000,
       -27765000,
-      -27765000,
+      -25360000,
       -14075000,
       -15925000,
       -20550000,
@@ -24710,14 +24740,16 @@
       -5995000,
       -3475000,
       3675000,
-      3675000,
-      79795000,
-      65090000,
-      105745000,
-      96230000,
-      68550000,
-      69415000,
-      91905000
+      28515000,
+      42355000,
+      27650000,
+      68305000,
+      58790000,
+      31110000,
+      31975000,
+      54465000,
+      74360000,
+      47060000
     ],
     "5274": [
       0,
@@ -24797,7 +24829,9 @@
       250260000,
       254535000,
       275235000,
-      271635000
+      271635000,
+      319785000,
+      330810000
     ],
     "4749": [
       0,
@@ -24877,7 +24911,9 @@
       40643000,
       58869000,
       71487000,
-      67982000
+      67982000,
+      85507000,
+      51158000
     ],
     "8358": [
       0,
@@ -24957,6 +24993,8 @@
       129038500,
       169000500,
       169000500,
+      169000500,
+      169000500,
       169000500
     ],
     "8021": [
@@ -25002,7 +25040,7 @@
       24998200,
       26782920,
       15054760,
-      15054760,
+      23213480,
       30607320,
       27802760,
       31372200,
@@ -25030,14 +25068,16 @@
       93936780,
       114665940,
       130723740,
-      130723740,
-      149669040,
-      167580960,
-      153396600,
-      123610200,
-      119307720,
-      108401220,
-      114914220
+      123119780,
+      151021040,
+      168932960,
+      154748600,
+      124962200,
+      120659720,
+      109753220,
+      116266220,
+      116266220,
+      116266220
     ],
     "2327": [
       0,
@@ -25067,6 +25107,8 @@
       6270500,
       11328000,
       11625500,
+      6270500,
+      6270500,
       6270500,
       6270500,
       6270500,
@@ -25197,6 +25239,8 @@
       70791000,
       70791000,
       70791000,
+      70791000,
+      70791000,
       70791000
     ],
     "6415": [
@@ -25228,6 +25272,8 @@
       27090000,
       19950000,
       7770000,
+      7359000,
+      7359000,
       7359000,
       7359000,
       7359000,
@@ -25322,7 +25368,7 @@
       5700000,
       5700000,
       -9825000,
-      -9825000,
+      -2350000,
       11450000,
       9150000,
       24675000,
@@ -25350,14 +25396,16 @@
       65286500,
       64638500,
       81499500,
-      81499500,
-      113356500,
-      115057500,
-      116191500,
-      116475000,
-      119877000,
-      132918000,
-      142557000
+      89936500,
+      111933000,
+      113634000,
+      114768000,
+      115051500,
+      118453500,
+      131494500,
+      141133500,
+      141133500,
+      141133500
     ],
     "2454": [
       0,
@@ -25402,7 +25450,7 @@
       -5045000,
       -6555000,
       -21655000,
-      -21655000,
+      -15615000,
       -6555000,
       -3535000,
       -13350000,
@@ -25430,14 +25478,16 @@
       13075000,
       17605000,
       13830000,
-      13830000,
+      42520000,
       73475000,
       67075000,
       84675000,
       84675000,
       117075000,
       109875000,
-      116175000
+      116175000,
+      162975000,
+      214275000
     ],
     "3533": [
       0,
@@ -25482,7 +25532,7 @@
       485000,
       -2795000,
       -11815000,
-      -11815000,
+      -1155000,
       17705000,
       36565000,
       27545000,
@@ -25510,14 +25560,16 @@
       260035000,
       252795000,
       303420000,
-      303420000,
-      315070000,
-      226530000,
-      254610000,
-      343530000,
-      324810000,
-      315450000,
-      299070000
+      307410000,
+      314400000,
+      225860000,
+      253940000,
+      342860000,
+      324140000,
+      314780000,
+      298400000,
+      296060000,
+      239900000
     ],
     "7751": [
       0,
@@ -25597,7 +25649,9 @@
       443495000,
       470655000,
       398875000,
-      356195000
+      356195000,
+      449315000,
+      447375000
     ],
     "3105": [
       0,
@@ -25677,7 +25731,9 @@
       131438500,
       155469500,
       164052000,
-      280774000
+      280774000,
+      239578000,
+      346001000
     ],
     "4991": [
       0,
@@ -25757,7 +25813,9 @@
       64608000,
       104052000,
       95748000,
-      137960000
+      137960000,
+      138652000,
+      185016000
     ],
     "6510": [
       0,
@@ -25837,7 +25895,9 @@
       -61030000,
       -4060000,
       -35710000,
-      -115890000
+      -115890000,
+      27590000,
+      -23050000
     ],
     "2337": [
       0,
@@ -25910,14 +25970,16 @@
       6268000,
       612000,
       -7147500,
-      -7147500,
+      2104500,
       3646500,
       -2907000,
       4719000,
       21242000,
       39671500,
       49204000,
-      32681000
+      32681000,
+      33316500,
+      40942500
     ],
     "3036": [
       0,
@@ -25990,14 +26052,16 @@
       10786000,
       5796000,
       -7191000,
-      -7191000,
-      -11289500,
-      -20072000,
-      -28311000,
-      -25957000,
-      -18895000,
-      -23603000,
-      -22426000
+      -6691000,
+      -11375000,
+      -20157500,
+      -28396500,
+      -26042500,
+      -18980500,
+      -23688500,
+      -22511500,
+      -14861000,
+      -16626500
     ],
     "3081": [
       0,
@@ -26077,7 +26141,9 @@
       49290000,
       35990000,
       13190000,
-      87290000
+      87290000,
+      127190000,
+      153790000
     ],
     "3491": [
       0,
@@ -26157,7 +26223,9 @@
       4175000,
       5630000,
       -675000,
-      -1160000
+      -1160000,
+      13875000,
+      12905000
     ],
     "3711": [
       0,
@@ -26230,14 +26298,16 @@
       21512000,
       19395500,
       24426500,
-      24426500,
-      25543000,
-      25383500,
-      35463500,
-      35303500,
-      35303500,
-      33063500,
-      29703500
+      27314000,
+      25081000,
+      24921500,
+      35001500,
+      34841500,
+      34841500,
+      32601500,
+      29241500,
+      44281500,
+      42681500
     ],
     "6271": [
       0,
@@ -26310,14 +26380,16 @@
       3390000,
       4237500,
       4237500,
-      4237500,
-      3193000,
-      -14563500,
-      -10680000,
-      -21036000,
-      -17152500,
-      -23625000,
-      -23625000
+      7837500,
+      2615000,
+      -15141500,
+      -11258000,
+      -21614000,
+      -17730500,
+      -24203000,
+      -24203000,
+      -11258000,
+      -12552500
     ],
     "2455": [
       0,
@@ -26397,7 +26469,9 @@
       0,
       0,
       -854000,
-      12596500
+      12596500,
+      15799000,
+      76499500
     ],
     "3583": [
       0,
@@ -26477,8 +26551,10 @@
       0,
       0,
       0,
-      660000
+      660000,
+      693000,
+      726000
     ]
   },
-  "_source_file": "PG holdings (4106 rows)"
+  "_source_file": "PG holdings (4208 rows)"
 }

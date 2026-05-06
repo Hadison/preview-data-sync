@@ -2,8 +2,8 @@ name: Build preview data
 
 on:
   schedule:
-    # 19:30 Asia/Taipei, Monday-Friday.
-    - cron: "30 11 * * 1-5"
+    # 17:20 Asia/Taipei, Monday-Friday.
+    - cron: "20 9 * * 1-5"
   workflow_dispatch:
 
 permissions:

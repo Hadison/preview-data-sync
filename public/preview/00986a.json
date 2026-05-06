@@ -199,37 +199,37 @@
     }
   ],
   "exited_codes": [
-    "6701 JT",
-    "6857 JT",
-    "700 HK",
     "7011 JT",
-    "ADI US",
-    "AMD US",
-    "BKNG US",
+    "LLY US",
+    "SNOW US",
     "C US",
-    "CDNS US",
+    "META US",
+    "6857 JT",
+    "TMO US",
+    "PLTR US",
+    "SHOP UN",
+    "UBER US",
+    "700 HK",
     "CLS US",
+    "CDNS US",
     "CRDO US",
     "DASH US",
     "HOOD US",
-    "INTU US",
-    "LLY US",
-    "MA US",
-    "META US",
-    "NFLX US",
     "NOW US",
-    "NRG US",
-    "ORCL US",
-    "PLTR US",
-    "PWR US",
-    "SHOP UN",
-    "SNOW US",
-    "SPOT US",
     "TEAM US",
-    "TMO US",
+    "SPOT US",
+    "NFLX US",
+    "NRG US",
+    "MA US",
     "TTWO US",
-    "UBER US",
-    "WO US"
+    "ORCL US",
+    "AMD US",
+    "WO US",
+    "ADI US",
+    "6701 JT",
+    "INTU US",
+    "BKNG US",
+    "PWR US"
   ],
   "exit_date": {
     "7011 JT": "20260415",
@@ -265,32 +265,20 @@
     "6857 JT": "20260320"
   },
   "active_days": {
-    "2330": 164,
     "7011 JT": 152,
-    "8306 JT": 164,
     "AMD US": 60,
-    "AMZN US": 164,
-    "AVGO US": 164,
     "BKNG US": 15,
     "CDNS US": 106,
     "CLS US": 109,
-    "CRWD US": 164,
     "C US": 141,
     "DASH US": 100,
-    "GEV US": 164,
-    "GOOGL US": 164,
     "HOOD US": 100,
-    "HWM US": 164,
     "INTU US": 16,
-    "LITE US": 164,
     "LLY US": 151,
     "MA US": 73,
     "META US": 141,
-    "MSFT US": 164,
-    "NET US": 164,
     "NFLX US": 93,
     "NOW US": 97,
-    "NVDA US": 164,
     "ORCL US": 66,
     "PLTR US": 113,
     "PWR US": 10,
@@ -301,28 +289,13 @@
     "700 HK": 109,
     "ADI US": 29,
     "CRDO US": 101,
-    "GS US": 163,
-    "IFX GY": 163,
     "SPOT US": 94,
     "WO US": 58,
-    "6501 JT": 152,
-    "MU US": 152,
-    "SU FP": 152,
-    "LRCX US": 145,
-    "TER US": 136,
-    "BWXT US": 129,
     "NRG US": 57,
     "TTWO US": 9,
-    "ENR GY": 78,
     "TEAM US": 11,
     "TMO US": 31,
-    "WMT UN": 67,
-    "6857 JT": 38,
-    "COHR US": 66,
-    "ETN US": 66,
-    "VRTX US": 58,
-    "CAT US": 53,
-    "GLEN LN": 49
+    "6857 JT": 38
   },
   "series": {
     "2330": [
@@ -1138,12 +1111,12 @@
       },
       {
         "date": "20260430",
-        "weight": 8.67,
+        "weight": 8.6711,
         "shares": 25000.0
       },
       {
         "date": "20260504",
-        "weight": 9.08,
+        "weight": 9.0764,
         "shares": 25000.0
       }
     ],
@@ -2726,12 +2699,12 @@
       },
       {
         "date": "20260430",
-        "weight": 1.81,
+        "weight": 1.8054,
         "shares": 20000.0
       },
       {
         "date": "20260504",
-        "weight": 1.8,
+        "weight": 1.7994,
         "shares": 20000.0
       }
     ],
@@ -3854,12 +3827,12 @@
       },
       {
         "date": "20260430",
-        "weight": 4.09,
+        "weight": 4.0925,
         "shares": 3000.0
       },
       {
         "date": "20260504",
-        "weight": 4.12,
+        "weight": 4.1184,
         "shares": 3000.0
       }
     ],
@@ -4676,12 +4649,12 @@
       },
       {
         "date": "20260430",
-        "weight": 8.38,
+        "weight": 8.3786,
         "shares": 3900.0
       },
       {
         "date": "20260504",
-        "weight": 8.2,
+        "weight": 8.1966,
         "shares": 3900.0
       }
     ],
@@ -6666,12 +6639,12 @@
       },
       {
         "date": "20260430",
-        "weight": 2.15,
+        "weight": 2.1519,
         "shares": 938.0
       },
       {
         "date": "20260504",
-        "weight": 2.22,
+        "weight": 2.221,
         "shares": 938.0
       }
     ],
@@ -8705,12 +8678,12 @@
       },
       {
         "date": "20260430",
-        "weight": 4.18,
+        "weight": 4.1821,
         "shares": 750.0
       },
       {
         "date": "20260504",
-        "weight": 4.06,
+        "weight": 4.0644,
         "shares": 750.0
       }
     ],
@@ -9527,12 +9500,12 @@
       },
       {
         "date": "20260430",
-        "weight": 8.91,
+        "weight": 8.9119,
         "shares": 4500.0
       },
       {
         "date": "20260504",
-        "weight": 8.7,
+        "weight": 8.7026,
         "shares": 4500.0
       }
     ],
@@ -10855,12 +10828,12 @@
       },
       {
         "date": "20260430",
-        "weight": 2.13,
+        "weight": 2.1264,
         "shares": 1700.0
       },
       {
         "date": "20260504",
-        "weight": 2.06,
+        "weight": 2.0562,
         "shares": 1700.0
       }
     ],
@@ -11763,12 +11736,12 @@
       },
       {
         "date": "20260430",
-        "weight": 7.43,
+        "weight": 7.4302,
         "shares": 1600.0
       },
       {
         "date": "20260504",
-        "weight": 7.88,
+        "weight": 7.8814,
         "shares": 1600.0
       }
     ],
@@ -14428,12 +14401,12 @@
       },
       {
         "date": "20260430",
-        "weight": 2.1,
+        "weight": 2.0987,
         "shares": 1000.0
       },
       {
         "date": "20260504",
-        "weight": 2.09,
+        "weight": 2.0872,
         "shares": 1000.0
       }
     ],
@@ -15250,12 +15223,12 @@
       },
       {
         "date": "20260430",
-        "weight": 1.27,
+        "weight": 1.2659,
         "shares": 1200.0
       },
       {
         "date": "20260504",
-        "weight": 1.36,
+        "weight": 1.3574,
         "shares": 1200.0
       }
     ],
@@ -17034,12 +17007,12 @@
       },
       {
         "date": "20260430",
-        "weight": 7.19,
+        "weight": 7.1898,
         "shares": 7000.0
       },
       {
         "date": "20260504",
-        "weight": 7.01,
+        "weight": 7.0108,
         "shares": 7000.0
       }
     ],
@@ -21986,12 +21959,12 @@
       },
       {
         "date": "20260430",
-        "weight": 0.95,
+        "weight": 0.9509,
         "shares": 200.0
       },
       {
         "date": "20260504",
-        "weight": 0.91,
+        "weight": 0.9116,
         "shares": 200.0
       }
     ],
@@ -22803,12 +22776,12 @@
       },
       {
         "date": "20260430",
-        "weight": 2.75,
+        "weight": 2.745,
         "shares": 8000.0
       },
       {
         "date": "20260504",
-        "weight": 2.69,
+        "weight": 2.6898,
         "shares": 8000.0
       }
     ],
@@ -24337,12 +24310,12 @@
       },
       {
         "date": "20260430",
-        "weight": 1.88,
+        "weight": 1.8773,
         "shares": 12000.0
       },
       {
         "date": "20260504",
-        "weight": 1.85,
+        "weight": 1.8502,
         "shares": 12000.0
       }
     ],
@@ -25099,12 +25072,12 @@
       },
       {
         "date": "20260430",
-        "weight": 6.65,
+        "weight": 6.654,
         "shares": 2500.0
       },
       {
         "date": "20260504",
-        "weight": 7.27,
+        "weight": 7.272,
         "shares": 2500.0
       }
     ],
@@ -25861,12 +25834,12 @@
       },
       {
         "date": "20260430",
-        "weight": 2.26,
+        "weight": 2.2585,
         "shares": 1400.0
       },
       {
         "date": "20260504",
-        "weight": 2.16,
+        "weight": 2.1589,
         "shares": 1400.0
       }
     ],
@@ -26588,12 +26561,12 @@
       },
       {
         "date": "20260430",
-        "weight": 2.68,
+        "weight": 2.6821,
         "shares": 2021.0
       },
       {
         "date": "20260504",
-        "weight": 2.64,
+        "weight": 2.6369,
         "shares": 2021.0
       }
     ],
@@ -27270,12 +27243,12 @@
       },
       {
         "date": "20260430",
-        "weight": 3.54,
+        "weight": 3.5354,
         "shares": 2000.0
       },
       {
         "date": "20260504",
-        "weight": 3.41,
+        "weight": 3.4055,
         "shares": 2000.0
       }
     ],
@@ -27917,12 +27890,12 @@
       },
       {
         "date": "20260430",
-        "weight": 1.23,
+        "weight": 1.225,
         "shares": 1100.0
       },
       {
         "date": "20260504",
-        "weight": 1.2,
+        "weight": 1.2027,
         "shares": 1100.0
       }
     ],
@@ -28651,12 +28624,12 @@
       },
       {
         "date": "20260430",
-        "weight": 2.39,
+        "weight": 2.3861,
         "shares": 2200.0
       },
       {
         "date": "20260504",
-        "weight": 2.3,
+        "weight": 2.302,
         "shares": 2200.0
       }
     ],
@@ -29210,12 +29183,12 @@
       },
       {
         "date": "20260430",
-        "weight": 2.31,
+        "weight": 2.3089,
         "shares": 3400.0
       },
       {
         "date": "20260504",
-        "weight": 2.24,
+        "weight": 2.2362,
         "shares": 3400.0
       }
     ],
@@ -29738,12 +29711,12 @@
       },
       {
         "date": "20260430",
-        "weight": 2.14,
+        "weight": 2.139,
         "shares": 1300.0
       },
       {
         "date": "20260504",
-        "weight": 2.16,
+        "weight": 2.164,
         "shares": 1300.0
       }
     ],
@@ -30070,12 +30043,12 @@
       },
       {
         "date": "20260430",
-        "weight": 2.23,
+        "weight": 2.2285,
         "shares": 1000.0
       },
       {
         "date": "20260504",
-        "weight": 2.13,
+        "weight": 2.1317,
         "shares": 1000.0
       }
     ],
@@ -30362,12 +30335,12 @@
       },
       {
         "date": "20260430",
-        "weight": 0.99,
+        "weight": 0.9898,
         "shares": 450.0
       },
       {
         "date": "20260504",
-        "weight": 0.98,
+        "weight": 0.9761,
         "shares": 450.0
       }
     ],
@@ -30629,12 +30602,12 @@
       },
       {
         "date": "20260430",
-        "weight": 1.6,
+        "weight": 1.6034,
         "shares": 350.0
       },
       {
         "date": "20260504",
-        "weight": 1.55,
+        "weight": 1.545,
         "shares": 350.0
       }
     ],
@@ -30876,12 +30849,12 @@
       },
       {
         "date": "20260430",
-        "weight": 1.57,
+        "weight": 1.5749,
         "shares": 40000.0
       },
       {
         "date": "20260504",
-        "weight": 1.54,
+        "weight": 1.5434,
         "shares": 40000.0
       }
     ]
@@ -31008,8 +30981,8 @@
   },
   "is_new": {},
   "daily_shares": {
-    "latest_date": "20260429",
-    "prev_date": "20260428",
+    "latest_date": "20260504",
+    "prev_date": "20260430",
     "top_adds": [],
     "top_reductions": [],
     "new_positions": [],
@@ -31027,12 +31000,12 @@
       "has_prices": true,
       "is_exited": false,
       "shares_latest": 25000.0,
-      "latest_date": "20260429",
-      "latest_price": 2180.0,
-      "mv_now": 54500000.0,
+      "latest_date": "20260504",
+      "latest_price": 2275.0,
+      "mv_now": 56875000.0,
       "cost_basis": 31590000.0,
-      "pnl": 27280000.0,
-      "pnl_pct": 86.36,
+      "pnl": 29655000.0,
+      "pnl_pct": 93.87,
       "missing_price_days": 0,
       "total_delta_days": 2
     },
@@ -31044,7 +31017,7 @@
     "8306 JT": {
       "has_prices": false,
       "shares_latest": 20000.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "AMD US": {
       "has_prices": false,
@@ -31054,12 +31027,12 @@
     "AMZN US": {
       "has_prices": false,
       "shares_latest": 3000.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "AVGO US": {
       "has_prices": false,
       "shares_latest": 3900.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "BKNG US": {
       "has_prices": false,
@@ -31079,7 +31052,7 @@
     "CRWD US": {
       "has_prices": false,
       "shares_latest": 938.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "C US": {
       "has_prices": false,
@@ -31104,12 +31077,12 @@
     "GEV US": {
       "has_prices": false,
       "shares_latest": 750.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "GOOGL US": {
       "has_prices": false,
       "shares_latest": 4500.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "HOOD US": {
       "has_prices": false,
@@ -31119,7 +31092,7 @@
     "HWM US": {
       "has_prices": false,
       "shares_latest": 1700.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "INTU US": {
       "has_prices": false,
@@ -31129,7 +31102,7 @@
     "LITE US": {
       "has_prices": false,
       "shares_latest": 1600.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "LLY US": {
       "has_prices": false,
@@ -31149,12 +31122,12 @@
     "MSFT US": {
       "has_prices": false,
       "shares_latest": 1000.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "NET US": {
       "has_prices": false,
       "shares_latest": 1200.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "NFLX US": {
       "has_prices": false,
@@ -31169,7 +31142,7 @@
     "NVDA US": {
       "has_prices": false,
       "shares_latest": 7000.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "ORCL US": {
       "has_prices": false,
@@ -31224,12 +31197,12 @@
     "GS US": {
       "has_prices": false,
       "shares_latest": 200.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "IFX GY": {
       "has_prices": false,
       "shares_latest": 8000.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "SPOT US": {
       "has_prices": false,
@@ -31244,32 +31217,32 @@
     "6501 JT": {
       "has_prices": false,
       "shares_latest": 12000.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "MU US": {
       "has_prices": false,
       "shares_latest": 2500.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "SU FP": {
       "has_prices": false,
       "shares_latest": 1400.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "LRCX US": {
       "has_prices": false,
       "shares_latest": 2021.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "TER US": {
       "has_prices": false,
-      "shares_latest": 2399.0,
-      "latest_date": "20260429"
+      "shares_latest": 2000.0,
+      "latest_date": "20260504"
     },
     "BWXT US": {
       "has_prices": false,
       "shares_latest": 1100.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "NRG US": {
       "has_prices": false,
@@ -31284,7 +31257,7 @@
     "ENR GY": {
       "has_prices": false,
       "shares_latest": 2200.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "TEAM US": {
       "has_prices": false,
@@ -31299,7 +31272,7 @@
     "WMT UN": {
       "has_prices": false,
       "shares_latest": 3400.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "6857 JT": {
       "has_prices": false,
@@ -31309,27 +31282,27 @@
     "COHR US": {
       "has_prices": false,
       "shares_latest": 1300.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "ETN US": {
       "has_prices": false,
       "shares_latest": 1000.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "VRTX US": {
       "has_prices": false,
       "shares_latest": 450.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "CAT US": {
       "has_prices": false,
       "shares_latest": 350.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     },
     "GLEN LN": {
       "has_prices": false,
       "shares_latest": 40000.0,
-      "latest_date": "20260429"
+      "latest_date": "20260504"
     }
   },
   "pnl_curve_dates": [
@@ -31494,7 +31467,9 @@
     "20260424",
     "20260427",
     "20260428",
-    "20260429"
+    "20260429",
+    "20260430",
+    "20260504"
   ],
   "pnl_curves": {
     "2330": [
@@ -31625,7 +31600,7 @@
       19710000,
       19440000,
       17280000,
-      17280000,
+      18360000,
       20790000,
       19305000,
       18765000,
@@ -31653,14 +31628,16 @@
       24705000,
       23220000,
       23085000,
-      23085000,
+      23760000,
       23760000,
       24570000,
       27405000,
       29405000,
       28155000,
-      27280000
+      27280000,
+      26155000,
+      29655000
     ]
   },
-  "_source_file": "PG holdings (6230 rows)"
+  "_source_file": "PG holdings (6286 rows)"
 }

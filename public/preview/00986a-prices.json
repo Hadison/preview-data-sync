@@ -1198,6 +1198,15 @@
         "volume_shares": 94441296
       },
       {
+        "date": "20260310",
+        "open": 1870.0,
+        "high": 1890.0,
+        "low": 1830.0,
+        "close": 1850.0,
+        "adj_factor": 1.0,
+        "volume_shares": 46926862
+      },
+      {
         "date": "20260311",
         "open": 1885.0,
         "high": 1950.0,
@@ -1441,6 +1450,15 @@
         "volume_shares": 30566172
       },
       {
+        "date": "20260421",
+        "open": 2050.0,
+        "high": 2075.0,
+        "low": 2045.0,
+        "close": 2050.0,
+        "adj_factor": 1.0,
+        "volume_shares": 28055761
+      },
+      {
         "date": "20260422",
         "open": 2045.0,
         "high": 2070.0,
@@ -1572,5 +1590,5 @@
     "GLEN LN": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-06T01:50:59Z"
+  "generated_at": "2026-05-06T03:27:49Z"
 }
