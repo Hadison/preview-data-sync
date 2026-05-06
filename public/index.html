@@ -268,6 +268,16 @@
         line-height: 1.6;
       }
 
+      .history-link {
+        color: var(--blue);
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      .history-link:hover {
+        text-decoration: underline;
+      }
+
       @media (max-width: 900px) {
         .summary,
         .grid {
@@ -349,6 +359,25 @@
               </tr>
             </thead>
             <tbody id="etf-table"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel section" style="margin-bottom: 18px">
+        <h2>更新歷史</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>執行時間</th>
+                <th>狀態</th>
+                <th>ETF 數</th>
+                <th>已對齊</th>
+                <th>最新持股日期</th>
+                <th>GitHub Run</th>
+              </tr>
+            </thead>
+            <tbody id="history-table"></tbody>
           </table>
         </div>
       </section>
@@ -455,7 +484,9 @@
 
     <script>
       const MANIFEST_URL = "./preview/index.json";
+      const HISTORY_URL = "./preview/status-history.json";
       let manifestItems = [];
+      let historyItems = [];
       let selectedSlug = "00981a";
 
       const $ = (id) => document.getElementById(id);
@@ -469,6 +500,7 @@
         try {
           const stamp = forceRefresh ? `?t=${Date.now()}` : "";
           await loadManifest(stamp);
+          await loadHistory(stamp);
           const selected = manifestItems.find((item) => item.slug === selectedSlug) || manifestItems[0];
           selectedSlug = selected?.slug || selectedSlug;
           const holdingsUrl = `./preview/${selectedSlug}.json`;
@@ -478,6 +510,7 @@
             fetchJson(`${pricesUrl}${stamp}`),
           ]);
           renderEtfTable();
+          renderHistoryTable();
           renderDashboard(holdings, prices);
         } catch (error) {
           setOverall("bad", "讀取失敗", error.message);
@@ -495,6 +528,16 @@
           }
         } catch (error) {
           manifestItems = [{ slug: "00981a", code: "00981A", name: "主動統一台股增長" }];
+        }
+      }
+
+      async function loadHistory(stamp) {
+        if (historyItems.length && !stamp) return;
+        try {
+          const history = await fetchJson(`${HISTORY_URL}${stamp}`);
+          historyItems = (history.entries || []).slice().sort((a, b) => String(b.run_at).localeCompare(String(a.run_at)));
+        } catch (error) {
+          historyItems = [];
         }
       }
 
@@ -577,6 +620,33 @@
         });
       }
 
+      function renderHistoryTable() {
+        const tbody = $("history-table");
+        tbody.innerHTML = "";
+        if (!historyItems.length) {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `<td colspan="6">尚無更新歷史</td>`;
+          tbody.appendChild(tr);
+          return;
+        }
+        historyItems.slice(0, 20).forEach((entry) => {
+          const latestHoldingsDate = maxText((entry.items || []).map((item) => item.holdings_as_of));
+          const runCell = entry.run_url
+            ? `<a class="history-link" href="${escapeHtml(entry.run_url)}" target="_blank" rel="noreferrer">${escapeHtml(entry.run_id || "Actions")}</a>`
+            : "-";
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
+            <td>${formatUtcIso(entry.run_at)}</td>
+            <td>${badge(entry.status === "ok" ? "ok" : entry.status === "bad" ? "bad" : "warn", statusText(entry.status))}</td>
+            <td>${formatInteger(entry.etf_count)}</td>
+            <td>${formatInteger(entry.aligned_count)}</td>
+            <td>${formatYmd(latestHoldingsDate)}</td>
+            <td>${runCell}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+      }
+
       function resolveStatus({ staleDays, pricesAligned, missingCodeRows, missingLatestRows }) {
         if (!pricesAligned) {
           return { level: "bad", title: "需要檢查", hint: "持股日期和股價日期沒有對齊" };
@@ -654,6 +724,16 @@
 
       function badge(level, text) {
         return `<span class="badge ${level}">${escapeHtml(text)}</span>`;
+      }
+
+      function statusText(status) {
+        if (status === "ok") return "正常";
+        if (status === "bad") return "失敗";
+        return "需檢查";
+      }
+
+      function maxText(values) {
+        return values.filter(Boolean).sort().at(-1) || "";
       }
 
       function parseDate(ymd) {

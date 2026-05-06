@@ -205,3 +205,30 @@ class BuildAllTests(unittest.TestCase):
                 build_all.SEED_PREVIEW_DIR = original_seed_preview_dir
 
         self.assertEqual(files, [preview / "00981a.json"])
+
+    def test_status_history_keeps_recent_entries(self) -> None:
+        with TemporaryDirectory() as public_preview_dir:
+            public_preview = Path(public_preview_dir)
+
+            original_public_preview_dir = build_all.PUBLIC_PREVIEW_DIR
+            try:
+                build_all.PUBLIC_PREVIEW_DIR = public_preview
+
+                build_all.write_status_history(
+                    [
+                        {
+                            "slug": "00981a",
+                            "code": "00981A",
+                            "holdings_as_of": "20260505",
+                            "prices_as_of": "20260505",
+                        }
+                    ]
+                )
+            finally:
+                build_all.PUBLIC_PREVIEW_DIR = original_public_preview_dir
+
+            history = build_all.load_status_history(public_preview / "status-history.json")
+
+        self.assertEqual(history["latest"]["status"], "ok")
+        self.assertEqual(history["latest"]["etf_count"], 1)
+        self.assertEqual(history["latest"]["aligned_count"], 1)
