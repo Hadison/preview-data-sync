@@ -14972,6 +14972,15 @@
         "close": 911.0,
         "adj_factor": 1.0,
         "volume_shares": 43775340
+      },
+      {
+        "date": "20260505",
+        "open": 899.0,
+        "high": 948.0,
+        "low": 893.0,
+        "close": 903.0,
+        "adj_factor": 1.0,
+        "volume_shares": 28445776
       }
     ],
     "CAT US": [],
@@ -18204,5 +18213,5 @@
     "AAOI US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-06T09:35:39Z"
+  "generated_at": "2026-05-06T09:39:24Z"
 }

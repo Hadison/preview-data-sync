@@ -1,8 +1,8 @@
 {
   "latest": {
-    "run_at": "2026-05-06T09:38:00Z",
-    "run_id": "",
-    "run_url": "",
+    "run_at": "2026-05-06T09:39:38Z",
+    "run_id": "25427730361",
+    "run_url": "https://github.com/Hadison/preview-data-sync/actions/runs/25427730361",
     "status": "ok",
     "etf_count": 19,
     "aligned_count": 19,
@@ -1604,6 +1604,206 @@
       "run_at": "2026-05-06T09:38:00Z",
       "run_id": "",
       "run_url": "",
+      "status": "ok",
+      "etf_count": 19,
+      "aligned_count": 19,
+      "items": [
+        {
+          "slug": "00980a",
+          "code": "00980A",
+          "name": "主動野村臺灣優選",
+          "issuer": "野村投信",
+          "holdings_as_of": "20260506",
+          "prices_as_of": "20260506",
+          "current_count": 48,
+          "price_code_count": 109
+        },
+        {
+          "slug": "00981a",
+          "code": "00981A",
+          "name": "主動統一台股增長",
+          "issuer": "統一投信",
+          "holdings_as_of": "20260506",
+          "prices_as_of": "20260506",
+          "current_count": 50,
+          "price_code_count": 104
+        },
+        {
+          "slug": "00982a",
+          "code": "00982A",
+          "name": "主動群益台灣強棒",
+          "issuer": "群益投信",
+          "holdings_as_of": "20260506",
+          "prices_as_of": "20260506",
+          "current_count": 57,
+          "price_code_count": 113
+        },
+        {
+          "slug": "00983a",
+          "code": "00983A",
+          "name": "主動中信ARK創新",
+          "issuer": "中信投信",
+          "holdings_as_of": "20260505",
+          "prices_as_of": "20260505",
+          "current_count": 38,
+          "price_code_count": 55
+        },
+        {
+          "slug": "00984a",
+          "code": "00984A",
+          "name": "主動安聯台灣高息",
+          "issuer": "安聯投信",
+          "holdings_as_of": "20260505",
+          "prices_as_of": "20260505",
+          "current_count": 114,
+          "price_code_count": 329
+        },
+        {
+          "slug": "00985a",
+          "code": "00985A",
+          "name": "主動野村台灣50",
+          "issuer": "野村投信",
+          "holdings_as_of": "20260506",
+          "prices_as_of": "20260506",
+          "current_count": 50,
+          "price_code_count": 85
+        },
+        {
+          "slug": "00986a",
+          "code": "00986A",
+          "name": "主動台新龍頭成長",
+          "issuer": "台新投信",
+          "holdings_as_of": "20260504",
+          "prices_as_of": "20260504",
+          "current_count": 27,
+          "price_code_count": 58
+        },
+        {
+          "slug": "00987a",
+          "code": "00987A",
+          "name": "主動台新優勢成長",
+          "issuer": "台新投信",
+          "holdings_as_of": "20260505",
+          "prices_as_of": "20260505",
+          "current_count": 28,
+          "price_code_count": 53
+        },
+        {
+          "slug": "00988a",
+          "code": "00988A",
+          "name": "主動統一全球創新",
+          "issuer": "統一投信",
+          "holdings_as_of": "20260505",
+          "prices_as_of": "20260505",
+          "current_count": 49,
+          "price_code_count": 134
+        },
+        {
+          "slug": "00989a",
+          "code": "00989A",
+          "name": "主動摩根美國科技",
+          "issuer": "摩根投信",
+          "holdings_as_of": "20260505",
+          "prices_as_of": "20260505",
+          "current_count": 64,
+          "price_code_count": 83
+        },
+        {
+          "slug": "00990a",
+          "code": "00990A",
+          "name": "主動元大AI新經濟",
+          "issuer": "元大投信",
+          "holdings_as_of": "20260505",
+          "prices_as_of": "20260505",
+          "current_count": 52,
+          "price_code_count": 147
+        },
+        {
+          "slug": "00991a",
+          "code": "00991A",
+          "name": "主動復華未來50",
+          "issuer": "復華投信",
+          "holdings_as_of": "20260506",
+          "prices_as_of": "20260506",
+          "current_count": 50,
+          "price_code_count": 65
+        },
+        {
+          "slug": "00992a",
+          "code": "00992A",
+          "name": "主動群益科技創新",
+          "issuer": "群益投信",
+          "holdings_as_of": "20260505",
+          "prices_as_of": "20260505",
+          "current_count": 48,
+          "price_code_count": 66
+        },
+        {
+          "slug": "00993a",
+          "code": "00993A",
+          "name": "主動安聯台灣",
+          "issuer": "安聯投信",
+          "holdings_as_of": "20260505",
+          "prices_as_of": "20260505",
+          "current_count": 50,
+          "price_code_count": 96
+        },
+        {
+          "slug": "00994a",
+          "code": "00994A",
+          "name": "主動第一金台股優",
+          "issuer": "第一金投信",
+          "holdings_as_of": "20260506",
+          "prices_as_of": "20260506",
+          "current_count": 44,
+          "price_code_count": 69
+        },
+        {
+          "slug": "00995a",
+          "code": "00995A",
+          "name": "主動中信台灣卓越",
+          "issuer": "中信投信",
+          "holdings_as_of": "20260506",
+          "prices_as_of": "20260506",
+          "current_count": 57,
+          "price_code_count": 102
+        },
+        {
+          "slug": "00996a",
+          "code": "00996A",
+          "name": "主動兆豐台灣豐收",
+          "issuer": "兆豐投信",
+          "holdings_as_of": "20260506",
+          "prices_as_of": "20260506",
+          "current_count": 51,
+          "price_code_count": 62
+        },
+        {
+          "slug": "00997a",
+          "code": "00997A",
+          "name": "主動群益美國增長",
+          "issuer": "群益投信",
+          "holdings_as_of": "20260505",
+          "prices_as_of": "20260505",
+          "current_count": 48,
+          "price_code_count": 49
+        },
+        {
+          "slug": "00998a",
+          "code": "00998A",
+          "name": "主動復華金融股息",
+          "issuer": "復華投信",
+          "holdings_as_of": "20260505",
+          "prices_as_of": "20260505",
+          "current_count": 26,
+          "price_code_count": 34
+        }
+      ]
+    },
+    {
+      "run_at": "2026-05-06T09:39:38Z",
+      "run_id": "25427730361",
+      "run_url": "https://github.com/Hadison/preview-data-sync/actions/runs/25427730361",
       "status": "ok",
       "etf_count": 19,
       "aligned_count": 19,
