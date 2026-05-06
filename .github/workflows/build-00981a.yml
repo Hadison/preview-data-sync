@@ -31,6 +31,7 @@ jobs:
         env:
           ETF_HOLDINGS_URL: ${{ vars.ETF_HOLDINGS_URL }}
           CMONEY_HOLDINGS_URL: ${{ vars.CMONEY_HOLDINGS_URL }}
+          ETF_PRICE_SLEEP_SECONDS: "0"
         run: python scripts/build_all.py
 
       - name: Commit updated preview data

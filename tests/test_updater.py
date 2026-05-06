@@ -1,7 +1,10 @@
 from __future__ import annotations
 
 import unittest
+from pathlib import Path
+from tempfile import TemporaryDirectory
 
+from scripts import build_all
 from etf_update.models import Holding
 from etf_update.prices import extract_holding_codes, merge_prices, update_price_store
 from etf_update.updater import update_preview
@@ -159,3 +162,24 @@ class PriceUpdaterTests(unittest.TestCase):
         self.assertNotIn(("TSLA US", "20260501", "20260504"), calls)
         self.assertEqual(stats.new_codes, 3)
         self.assertEqual(stats.added_price_rows, 3)
+
+
+class BuildAllTests(unittest.TestCase):
+    def test_discovers_only_etf_preview_files(self) -> None:
+        with TemporaryDirectory() as preview_dir, TemporaryDirectory() as public_preview_dir:
+            preview = Path(preview_dir)
+            public_preview = Path(public_preview_dir)
+            (preview / "00981a.json").write_text("{}", encoding="utf-8")
+            (public_preview / "00981a.json").write_text("{}", encoding="utf-8")
+            (public_preview / "00981a-prices.json").write_text("{}", encoding="utf-8")
+            (public_preview / "index.json").write_text("{}", encoding="utf-8")
+
+            original_preview_dirs = build_all.PREVIEW_DIRS
+            try:
+                build_all.PREVIEW_DIRS = [preview, public_preview]
+
+                files = build_all.discover_etf_files()
+            finally:
+                build_all.PREVIEW_DIRS = original_preview_dirs
+
+        self.assertEqual(files, [public_preview / "00981a.json"])

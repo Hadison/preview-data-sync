@@ -4,6 +4,7 @@ from __future__ import annotations
 import subprocess
 import sys
 import json
+import os
 from pathlib import Path
 
 
@@ -46,6 +47,8 @@ def main() -> int:
                 str(prices_input),
                 "--output",
                 str(prices_output),
+                "--sleep-seconds",
+                os.environ.get("ETF_PRICE_SLEEP_SECONDS", "0.05"),
             ],
         ]
         for command in commands:
@@ -60,7 +63,7 @@ def discover_etf_files() -> list[Path]:
         if not directory.exists():
             continue
         for path in sorted(directory.glob("*.json")):
-            if path.name.endswith("-prices.json"):
+            if path.name.endswith("-prices.json") or path.name == "index.json":
                 continue
             by_stem[path.stem.lower()] = path
     return [by_stem[stem] for stem in sorted(by_stem)]
