@@ -1,0 +1,40 @@
+name: Build active ETF preview data
+
+on:
+  schedule:
+    # 19:30 Asia/Taipei, Monday-Friday.
+    - cron: "30 11 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m pytest
+
+      - name: Build preview data
+        env:
+          ETF_HOLDINGS_URL: ${{ vars.ETF_HOLDINGS_URL }}
+          CMONEY_HOLDINGS_URL: ${{ vars.CMONEY_HOLDINGS_URL }}
+        run: python scripts/build_all.py
+
+      - name: Commit updated preview data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: build active ETF preview data"
+          file_pattern: public/preview/*.json

@@ -1,0 +1,728 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>00981A 更新狀態</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f6f7f9;
+        --panel: #ffffff;
+        --ink: #17202a;
+        --muted: #667085;
+        --line: #dde3ea;
+        --ok: #16875d;
+        --warn: #b7791f;
+        --bad: #c2413b;
+        --blue: #2563a8;
+        --teal: #0f766e;
+        --violet: #6d5bd0;
+        --shadow: 0 1px 3px rgba(16, 24, 40, 0.08);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--ink);
+        font-family:
+          ui-sans-serif,
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          "Noto Sans TC",
+          sans-serif;
+      }
+
+      .shell {
+        width: min(1180px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 24px 0 40px;
+      }
+
+      .topbar {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 16px;
+        padding: 10px 0 20px;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 28px;
+        line-height: 1.2;
+        letter-spacing: 0;
+      }
+
+      .subtitle {
+        margin-top: 6px;
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      .refresh {
+        border: 1px solid var(--line);
+        background: var(--panel);
+        color: var(--ink);
+        border-radius: 6px;
+        min-width: 40px;
+        height: 40px;
+        padding: 0 12px;
+        cursor: pointer;
+        box-shadow: var(--shadow);
+      }
+
+      .refresh:hover {
+        border-color: #aeb8c5;
+      }
+
+      .summary {
+        display: grid;
+        grid-template-columns: 1.2fr repeat(3, 1fr);
+        gap: 12px;
+        margin-bottom: 18px;
+      }
+
+      .panel {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        box-shadow: var(--shadow);
+      }
+
+      .status-panel {
+        padding: 18px;
+        border-left: 5px solid var(--blue);
+      }
+
+      .status-panel.ok {
+        border-left-color: var(--ok);
+      }
+
+      .status-panel.warn {
+        border-left-color: var(--warn);
+      }
+
+      .status-panel.bad {
+        border-left-color: var(--bad);
+      }
+
+      .metric {
+        padding: 16px;
+      }
+
+      .label {
+        color: var(--muted);
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      .value {
+        margin-top: 8px;
+        font-size: 26px;
+        font-weight: 750;
+        line-height: 1.15;
+      }
+
+      .hint {
+        margin-top: 6px;
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.5;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+        margin-bottom: 18px;
+      }
+
+      .section {
+        padding: 16px;
+      }
+
+      h2 {
+        margin: 0 0 14px;
+        font-size: 18px;
+        line-height: 1.25;
+      }
+
+      .rows {
+        display: grid;
+        gap: 10px;
+      }
+
+      .row {
+        display: grid;
+        grid-template-columns: minmax(120px, 180px) 1fr;
+        gap: 12px;
+        align-items: center;
+        min-height: 28px;
+        border-bottom: 1px solid #eef1f5;
+        padding-bottom: 10px;
+      }
+
+      .row:last-child {
+        border-bottom: 0;
+        padding-bottom: 0;
+      }
+
+      .row-name {
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .row-value {
+        font-size: 14px;
+        font-weight: 650;
+        word-break: break-word;
+      }
+
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        min-height: 24px;
+        border-radius: 999px;
+        padding: 3px 9px;
+        font-size: 12px;
+        font-weight: 750;
+        border: 1px solid transparent;
+      }
+
+      .badge.ok {
+        background: #e8f6ef;
+        color: var(--ok);
+        border-color: #c1e8d5;
+      }
+
+      .badge.warn {
+        background: #fff4df;
+        color: #946115;
+        border-color: #f1d29b;
+      }
+
+      .badge.bad {
+        background: #fde9e7;
+        color: var(--bad);
+        border-color: #f4b8b2;
+      }
+
+      .table-wrap {
+        overflow-x: auto;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 760px;
+      }
+
+      th,
+      td {
+        padding: 10px 12px;
+        border-bottom: 1px solid #eef1f5;
+        text-align: left;
+        font-size: 13px;
+        white-space: nowrap;
+      }
+
+      th {
+        color: var(--muted);
+        font-size: 12px;
+        font-weight: 750;
+        background: #fafbfc;
+      }
+
+      .accent-blue {
+        color: var(--blue);
+      }
+
+      .accent-teal {
+        color: var(--teal);
+      }
+
+      .accent-violet {
+        color: var(--violet);
+      }
+
+      .empty {
+        padding: 16px;
+        color: var(--muted);
+        background: #fafbfc;
+        border: 1px dashed var(--line);
+        border-radius: 8px;
+      }
+
+      .footer {
+        color: var(--muted);
+        font-size: 12px;
+        line-height: 1.6;
+      }
+
+      @media (max-width: 900px) {
+        .summary,
+        .grid {
+          grid-template-columns: 1fr;
+        }
+
+        .topbar {
+          align-items: stretch;
+        }
+      }
+
+      @media (max-width: 560px) {
+        .shell {
+          width: min(100% - 20px, 1180px);
+          padding-top: 14px;
+        }
+
+        h1 {
+          font-size: 23px;
+        }
+
+        .value {
+          font-size: 22px;
+        }
+
+        .row {
+          grid-template-columns: 1fr;
+          gap: 4px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <h1>主動式 ETF 更新狀態</h1>
+          <div class="subtitle" id="page-subtitle">讀取資料中</div>
+        </div>
+        <button class="refresh" type="button" id="refresh-button" aria-label="重新整理">↻</button>
+      </header>
+
+      <section class="summary">
+        <div class="panel status-panel" id="overall-panel">
+          <div class="label">Overall</div>
+          <div class="value" id="overall-status">讀取中</div>
+          <div class="hint" id="overall-hint">正在讀取 preview JSON</div>
+        </div>
+        <div class="panel metric">
+          <div class="label">Holdings Date</div>
+          <div class="value accent-blue" id="holdings-date">-</div>
+          <div class="hint" id="holdings-age">-</div>
+        </div>
+        <div class="panel metric">
+          <div class="label">Prices Date</div>
+          <div class="value accent-teal" id="prices-date">-</div>
+          <div class="hint" id="prices-age">-</div>
+        </div>
+        <div class="panel metric">
+          <div class="label">Coverage</div>
+          <div class="value accent-violet" id="coverage">-</div>
+          <div class="hint" id="coverage-hint">-</div>
+        </div>
+      </section>
+
+      <section class="panel section" style="margin-bottom: 18px">
+        <h2>所有 ETF</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>代號</th>
+                <th>名稱</th>
+                <th>持股日期</th>
+                <th>股價日期</th>
+                <th>目前持股</th>
+                <th>價格代號</th>
+                <th>狀態</th>
+              </tr>
+            </thead>
+            <tbody id="etf-table"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="grid">
+        <div class="panel section">
+          <h2>持股資料</h2>
+          <div class="rows">
+            <div class="row">
+              <div class="row-name">ETF</div>
+              <div class="row-value" id="etf-name">-</div>
+            </div>
+            <div class="row">
+              <div class="row-name">目前持股</div>
+              <div class="row-value" id="current-count">-</div>
+            </div>
+            <div class="row">
+              <div class="row-name">歷史股票</div>
+              <div class="row-value" id="series-count">-</div>
+            </div>
+            <div class="row">
+              <div class="row-name">已退出股票</div>
+              <div class="row-value" id="exited-count">-</div>
+            </div>
+            <div class="row">
+              <div class="row-name">累積交易日</div>
+              <div class="row-value" id="n-days">-</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel section">
+          <h2>股價資料</h2>
+          <div class="rows">
+            <div class="row">
+              <div class="row-name">追蹤股票</div>
+              <div class="row-value" id="price-code-count">-</div>
+            </div>
+            <div class="row">
+              <div class="row-name">價格總筆數</div>
+              <div class="row-value" id="price-row-count">-</div>
+            </div>
+            <div class="row">
+              <div class="row-name">和持股日期對齊</div>
+              <div class="row-value" id="date-alignment">-</div>
+            </div>
+            <div class="row">
+              <div class="row-name">缺最新價格</div>
+              <div class="row-value" id="missing-latest">-</div>
+            </div>
+            <div class="row">
+              <div class="row-name">產生時間</div>
+              <div class="row-value" id="generated-at">-</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel section">
+        <h2>最新持股前 15 名</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>代號</th>
+                <th>名稱</th>
+                <th>權重</th>
+                <th>股數</th>
+                <th>最新收盤</th>
+                <th>價格日期</th>
+              </tr>
+            </thead>
+            <tbody id="holdings-table"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="grid" style="margin-top: 18px">
+        <div class="panel section">
+          <h2>資料缺口</h2>
+          <div id="gap-list" class="empty">讀取中</div>
+        </div>
+        <div class="panel section">
+          <h2>來源檔案</h2>
+          <div class="rows">
+            <div class="row">
+              <div class="row-name">持股 JSON</div>
+              <div class="row-value">preview/00981a.json</div>
+            </div>
+            <div class="row">
+              <div class="row-name">股價 JSON</div>
+              <div class="row-value">preview/00981a-prices.json</div>
+            </div>
+            <div class="row">
+              <div class="row-name">價格來源</div>
+              <div class="row-value" id="price-source">-</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <p class="footer" id="footer-note"></p>
+    </main>
+
+    <script>
+      const MANIFEST_URL = "./preview/index.json";
+      let manifestItems = [];
+      let selectedSlug = "00981a";
+
+      const $ = (id) => document.getElementById(id);
+
+      document.addEventListener("DOMContentLoaded", () => {
+        $("refresh-button").addEventListener("click", () => loadDashboard(true));
+        loadDashboard(false);
+      });
+
+      async function loadDashboard(forceRefresh) {
+        try {
+          const stamp = forceRefresh ? `?t=${Date.now()}` : "";
+          await loadManifest(stamp);
+          const selected = manifestItems.find((item) => item.slug === selectedSlug) || manifestItems[0];
+          selectedSlug = selected?.slug || selectedSlug;
+          const holdingsUrl = `./preview/${selectedSlug}.json`;
+          const pricesUrl = `./preview/${selectedSlug}-prices.json`;
+          const [holdings, prices] = await Promise.all([
+            fetchJson(`${holdingsUrl}${stamp}`),
+            fetchJson(`${pricesUrl}${stamp}`),
+          ]);
+          renderEtfTable();
+          renderDashboard(holdings, prices);
+        } catch (error) {
+          setOverall("bad", "讀取失敗", error.message);
+          $("page-subtitle").textContent = "無法讀取 preview JSON";
+        }
+      }
+
+      async function loadManifest(stamp) {
+        if (manifestItems.length && !stamp) return;
+        try {
+          const manifest = await fetchJson(`${MANIFEST_URL}${stamp}`);
+          manifestItems = (manifest.items || []).sort((a, b) => a.code.localeCompare(b.code));
+          if (!manifestItems.find((item) => item.slug === selectedSlug) && manifestItems.length) {
+            selectedSlug = manifestItems[0].slug;
+          }
+        } catch (error) {
+          manifestItems = [{ slug: "00981a", code: "00981A", name: "主動統一台股增長" }];
+        }
+      }
+
+      async function fetchJson(url) {
+        const response = await fetch(url, { cache: "no-store" });
+        if (!response.ok) {
+          throw new Error(`${url} HTTP ${response.status}`);
+        }
+        return response.json();
+      }
+
+      function renderDashboard(holdings, prices) {
+        const holdingCodes = collectHoldingCodes(holdings);
+        const priceCodes = new Set((prices.codes || []).map(String));
+        const priceRows = prices.prices || {};
+        const missingCodeRows = [...holdingCodes].filter((code) => !priceRows[code] || priceRows[code].length === 0);
+        const missingLatestRows = [...priceCodes].filter((code) => {
+          const rows = priceRows[code] || [];
+          return rows.length > 0 && rows[rows.length - 1].date !== prices.as_of;
+        });
+        const staleDays = calendarDayDiff(parseDate(holdings.as_of), taipeiNowDate());
+        const pricesAligned = holdings.as_of === prices.as_of;
+        const coverageRatio = priceCodes.size === 0 ? 0 : (priceCodes.size - missingCodeRows.length) / priceCodes.size;
+        const status = resolveStatus({ staleDays, pricesAligned, missingCodeRows, missingLatestRows });
+        const etfLabel = `${holdings.etf?.code || selectedSlug.toUpperCase()} ${holdings.etf?.name || ""}`.trim();
+
+        $("page-subtitle").textContent = `${etfLabel} / 最後檢查：${formatTaipeiDateTime(new Date())}`;
+        setOverall(status.level, status.title, status.hint);
+
+        $("holdings-date").textContent = formatYmd(holdings.as_of);
+        $("holdings-age").textContent = describeAge(staleDays);
+        $("prices-date").textContent = formatYmd(prices.as_of);
+        $("prices-age").textContent = pricesAligned ? "已和持股日期對齊" : "未和持股日期對齊";
+        $("coverage").textContent = `${Math.round(coverageRatio * 100)}%`;
+        $("coverage-hint").textContent = `${priceCodes.size - missingCodeRows.length}/${priceCodes.size} 檔有價格資料`;
+
+        $("etf-name").textContent = `${holdings.etf?.code || "00981A"} ${holdings.etf?.name || ""}`;
+        $("current-count").textContent = `${(holdings.current || []).length} 檔`;
+        $("series-count").textContent = `${Object.keys(holdings.series || {}).length} 檔`;
+        $("exited-count").textContent = `${(holdings.exited_codes || []).length} 檔`;
+        $("n-days").textContent = `${holdings.n_days || 0} 日`;
+
+        $("price-code-count").textContent = `${(prices.codes || []).length} 檔`;
+        $("price-row-count").textContent = `${Object.values(priceRows).reduce((sum, rows) => sum + rows.length, 0).toLocaleString()} 筆`;
+        $("date-alignment").innerHTML = pricesAligned ? badge("ok", "對齊") : badge("bad", "未對齊");
+        $("missing-latest").innerHTML = missingLatestRows.length === 0 ? badge("ok", "0 檔") : badge("warn", `${missingLatestRows.length} 檔`);
+        $("generated-at").textContent = prices.generated_at ? formatUtcIso(prices.generated_at) : "-";
+        $("price-source").textContent = prices.source || "TWSE/TPEx";
+
+        renderHoldingsTable(holdings.current || [], priceRows);
+        renderGaps(missingCodeRows, missingLatestRows, prices.as_of);
+        $("footer-note").textContent = `持股 first_date ${formatYmd(holdings.first_date)}，股價 first_date ${formatYmd(prices.first_date)}。`;
+      }
+
+      function renderEtfTable() {
+        const tbody = $("etf-table");
+        tbody.innerHTML = "";
+        manifestItems.forEach((item) => {
+          const aligned = item.holdings_as_of && item.holdings_as_of === item.prices_as_of;
+          const tr = document.createElement("tr");
+          tr.style.cursor = "pointer";
+          tr.dataset.slug = item.slug;
+          tr.innerHTML = `
+            <td>${escapeHtml(item.code || item.slug.toUpperCase())}</td>
+            <td>${escapeHtml(item.name || "")}</td>
+            <td>${formatYmd(item.holdings_as_of)}</td>
+            <td>${formatYmd(item.prices_as_of)}</td>
+            <td>${formatInteger(item.current_count)}</td>
+            <td>${formatInteger(item.price_code_count)}</td>
+            <td>${aligned ? badge("ok", "對齊") : badge("warn", "檢查")}</td>
+          `;
+          if (item.slug === selectedSlug) {
+            tr.style.background = "#eef6ff";
+          }
+          tr.addEventListener("click", () => {
+            selectedSlug = item.slug;
+            loadDashboard(true);
+          });
+          tbody.appendChild(tr);
+        });
+      }
+
+      function resolveStatus({ staleDays, pricesAligned, missingCodeRows, missingLatestRows }) {
+        if (!pricesAligned) {
+          return { level: "bad", title: "需要檢查", hint: "持股日期和股價日期沒有對齊" };
+        }
+        if (missingCodeRows.length > 0) {
+          return { level: "bad", title: "資料缺漏", hint: `${missingCodeRows.length} 檔股票完全沒有價格資料` };
+        }
+        if (missingLatestRows.length > 0) {
+          return { level: "warn", title: "部分落後", hint: `${missingLatestRows.length} 檔股票未補到股價 as_of` };
+        }
+        if (staleDays > 4) {
+          return { level: "warn", title: "可能過期", hint: `持股資料距今 ${staleDays} 天` };
+        }
+        return { level: "ok", title: "更新正常", hint: "持股和股價資料已對齊" };
+      }
+
+      function renderHoldingsTable(currentRows, priceRows) {
+        const tbody = $("holdings-table");
+        tbody.innerHTML = "";
+        currentRows.slice(0, 15).forEach((row) => {
+          const prices = priceRows[row.code] || [];
+          const latest = prices[prices.length - 1] || {};
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
+            <td>${escapeHtml(row.code)}</td>
+            <td>${escapeHtml(row.name || "")}</td>
+            <td>${formatNumber(row.weight)}%</td>
+            <td>${formatInteger(row.shares)}</td>
+            <td>${latest.close == null ? "-" : formatNumber(latest.close)}</td>
+            <td>${latest.date ? formatYmd(latest.date) : "-"}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+      }
+
+      function renderGaps(missingCodeRows, missingLatestRows, pricesAsOf) {
+        const gapList = $("gap-list");
+        if (missingCodeRows.length === 0 && missingLatestRows.length === 0) {
+          gapList.className = "empty";
+          gapList.textContent = "沒有資料缺口";
+          return;
+        }
+        const chunks = [];
+        if (missingCodeRows.length) {
+          chunks.push(`完全缺價格：${missingCodeRows.slice(0, 30).join(", ")}`);
+        }
+        if (missingLatestRows.length) {
+          chunks.push(`未補到 ${formatYmd(pricesAsOf)}：${missingLatestRows.slice(0, 30).join(", ")}`);
+        }
+        gapList.className = "empty";
+        gapList.textContent = chunks.join(" / ");
+      }
+
+      function collectHoldingCodes(holdings) {
+        const codes = new Set();
+        (holdings.current || []).forEach((row) => addStockCode(codes, row.code));
+        Object.keys(holdings.series || {}).forEach((code) => addStockCode(codes, code));
+        (holdings.exited_codes || []).forEach((code) => addStockCode(codes, code));
+        return codes;
+      }
+
+      function addStockCode(codes, code) {
+        const text = String(code || "").trim();
+        if (/^\d{4,6}[A-Z]?$/.test(text)) {
+          codes.add(text);
+        }
+      }
+
+      function setOverall(level, title, hint) {
+        const panel = $("overall-panel");
+        panel.className = `panel status-panel ${level}`;
+        $("overall-status").textContent = title;
+        $("overall-hint").textContent = hint;
+      }
+
+      function badge(level, text) {
+        return `<span class="badge ${level}">${escapeHtml(text)}</span>`;
+      }
+
+      function parseDate(ymd) {
+        const text = String(ymd || "");
+        return new Date(`${text.slice(0, 4)}-${text.slice(4, 6)}-${text.slice(6, 8)}T00:00:00+08:00`);
+      }
+
+      function taipeiNowDate() {
+        const parts = new Intl.DateTimeFormat("en-CA", {
+          timeZone: "Asia/Taipei",
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit",
+        }).formatToParts(new Date());
+        const values = Object.fromEntries(parts.map((part) => [part.type, part.value]));
+        return new Date(`${values.year}-${values.month}-${values.day}T00:00:00+08:00`);
+      }
+
+      function calendarDayDiff(a, b) {
+        return Math.max(0, Math.round((b.getTime() - a.getTime()) / 86400000));
+      }
+
+      function describeAge(days) {
+        if (days === 0) return "今天";
+        if (days === 1) return "距今 1 天";
+        return `距今 ${days} 天`;
+      }
+
+      function formatYmd(ymd) {
+        const text = String(ymd || "");
+        if (!/^\d{8}$/.test(text)) return "-";
+        return `${text.slice(0, 4)}-${text.slice(4, 6)}-${text.slice(6, 8)}`;
+      }
+
+      function formatTaipeiDateTime(date) {
+        return new Intl.DateTimeFormat("zh-TW", {
+          timeZone: "Asia/Taipei",
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit",
+          hour: "2-digit",
+          minute: "2-digit",
+        }).format(date);
+      }
+
+      function formatUtcIso(value) {
+        const date = new Date(value);
+        if (Number.isNaN(date.getTime())) return value;
+        return formatTaipeiDateTime(date);
+      }
+
+      function formatNumber(value) {
+        if (value == null || value === "") return "-";
+        return Number(value).toLocaleString("zh-TW", { maximumFractionDigits: 2 });
+      }
+
+      function formatInteger(value) {
+        if (value == null || value === "") return "-";
+        return Number(value).toLocaleString("zh-TW", { maximumFractionDigits: 0 });
+      }
+
+      function escapeHtml(value) {
+        return String(value)
+          .replaceAll("&", "&amp;")
+          .replaceAll("<", "&lt;")
+          .replaceAll(">", "&gt;")
+          .replaceAll('"', "&quot;")
+          .replaceAll("'", "&#039;");
+      }
+    </script>
+  </body>
+</html>
