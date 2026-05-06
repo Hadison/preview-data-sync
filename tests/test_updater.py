@@ -174,12 +174,34 @@ class BuildAllTests(unittest.TestCase):
             (public_preview / "00981a-prices.json").write_text("{}", encoding="utf-8")
             (public_preview / "index.json").write_text("{}", encoding="utf-8")
 
-            original_preview_dirs = build_all.PREVIEW_DIRS
+            original_public_preview_dir = build_all.PUBLIC_PREVIEW_DIR
+            original_seed_preview_dir = build_all.SEED_PREVIEW_DIR
             try:
-                build_all.PREVIEW_DIRS = [preview, public_preview]
+                build_all.PUBLIC_PREVIEW_DIR = public_preview
+                build_all.SEED_PREVIEW_DIR = preview
 
                 files = build_all.discover_etf_files()
             finally:
-                build_all.PREVIEW_DIRS = original_preview_dirs
+                build_all.PUBLIC_PREVIEW_DIR = original_public_preview_dir
+                build_all.SEED_PREVIEW_DIR = original_seed_preview_dir
 
         self.assertEqual(files, [public_preview / "00981a.json"])
+
+    def test_uses_seed_preview_only_when_public_file_is_missing(self) -> None:
+        with TemporaryDirectory() as preview_dir, TemporaryDirectory() as public_preview_dir:
+            preview = Path(preview_dir)
+            public_preview = Path(public_preview_dir)
+            (preview / "00981a.json").write_text("{}", encoding="utf-8")
+
+            original_public_preview_dir = build_all.PUBLIC_PREVIEW_DIR
+            original_seed_preview_dir = build_all.SEED_PREVIEW_DIR
+            try:
+                build_all.PUBLIC_PREVIEW_DIR = public_preview
+                build_all.SEED_PREVIEW_DIR = preview
+
+                files = build_all.discover_etf_files()
+            finally:
+                build_all.PUBLIC_PREVIEW_DIR = original_public_preview_dir
+                build_all.SEED_PREVIEW_DIR = original_seed_preview_dir
+
+        self.assertEqual(files, [preview / "00981a.json"])

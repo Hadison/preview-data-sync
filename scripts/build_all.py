@@ -9,7 +9,8 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-PREVIEW_DIRS = [PROJECT_ROOT / "preview", PROJECT_ROOT / "public" / "preview"]
+PUBLIC_PREVIEW_DIR = PROJECT_ROOT / "public" / "preview"
+SEED_PREVIEW_DIR = PROJECT_ROOT / "preview"
 
 
 def main() -> int:
@@ -20,9 +21,9 @@ def main() -> int:
     for input_path in etf_files:
         stem = input_path.stem.lower()
         etf_code = stem.upper()
-        output_path = PROJECT_ROOT / "public" / "preview" / f"{stem}.json"
+        output_path = PUBLIC_PREVIEW_DIR / f"{stem}.json"
         prices_input = find_prices_input(stem)
-        prices_output = PROJECT_ROOT / "public" / "preview" / f"{stem}-prices.json"
+        prices_output = PUBLIC_PREVIEW_DIR / f"{stem}-prices.json"
 
         print(f"==> Updating {etf_code}", flush=True)
         commands = [
@@ -58,20 +59,28 @@ def main() -> int:
 
 
 def discover_etf_files() -> list[Path]:
+    stems = sorted(discover_preview_stems(PUBLIC_PREVIEW_DIR) | discover_preview_stems(SEED_PREVIEW_DIR))
     by_stem: dict[str, Path] = {}
-    for directory in PREVIEW_DIRS:
-        if not directory.exists():
-            continue
-        for path in sorted(directory.glob("*.json")):
-            if path.name.endswith("-prices.json") or path.name == "index.json":
-                continue
-            by_stem[path.stem.lower()] = path
+    for stem in stems:
+        public_path = PUBLIC_PREVIEW_DIR / f"{stem}.json"
+        seed_path = SEED_PREVIEW_DIR / f"{stem}.json"
+        by_stem[stem] = public_path if public_path.exists() else seed_path
     return [by_stem[stem] for stem in sorted(by_stem)]
 
 
+def discover_preview_stems(directory: Path) -> set[str]:
+    if not directory.exists():
+        return set()
+    return {
+        path.stem.lower()
+        for path in directory.glob("*.json")
+        if not path.name.endswith("-prices.json") and path.name != "index.json"
+    }
+
+
 def find_prices_input(stem: str) -> Path:
-    public_path = PROJECT_ROOT / "public" / "preview" / f"{stem}-prices.json"
-    legacy_path = PROJECT_ROOT / "preview" / f"{stem}-prices.json"
+    public_path = PUBLIC_PREVIEW_DIR / f"{stem}-prices.json"
+    legacy_path = SEED_PREVIEW_DIR / f"{stem}-prices.json"
     if public_path.exists():
         return public_path
     if legacy_path.exists():
@@ -80,7 +89,7 @@ def find_prices_input(stem: str) -> Path:
 
 
 def write_manifest() -> None:
-    preview_dir = PROJECT_ROOT / "public" / "preview"
+    preview_dir = PUBLIC_PREVIEW_DIR
     items = []
     for path in sorted(preview_dir.glob("*.json")):
         if path.name.endswith("-prices.json") or path.name == "index.json":
