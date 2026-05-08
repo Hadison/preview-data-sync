@@ -1,5 +1,5 @@
 {
-  "as_of": "20260506",
+  "as_of": "20260507",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -1547,6 +1547,15 @@
         "close": 2250.0,
         "adj_factor": 1.0,
         "volume_shares": 38026963
+      },
+      {
+        "date": "20260507",
+        "open": 2335.0,
+        "high": 2345.0,
+        "low": 2310.0,
+        "close": 2310.0,
+        "adj_factor": 1.0,
+        "volume_shares": 41966283
       }
     ],
     "7011 JT": [],
@@ -1608,5 +1617,5 @@
     "GLEN LN": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-07T11:34:20Z"
+  "generated_at": "2026-05-08T11:04:00Z"
 }
