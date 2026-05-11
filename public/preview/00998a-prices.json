@@ -1,9 +1,11 @@
 {
-  "as_of": "20260507",
+  "as_of": "20260508",
   "first_date": "20260407",
   "codes": [
     "202606FESB",
     "7167 JP",
+    "8309 JP",
+    "8377 JP",
     "ABN NA",
     "BAMI IM",
     "BBVA SM",
@@ -27,6 +29,7 @@
     "NN NA",
     "NWG LN",
     "OCBC SP",
+    "RELY US",
     "SAN SM",
     "SDLF LN",
     "SHG US",
@@ -77,8 +80,11 @@
     "UBS US": [],
     "ISP IM": [],
     "UNI IM": [],
-    "7167 JP": []
+    "7167 JP": [],
+    "8309 JP": [],
+    "8377 JP": [],
+    "RELY US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-08T11:13:49Z"
+  "generated_at": "2026-05-11T12:49:13Z"
 }
