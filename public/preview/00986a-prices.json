@@ -1,8 +1,9 @@
 {
-  "as_of": "20260508",
+  "as_of": "20260511",
   "first_date": "20250825",
   "codes": [
     "2330",
+    "4062 JT",
     "6501 JT",
     "6701 JT",
     "6857 JT",
@@ -1565,6 +1566,15 @@
         "close": 2290.0,
         "adj_factor": 1.0,
         "volume_shares": 31730352
+      },
+      {
+        "date": "20260511",
+        "open": 2265.0,
+        "high": 2275.0,
+        "low": 2235.0,
+        "close": 2235.0,
+        "adj_factor": 1.0,
+        "volume_shares": 46172626
       }
     ],
     "7011 JT": [],
@@ -1623,8 +1633,9 @@
     "ETN US": [],
     "VRTX US": [],
     "CAT US": [],
-    "GLEN LN": []
+    "GLEN LN": [],
+    "4062 JT": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-11T12:38:41Z"
+  "generated_at": "2026-05-12T11:41:00Z"
 }
