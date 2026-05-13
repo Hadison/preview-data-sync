@@ -30951,6 +30951,15 @@
         "close": 4015.0,
         "adj_factor": 1.0,
         "volume_shares": 4163150
+      },
+      {
+        "date": "20260512",
+        "open": 4050.0,
+        "high": 4150.0,
+        "low": 3865.0,
+        "close": 3920.0,
+        "adj_factor": 1.0,
+        "volume_shares": 3524136
       }
     ],
     "4722": [
@@ -41412,6 +41421,15 @@
         "close": 866.0,
         "adj_factor": 1.0,
         "volume_shares": 3749702
+      },
+      {
+        "date": "20260512",
+        "open": 906.0,
+        "high": 952.0,
+        "low": 847.0,
+        "close": 952.0,
+        "adj_factor": 1.0,
+        "volume_shares": 5891822
       }
     ],
     "3702": [
@@ -52988,5 +53006,5 @@
     ]
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-12T11:46:12Z"
+  "generated_at": "2026-05-13T11:47:51Z"
 }
