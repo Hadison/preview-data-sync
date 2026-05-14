@@ -1,5 +1,5 @@
 {
-  "as_of": "20260511",
+  "as_of": "20260513",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -50,6 +50,7 @@
     "PLTR US",
     "PWR US",
     "SHOP UN",
+    "SNDK US",
     "SNOW US",
     "SPOT US",
     "SU FP",
@@ -1575,6 +1576,24 @@
         "close": 2235.0,
         "adj_factor": 1.0,
         "volume_shares": 46172626
+      },
+      {
+        "date": "20260512",
+        "open": 2235.0,
+        "high": 2280.0,
+        "low": 2210.0,
+        "close": 2255.0,
+        "adj_factor": 1.0,
+        "volume_shares": 54239538
+      },
+      {
+        "date": "20260513",
+        "open": 2205.0,
+        "high": 2240.0,
+        "low": 2205.0,
+        "close": 2220.0,
+        "adj_factor": 1.0,
+        "volume_shares": 43727683
       }
     ],
     "7011 JT": [],
@@ -1634,8 +1653,9 @@
     "VRTX US": [],
     "CAT US": [],
     "GLEN LN": [],
-    "4062 JT": []
+    "4062 JT": [],
+    "SNDK US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-12T11:41:00Z"
+  "generated_at": "2026-05-14T11:38:06Z"
 }

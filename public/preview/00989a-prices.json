@@ -1,5 +1,5 @@
 {
-  "as_of": "20260512",
+  "as_of": "20260513",
   "first_date": "20251014",
   "codes": [
     "ADI",
@@ -85,7 +85,8 @@
     "VICR",
     "WRBY",
     "XYZ",
-    "ZM"
+    "ZM",
+    "ZS"
   ],
   "prices": {
     "ALGM": [],
@@ -172,8 +173,9 @@
     "DOCN": [],
     "BE": [],
     "MXL": [],
-    "GLW": []
+    "GLW": [],
+    "ZS": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-13T11:46:09Z"
+  "generated_at": "2026-05-14T11:39:37Z"
 }
