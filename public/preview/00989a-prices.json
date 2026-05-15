@@ -1,5 +1,5 @@
 {
-  "as_of": "20260513",
+  "as_of": "20260514",
   "first_date": "20251014",
   "codes": [
     "ADI",
@@ -16,6 +16,7 @@
     "BABA",
     "BE",
     "BKNG",
+    "CBRS",
     "CDNS",
     "CIEN",
     "COIN",
@@ -174,8 +175,9 @@
     "BE": [],
     "MXL": [],
     "GLW": [],
-    "ZS": []
+    "ZS": [],
+    "CBRS": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-14T11:39:37Z"
+  "generated_at": "2026-05-15T11:42:27Z"
 }
