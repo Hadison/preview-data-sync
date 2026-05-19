@@ -1,5 +1,5 @@
 {
-  "as_of": "20260515",
+  "as_of": "20260518",
   "first_date": "20260407",
   "codes": [
     "202606FESB",
@@ -38,6 +38,7 @@
     "SDLF LN",
     "SHG US",
     "SOFI US",
+    "STAN LN",
     "TPEIR GA",
     "UBS US",
     "UCG IM",
@@ -91,8 +92,9 @@
     "CRCL US": [],
     "5844 JP": [],
     "BK US": [],
-    "8331 JP": []
+    "8331 JP": [],
+    "STAN LN": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-18T13:18:12Z"
+  "generated_at": "2026-05-19T12:46:24Z"
 }
