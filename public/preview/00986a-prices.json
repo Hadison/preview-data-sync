@@ -1,5 +1,5 @@
 {
-  "as_of": "20260520",
+  "as_of": "20260521",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -7,6 +7,7 @@
     "6501 JT",
     "6701 JT",
     "6857 JT",
+    "6981 JT",
     "700 HK",
     "7011 JT",
     "8306 JT",
@@ -57,6 +58,7 @@
     "TEAM US",
     "TER US",
     "TMO US",
+    "TSLA US",
     "TTWO US",
     "UBER US",
     "VRTX US",
@@ -1639,6 +1641,15 @@
         "close": 2185.0,
         "adj_factor": 1.0,
         "volume_shares": 38332945
+      },
+      {
+        "date": "20260521",
+        "open": 2240.0,
+        "high": 2255.0,
+        "low": 2230.0,
+        "close": 2230.0,
+        "adj_factor": 1.0,
+        "volume_shares": 24929331
       }
     ],
     "7011 JT": [],
@@ -1699,8 +1710,10 @@
     "CAT US": [],
     "GLEN LN": [],
     "4062 JT": [],
-    "SNDK US": []
+    "SNDK US": [],
+    "6981 JT": [],
+    "TSLA US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-21T12:41:25Z"
+  "generated_at": "2026-05-22T12:17:53Z"
 }

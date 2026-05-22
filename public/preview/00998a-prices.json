@@ -1,5 +1,5 @@
 {
-  "as_of": "20260520",
+  "as_of": "20260521",
   "first_date": "20260407",
   "codes": [
     "202606FESB",
@@ -15,6 +15,7 @@
     "BK US",
     "BMPS IM",
     "BNP FP",
+    "BNY US",
     "BPE IM",
     "C US",
     "CRCL US",
@@ -95,8 +96,9 @@
     "BK US": [],
     "8331 JP": [],
     "STAN LN": [],
-    "7180 JP": []
+    "7180 JP": [],
+    "BNY US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-21T12:51:03Z"
+  "generated_at": "2026-05-22T12:30:12Z"
 }
