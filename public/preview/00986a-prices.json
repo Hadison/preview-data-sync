@@ -1,10 +1,11 @@
 {
-  "as_of": "20260522",
+  "as_of": "20260526",
   "first_date": "20250825",
   "codes": [
     "2330",
     "4062 JT",
     "6501 JT",
+    "6506 JT",
     "6701 JT",
     "6857 JT",
     "6981 JT",
@@ -1659,6 +1660,24 @@
         "close": 2255.0,
         "adj_factor": 1.0,
         "volume_shares": 26823133
+      },
+      {
+        "date": "20260525",
+        "open": 2275.0,
+        "high": 2310.0,
+        "low": 2275.0,
+        "close": 2310.0,
+        "adj_factor": 1.0,
+        "volume_shares": 28250944
+      },
+      {
+        "date": "20260526",
+        "open": 2320.0,
+        "high": 2325.0,
+        "low": 2270.0,
+        "close": 2270.0,
+        "adj_factor": 1.0,
+        "volume_shares": 32781470
       }
     ],
     "7011 JT": [],
@@ -1721,8 +1740,9 @@
     "4062 JT": [],
     "SNDK US": [],
     "6981 JT": [],
-    "TSLA US": []
+    "TSLA US": [],
+    "6506 JT": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-25T13:02:19Z"
+  "generated_at": "2026-05-27T12:47:35Z"
 }
