@@ -1,5 +1,5 @@
 {
-  "as_of": "20260527",
+  "as_of": "20260528",
   "first_date": "20250610",
   "codes": [
     "ABNB US",
@@ -13,6 +13,7 @@
     "BLSH US",
     "BMNR US",
     "BWXT US",
+    "CBRS US",
     "CCJ US",
     "CERS US",
     "COIN US",
@@ -116,8 +117,9 @@
     "CCJ US": [],
     "BLSH US": [],
     "P US": [],
-    "JOBY US": []
+    "JOBY US": [],
+    "CBRS US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-28T12:55:25Z"
+  "generated_at": "2026-05-29T12:35:23Z"
 }
