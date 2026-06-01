@@ -1,5 +1,5 @@
 {
-  "as_of": "20260528",
+  "as_of": "20260529",
   "first_date": "20251103",
   "codes": [
     "005930 KS",
@@ -49,6 +49,7 @@
     "6981 JP",
     "6997 JP",
     "7011 JP",
+    "7220 JP",
     "7769",
     "7826 JP",
     "8210",
@@ -1362,6 +1363,15 @@
         "close": 2390.0,
         "adj_factor": 1.0,
         "volume_shares": 11721062
+      },
+      {
+        "date": "20260529",
+        "open": 2470.0,
+        "high": 2525.0,
+        "low": 2445.0,
+        "close": 2445.0,
+        "adj_factor": 1.0,
+        "volume_shares": 17179076
       }
     ],
     "2330": [
@@ -2579,6 +2589,15 @@
         "close": 2295.0,
         "adj_factor": 1.0,
         "volume_shares": 42313277
+      },
+      {
+        "date": "20260529",
+        "open": 2340.0,
+        "high": 2375.0,
+        "low": 2330.0,
+        "close": 2355.0,
+        "adj_factor": 1.0,
+        "volume_shares": 104783831
       }
     ],
     "2383": [
@@ -3796,6 +3815,15 @@
         "close": 5055.0,
         "adj_factor": 1.0,
         "volume_shares": 2289989
+      },
+      {
+        "date": "20260529",
+        "open": 4925.0,
+        "high": 5250.0,
+        "low": 4925.0,
+        "close": 5120.0,
+        "adj_factor": 1.0,
+        "volume_shares": 3687942
       }
     ],
     "285A JP": [],
@@ -5014,6 +5042,15 @@
         "close": 2580.0,
         "adj_factor": 1.0,
         "volume_shares": 5097423
+      },
+      {
+        "date": "20260529",
+        "open": 2680.0,
+        "high": 2730.0,
+        "low": 2615.0,
+        "close": 2665.0,
+        "adj_factor": 1.0,
+        "volume_shares": 9351169
       }
     ],
     "3665": [
@@ -6231,6 +6268,15 @@
         "close": 2115.0,
         "adj_factor": 1.0,
         "volume_shares": 3095357
+      },
+      {
+        "date": "20260529",
+        "open": 2315.0,
+        "high": 2315.0,
+        "low": 2085.0,
+        "close": 2085.0,
+        "adj_factor": 1.0,
+        "volume_shares": 2705900
       }
     ],
     "5706 JP": [],
@@ -7493,6 +7539,15 @@
         "close": 4700.0,
         "adj_factor": 1.0,
         "volume_shares": 593987
+      },
+      {
+        "date": "20260529",
+        "open": 4920.0,
+        "high": 5145.0,
+        "low": 4825.0,
+        "close": 5065.0,
+        "adj_factor": 1.0,
+        "volume_shares": 839930
       }
     ],
     "6857 JP": [],
@@ -8714,6 +8769,15 @@
         "close": 171.0,
         "adj_factor": 1.0,
         "volume_shares": 9726568
+      },
+      {
+        "date": "20260529",
+        "open": 173.0,
+        "high": 179.5,
+        "low": 171.5,
+        "close": 173.5,
+        "adj_factor": 1.0,
+        "volume_shares": 9388270
       }
     ],
     "9696 HK": [],
@@ -9943,6 +10007,15 @@
         "close": 4410.0,
         "adj_factor": 1.0,
         "volume_shares": 16433052
+      },
+      {
+        "date": "20260529",
+        "open": 4460.0,
+        "high": 4485.0,
+        "low": 4235.0,
+        "close": 4310.0,
+        "adj_factor": 1.0,
+        "volume_shares": 23109791
       }
     ],
     "C_JPY": [],
@@ -11163,6 +11236,15 @@
         "close": 1305.0,
         "adj_factor": 1.0,
         "volume_shares": 5166050
+      },
+      {
+        "date": "20260529",
+        "open": 1335.0,
+        "high": 1360.0,
+        "low": 1275.0,
+        "close": 1320.0,
+        "adj_factor": 1.0,
+        "volume_shares": 6593515
       }
     ],
     "ENR GY": [],
@@ -12234,6 +12316,15 @@
         "close": 7700.0,
         "adj_factor": 1.0,
         "volume_shares": 1512972
+      },
+      {
+        "date": "20260529",
+        "open": 8000.0,
+        "high": 8465.0,
+        "low": 7815.0,
+        "close": 8260.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1880557
       }
     ],
     "6954 JP": [],
@@ -13455,6 +13546,15 @@
         "close": 1325.0,
         "adj_factor": 1.0,
         "volume_shares": 1726727
+      },
+      {
+        "date": "20260529",
+        "open": 1360.0,
+        "high": 1380.0,
+        "low": 1335.0,
+        "close": 1365.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1081877
       }
     ],
     "6525 JP": [],
@@ -14679,6 +14779,15 @@
         "close": 9120.0,
         "adj_factor": 1.0,
         "volume_shares": 1108573
+      },
+      {
+        "date": "20260529",
+        "open": 9205.0,
+        "high": 9390.0,
+        "low": 8665.0,
+        "close": 8665.0,
+        "adj_factor": 1.0,
+        "volume_shares": 685628
       }
     ],
     "MKSI US": [],
@@ -15906,6 +16015,15 @@
         "close": 17835.0,
         "adj_factor": 1.0,
         "volume_shares": 251000
+      },
+      {
+        "date": "20260529",
+        "open": 19000.0,
+        "high": 19510.0,
+        "low": 18615.0,
+        "close": 18950.0,
+        "adj_factor": 1.0,
+        "volume_shares": 686000
       }
     ],
     "ALB US": [],
@@ -17123,6 +17241,24 @@
         "close": 1080.0,
         "adj_factor": 1.0,
         "volume_shares": 27365393
+      },
+      {
+        "date": "20260528",
+        "open": 1125.0,
+        "high": 1130.0,
+        "low": 1000.0,
+        "close": 1025.0,
+        "adj_factor": 1.0,
+        "volume_shares": 25166670
+      },
+      {
+        "date": "20260529",
+        "open": 1090.0,
+        "high": 1095.0,
+        "low": 1035.0,
+        "close": 1055.0,
+        "adj_factor": 1.0,
+        "volume_shares": 21107426
       }
     ],
     "CAT US": [],
@@ -18355,6 +18491,15 @@
         "close": 2570.0,
         "adj_factor": 1.0,
         "volume_shares": 4838102
+      },
+      {
+        "date": "20260529",
+        "open": 2570.0,
+        "high": 2610.0,
+        "low": 2450.0,
+        "close": 2520.0,
+        "adj_factor": 1.0,
+        "volume_shares": 5371739
       }
     ],
     "FSLY US": [],
@@ -19579,6 +19724,15 @@
         "close": 627.0,
         "adj_factor": 1.0,
         "volume_shares": 35071941
+      },
+      {
+        "date": "20260529",
+        "open": 642.0,
+        "high": 644.0,
+        "low": 608.0,
+        "close": 611.0,
+        "adj_factor": 1.0,
+        "volume_shares": 43968378
       }
     ],
     "6997 JP": [],
@@ -20809,6 +20963,15 @@
         "close": 5915.0,
         "adj_factor": 1.0,
         "volume_shares": 1076000
+      },
+      {
+        "date": "20260529",
+        "open": 6165.0,
+        "high": 6200.0,
+        "low": 5870.0,
+        "close": 5960.0,
+        "adj_factor": 1.0,
+        "volume_shares": 7136000
       }
     ],
     "AAOI US": [],
@@ -22036,6 +22199,15 @@
         "close": 1540.0,
         "adj_factor": 1.0,
         "volume_shares": 8654000
+      },
+      {
+        "date": "20260529",
+        "open": 1615.0,
+        "high": 1690.0,
+        "low": 1610.0,
+        "close": 1690.0,
+        "adj_factor": 1.0,
+        "volume_shares": 9688000
       }
     ],
     "010120 KS": [],
@@ -22045,8 +22217,9 @@
     "6981 JP": [],
     "VSH US": [],
     "ARM US": [],
-    "6963 JP": []
+    "6963 JP": [],
+    "7220 JP": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-29T12:42:45Z"
+  "generated_at": "2026-06-01T16:11:10Z"
 }

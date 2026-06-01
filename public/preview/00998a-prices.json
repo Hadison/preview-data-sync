@@ -1,11 +1,12 @@
 {
-  "as_of": "20260528",
+  "as_of": "20260529",
   "first_date": "20260407",
   "codes": [
     "202606FESB",
     "5844 JP",
     "7167 JP",
     "7180 JP",
+    "7182 JP",
     "8309 JP",
     "8331 JP",
     "8377 JP",
@@ -25,6 +26,7 @@
     "GS US",
     "HOOD US",
     "HSBA LN",
+    "IBKR US",
     "INGA NA",
     "ISP IM",
     "LGEN LN",
@@ -103,8 +105,10 @@
     "BNY US": [],
     "SNEX US": [],
     "AGS BB": [],
-    "ETE GA": []
+    "ETE GA": [],
+    "7182 JP": [],
+    "IBKR US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-05-29T12:51:12Z"
+  "generated_at": "2026-06-01T16:29:10Z"
 }
