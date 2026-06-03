@@ -1,5 +1,5 @@
 {
-  "as_of": "20260601",
+  "as_of": "20260602",
   "first_date": "20250610",
   "codes": [
     "ABNB US",
@@ -22,6 +22,7 @@
     "CRWV US",
     "DE US",
     "EXAS US",
+    "FIG US",
     "GH US",
     "GOOGL US",
     "HOOD US",
@@ -58,6 +59,7 @@
     "TXG US",
     "VCYT US",
     "WGS US",
+    "XE US",
     "XYZ US"
   ],
   "prices": {
@@ -118,8 +120,10 @@
     "BLSH US": [],
     "P US": [],
     "JOBY US": [],
-    "CBRS US": []
+    "CBRS US": [],
+    "FIG US": [],
+    "XE US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-06-02T13:02:14Z"
+  "generated_at": "2026-06-03T14:17:31Z"
 }
