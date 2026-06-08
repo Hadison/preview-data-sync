@@ -1,5 +1,5 @@
 {
-  "as_of": "20260605",
+  "as_of": "20260608",
   "first_date": "20260202",
   "codes": [
     "1303",
@@ -814,6 +814,24 @@
         "close": 111.0,
         "adj_factor": 1.0,
         "volume_shares": 55044623
+      },
+      {
+        "date": "20260605",
+        "open": 109.0,
+        "high": 109.0,
+        "low": 100.5,
+        "close": 104.5,
+        "adj_factor": 1.0,
+        "volume_shares": 53708093
+      },
+      {
+        "date": "20260608",
+        "open": 96.1,
+        "high": 98.9,
+        "low": 95.2,
+        "close": 97.5,
+        "adj_factor": 1.0,
+        "volume_shares": 55665706
       }
     ],
     "1519": [
@@ -1518,6 +1536,24 @@
         "close": 910.0,
         "adj_factor": 1.0,
         "volume_shares": 19360283
+      },
+      {
+        "date": "20260605",
+        "open": 914.0,
+        "high": 921.0,
+        "low": 841.0,
+        "close": 851.0,
+        "adj_factor": 1.0,
+        "volume_shares": 7358593
+      },
+      {
+        "date": "20260608",
+        "open": 766.0,
+        "high": 822.0,
+        "low": 766.0,
+        "close": 815.0,
+        "adj_factor": 1.0,
+        "volume_shares": 4498611
       }
     ],
     "1560": [
@@ -2231,6 +2267,15 @@
         "close": 698.0,
         "adj_factor": 1.0,
         "volume_shares": 1136132
+      },
+      {
+        "date": "20260608",
+        "open": 629.0,
+        "high": 655.0,
+        "low": 629.0,
+        "close": 649.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1525931
       }
     ],
     "1590": [
@@ -2926,6 +2971,33 @@
         "close": 1370.0,
         "adj_factor": 1.0,
         "volume_shares": 1346872
+      },
+      {
+        "date": "20260604",
+        "open": 1325.0,
+        "high": 1335.0,
+        "low": 1290.0,
+        "close": 1310.0,
+        "adj_factor": 1.0,
+        "volume_shares": 643509
+      },
+      {
+        "date": "20260605",
+        "open": 1280.0,
+        "high": 1330.0,
+        "low": 1260.0,
+        "close": 1320.0,
+        "adj_factor": 1.0,
+        "volume_shares": 469080
+      },
+      {
+        "date": "20260608",
+        "open": 1240.0,
+        "high": 1290.0,
+        "low": 1225.0,
+        "close": 1280.0,
+        "adj_factor": 1.0,
+        "volume_shares": 538630
       }
     ],
     "1795": [
@@ -3639,6 +3711,15 @@
         "close": 198.5,
         "adj_factor": 1.0,
         "volume_shares": 2539516
+      },
+      {
+        "date": "20260608",
+        "open": 182.0,
+        "high": 197.5,
+        "low": 182.0,
+        "close": 195.5,
+        "adj_factor": 1.0,
+        "volume_shares": 2146712
       }
     ],
     "202602TX": [],
@@ -4353,6 +4434,15 @@
         "close": 230.0,
         "adj_factor": 1.0,
         "volume_shares": 45960476
+      },
+      {
+        "date": "20260608",
+        "open": 207.0,
+        "high": 220.0,
+        "low": 207.0,
+        "close": 218.5,
+        "adj_factor": 1.0,
+        "volume_shares": 23221419
       }
     ],
     "2303": [
@@ -5066,6 +5156,15 @@
         "close": 131.5,
         "adj_factor": 1.0,
         "volume_shares": 377903061
+      },
+      {
+        "date": "20260608",
+        "open": 121.0,
+        "high": 125.0,
+        "low": 119.0,
+        "close": 121.0,
+        "adj_factor": 1.0,
+        "volume_shares": 318679993
       }
     ],
     "2308": [
@@ -5779,6 +5878,15 @@
         "close": 2300.0,
         "adj_factor": 1.0,
         "volume_shares": 12283892
+      },
+      {
+        "date": "20260608",
+        "open": 2090.0,
+        "high": 2260.0,
+        "low": 2090.0,
+        "close": 2255.0,
+        "adj_factor": 1.0,
+        "volume_shares": 15374423
       }
     ],
     "2313": [
@@ -6492,6 +6600,15 @@
         "close": 259.0,
         "adj_factor": 1.0,
         "volume_shares": 64234821
+      },
+      {
+        "date": "20260608",
+        "open": 233.5,
+        "high": 257.5,
+        "low": 233.5,
+        "close": 252.0,
+        "adj_factor": 1.0,
+        "volume_shares": 48578725
       }
     ],
     "2327": [
@@ -7205,6 +7322,15 @@
         "close": 769.0,
         "adj_factor": 1.0,
         "volume_shares": 29037062
+      },
+      {
+        "date": "20260608",
+        "open": 693.0,
+        "high": 751.0,
+        "low": 693.0,
+        "close": 751.0,
+        "adj_factor": 1.0,
+        "volume_shares": 26219850
       }
     ],
     "2330": [
@@ -7918,6 +8044,15 @@
         "close": 2365.0,
         "adj_factor": 1.0,
         "volume_shares": 43403895
+      },
+      {
+        "date": "20260608",
+        "open": 2230.0,
+        "high": 2320.0,
+        "low": 2230.0,
+        "close": 2295.0,
+        "adj_factor": 1.0,
+        "volume_shares": 52273858
       }
     ],
     "2344": [
@@ -8631,6 +8766,15 @@
         "close": 162.0,
         "adj_factor": 1.0,
         "volume_shares": 228440187
+      },
+      {
+        "date": "20260608",
+        "open": 146.0,
+        "high": 157.0,
+        "low": 146.0,
+        "close": 154.0,
+        "adj_factor": 1.0,
+        "volume_shares": 179964848
       }
     ],
     "2345": [
@@ -9344,6 +9488,15 @@
         "close": 2490.0,
         "adj_factor": 1.0,
         "volume_shares": 2517690
+      },
+      {
+        "date": "20260608",
+        "open": 2265.0,
+        "high": 2435.0,
+        "low": 2260.0,
+        "close": 2420.0,
+        "adj_factor": 1.0,
+        "volume_shares": 3205900
       }
     ],
     "2360": [
@@ -10057,6 +10210,15 @@
         "close": 2565.0,
         "adj_factor": 1.0,
         "volume_shares": 2347549
+      },
+      {
+        "date": "20260608",
+        "open": 2310.0,
+        "high": 2470.0,
+        "low": 2310.0,
+        "close": 2450.0,
+        "adj_factor": 1.0,
+        "volume_shares": 3370208
       }
     ],
     "2368": [
@@ -10770,6 +10932,15 @@
         "close": 1315.0,
         "adj_factor": 1.0,
         "volume_shares": 5359587
+      },
+      {
+        "date": "20260608",
+        "open": 1185.0,
+        "high": 1365.0,
+        "low": 1185.0,
+        "close": 1360.0,
+        "adj_factor": 1.0,
+        "volume_shares": 5888790
       }
     ],
     "2383": [
@@ -11474,6 +11645,24 @@
         "close": 4830.0,
         "adj_factor": 1.0,
         "volume_shares": 1722407
+      },
+      {
+        "date": "20260605",
+        "open": 4780.0,
+        "high": 5025.0,
+        "low": 4545.0,
+        "close": 4885.0,
+        "adj_factor": 1.0,
+        "volume_shares": 2909896
+      },
+      {
+        "date": "20260608",
+        "open": 4575.0,
+        "high": 4810.0,
+        "low": 4530.0,
+        "close": 4770.0,
+        "adj_factor": 1.0,
+        "volume_shares": 2667787
       }
     ],
     "2408": [
@@ -12187,6 +12376,15 @@
         "close": 360.0,
         "adj_factor": 1.0,
         "volume_shares": 121599979
+      },
+      {
+        "date": "20260608",
+        "open": 324.0,
+        "high": 348.0,
+        "low": 324.0,
+        "close": 339.5,
+        "adj_factor": 1.0,
+        "volume_shares": 104497957
       }
     ],
     "2412": [
@@ -12900,6 +13098,15 @@
         "close": 141.0,
         "adj_factor": 1.0,
         "volume_shares": 11585954
+      },
+      {
+        "date": "20260608",
+        "open": 139.5,
+        "high": 140.5,
+        "low": 138.0,
+        "close": 138.5,
+        "adj_factor": 1.0,
+        "volume_shares": 17246059
       }
     ],
     "2454": [
@@ -13613,6 +13820,15 @@
         "close": 4300.0,
         "adj_factor": 1.0,
         "volume_shares": 11919031
+      },
+      {
+        "date": "20260608",
+        "open": 3935.0,
+        "high": 4090.0,
+        "low": 3935.0,
+        "close": 4070.0,
+        "adj_factor": 1.0,
+        "volume_shares": 16219464
       }
     ],
     "2481": [
@@ -14326,6 +14542,15 @@
         "close": 165.0,
         "adj_factor": 1.0,
         "volume_shares": 74311377
+      },
+      {
+        "date": "20260608",
+        "open": 148.5,
+        "high": 151.5,
+        "low": 148.5,
+        "close": 148.5,
+        "adj_factor": 1.0,
+        "volume_shares": 18018901
       }
     ],
     "2882": [
@@ -15039,6 +15264,15 @@
         "close": 100.0,
         "adj_factor": 1.0,
         "volume_shares": 69269147
+      },
+      {
+        "date": "20260608",
+        "open": 97.8,
+        "high": 97.8,
+        "low": 94.0,
+        "close": 95.0,
+        "adj_factor": 1.0,
+        "volume_shares": 57020304
       }
     ],
     "2883": [
@@ -15752,6 +15986,15 @@
         "close": 27.6,
         "adj_factor": 1.0,
         "volume_shares": 312820082
+      },
+      {
+        "date": "20260608",
+        "open": 26.55,
+        "high": 26.95,
+        "low": 25.5,
+        "close": 26.75,
+        "adj_factor": 1.0,
+        "volume_shares": 270734576
       }
     ],
     "3017": [
@@ -16465,6 +16708,15 @@
         "close": 2600.0,
         "adj_factor": 1.0,
         "volume_shares": 4900550
+      },
+      {
+        "date": "20260608",
+        "open": 2340.0,
+        "high": 2570.0,
+        "low": 2340.0,
+        "close": 2570.0,
+        "adj_factor": 1.0,
+        "volume_shares": 4356915
       }
     ],
     "3036": [
@@ -17178,6 +17430,15 @@
         "close": 281.0,
         "adj_factor": 1.0,
         "volume_shares": 15071106
+      },
+      {
+        "date": "20260608",
+        "open": 247.0,
+        "high": 254.5,
+        "low": 246.0,
+        "close": 250.0,
+        "adj_factor": 1.0,
+        "volume_shares": 28334956
       }
     ],
     "3037": [
@@ -17891,6 +18152,15 @@
         "close": 933.0,
         "adj_factor": 1.0,
         "volume_shares": 26076886
+      },
+      {
+        "date": "20260608",
+        "open": 840.0,
+        "high": 925.0,
+        "low": 840.0,
+        "close": 911.0,
+        "adj_factor": 1.0,
+        "volume_shares": 25312312
       }
     ],
     "3044": [
@@ -18604,6 +18874,15 @@
         "close": 498.0,
         "adj_factor": 1.0,
         "volume_shares": 3630294
+      },
+      {
+        "date": "20260608",
+        "open": 464.0,
+        "high": 481.0,
+        "low": 454.0,
+        "close": 478.0,
+        "adj_factor": 1.0,
+        "volume_shares": 4506697
       }
     ],
     "3105": [
@@ -19317,6 +19596,15 @@
         "close": 483.5,
         "adj_factor": 1.0,
         "volume_shares": 30445000
+      },
+      {
+        "date": "20260608",
+        "open": 435.5,
+        "high": 461.5,
+        "low": 435.5,
+        "close": 451.5,
+        "adj_factor": 1.0,
+        "volume_shares": 20984000
       }
     ],
     "3167": [
@@ -20030,6 +20318,15 @@
         "close": 950.0,
         "adj_factor": 1.0,
         "volume_shares": 670386
+      },
+      {
+        "date": "20260608",
+        "open": 855.0,
+        "high": 905.0,
+        "low": 855.0,
+        "close": 865.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1407302
       }
     ],
     "3260": [
@@ -20743,6 +21040,15 @@
         "close": 421.5,
         "adj_factor": 1.0,
         "volume_shares": 19138000
+      },
+      {
+        "date": "20260608",
+        "open": 379.5,
+        "high": 404.5,
+        "low": 379.5,
+        "close": 403.0,
+        "adj_factor": 1.0,
+        "volume_shares": 14875000
       }
     ],
     "3264": [
@@ -21456,6 +21762,15 @@
         "close": 228.5,
         "adj_factor": 1.0,
         "volume_shares": 8227000
+      },
+      {
+        "date": "20260608",
+        "open": 206.0,
+        "high": 213.0,
+        "low": 206.0,
+        "close": 211.0,
+        "adj_factor": 1.0,
+        "volume_shares": 4691000
       }
     ],
     "3324": [
@@ -22169,6 +22484,15 @@
         "close": 1110.0,
         "adj_factor": 1.0,
         "volume_shares": 4576000
+      },
+      {
+        "date": "20260608",
+        "open": 1000.0,
+        "high": 1100.0,
+        "low": 1000.0,
+        "close": 1095.0,
+        "adj_factor": 1.0,
+        "volume_shares": 3434000
       }
     ],
     "3357": [
@@ -22882,6 +23206,15 @@
         "close": 296.0,
         "adj_factor": 1.0,
         "volume_shares": 14207000
+      },
+      {
+        "date": "20260608",
+        "open": 266.5,
+        "high": 294.5,
+        "low": 266.5,
+        "close": 283.0,
+        "adj_factor": 1.0,
+        "volume_shares": 11039000
       }
     ],
     "3443": [
@@ -23595,6 +23928,15 @@
         "close": 4410.0,
         "adj_factor": 1.0,
         "volume_shares": 2408529
+      },
+      {
+        "date": "20260608",
+        "open": 4000.0,
+        "high": 4315.0,
+        "low": 4000.0,
+        "close": 4255.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1876483
       }
     ],
     "3481": [
@@ -24308,6 +24650,15 @@
         "close": 53.7,
         "adj_factor": 1.0,
         "volume_shares": 177087727
+      },
+      {
+        "date": "20260608",
+        "open": 48.35,
+        "high": 48.35,
+        "low": 48.35,
+        "close": 48.35,
+        "adj_factor": 1.0,
+        "volume_shares": 88824555
       }
     ],
     "3665": [
@@ -25021,6 +25372,15 @@
         "close": 2200.0,
         "adj_factor": 1.0,
         "volume_shares": 2745937
+      },
+      {
+        "date": "20260608",
+        "open": 1980.0,
+        "high": 2120.0,
+        "low": 1980.0,
+        "close": 2095.0,
+        "adj_factor": 1.0,
+        "volume_shares": 3401208
       }
     ],
     "3711": [
@@ -25734,6 +26094,15 @@
         "close": 577.0,
         "adj_factor": 1.0,
         "volume_shares": 21540374
+      },
+      {
+        "date": "20260608",
+        "open": 520.0,
+        "high": 543.0,
+        "low": 520.0,
+        "close": 540.0,
+        "adj_factor": 1.0,
+        "volume_shares": 26428013
       }
     ],
     "3715": [
@@ -26447,6 +26816,15 @@
         "close": 170.0,
         "adj_factor": 1.0,
         "volume_shares": 5941562
+      },
+      {
+        "date": "20260608",
+        "open": 153.0,
+        "high": 167.0,
+        "low": 153.0,
+        "close": 166.0,
+        "adj_factor": 1.0,
+        "volume_shares": 8189737
       }
     ],
     "5234": [
@@ -27160,6 +27538,15 @@
         "close": 403.5,
         "adj_factor": 1.0,
         "volume_shares": 827572
+      },
+      {
+        "date": "20260608",
+        "open": 365.0,
+        "high": 392.0,
+        "low": 365.0,
+        "close": 389.0,
+        "adj_factor": 1.0,
+        "volume_shares": 769393
       }
     ],
     "5274": [
@@ -27873,6 +28260,15 @@
         "close": 17505.0,
         "adj_factor": 1.0,
         "volume_shares": 296000
+      },
+      {
+        "date": "20260608",
+        "open": 15970.0,
+        "high": 17785.0,
+        "low": 15805.0,
+        "close": 17525.0,
+        "adj_factor": 1.0,
+        "volume_shares": 398000
       }
     ],
     "5347": [
@@ -28586,6 +28982,15 @@
         "close": 161.5,
         "adj_factor": 1.0,
         "volume_shares": 26051000
+      },
+      {
+        "date": "20260608",
+        "open": 145.5,
+        "high": 156.5,
+        "low": 145.5,
+        "close": 156.5,
+        "adj_factor": 1.0,
+        "volume_shares": 32509000
       }
     ],
     "5439": [
@@ -29299,6 +29704,15 @@
         "close": 364.5,
         "adj_factor": 1.0,
         "volume_shares": 2763000
+      },
+      {
+        "date": "20260608",
+        "open": 328.5,
+        "high": 354.0,
+        "low": 328.5,
+        "close": 353.0,
+        "adj_factor": 1.0,
+        "volume_shares": 2163000
       }
     ],
     "6274": [
@@ -30012,6 +30426,15 @@
         "close": 1610.0,
         "adj_factor": 1.0,
         "volume_shares": 8122000
+      },
+      {
+        "date": "20260608",
+        "open": 1450.0,
+        "high": 1545.0,
+        "low": 1450.0,
+        "close": 1535.0,
+        "adj_factor": 1.0,
+        "volume_shares": 5934000
       }
     ],
     "6442": [
@@ -30725,6 +31148,15 @@
         "close": 2055.0,
         "adj_factor": 1.0,
         "volume_shares": 4582051
+      },
+      {
+        "date": "20260608",
+        "open": 1850.0,
+        "high": 1970.0,
+        "low": 1850.0,
+        "close": 1970.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1145589
       }
     ],
     "6488": [
@@ -31438,6 +31870,15 @@
         "close": 811.0,
         "adj_factor": 1.0,
         "volume_shares": 2776000
+      },
+      {
+        "date": "20260608",
+        "open": 730.0,
+        "high": 788.0,
+        "low": 730.0,
+        "close": 768.0,
+        "adj_factor": 1.0,
+        "volume_shares": 2323000
       }
     ],
     "6515": [
@@ -32151,6 +32592,15 @@
         "close": 8425.0,
         "adj_factor": 1.0,
         "volume_shares": 237461
+      },
+      {
+        "date": "20260608",
+        "open": 7585.0,
+        "high": 8645.0,
+        "low": 7585.0,
+        "close": 8380.0,
+        "adj_factor": 1.0,
+        "volume_shares": 547718
       }
     ],
     "6770": [
@@ -32864,6 +33314,15 @@
         "close": 74.6,
         "adj_factor": 1.0,
         "volume_shares": 112133197
+      },
+      {
+        "date": "20260608",
+        "open": 67.2,
+        "high": 68.3,
+        "low": 67.2,
+        "close": 67.5,
+        "adj_factor": 1.0,
+        "volume_shares": 104480847
       }
     ],
     "8210": [
@@ -33568,6 +34027,24 @@
         "close": 1420.0,
         "adj_factor": 1.0,
         "volume_shares": 2305632
+      },
+      {
+        "date": "20260605",
+        "open": 1420.0,
+        "high": 1420.0,
+        "low": 1320.0,
+        "close": 1370.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1727293
+      },
+      {
+        "date": "20260608",
+        "open": 1235.0,
+        "high": 1405.0,
+        "low": 1235.0,
+        "close": 1375.0,
+        "adj_factor": 1.0,
+        "volume_shares": 2323580
       }
     ],
     "8299": [
@@ -34281,6 +34758,15 @@
         "close": 2450.0,
         "adj_factor": 1.0,
         "volume_shares": 11469000
+      },
+      {
+        "date": "20260608",
+        "open": 2205.0,
+        "high": 2270.0,
+        "low": 2205.0,
+        "close": 2250.0,
+        "adj_factor": 1.0,
+        "volume_shares": 8510000
       }
     ],
     "8358": [
@@ -34994,6 +35480,15 @@
         "close": 596.0,
         "adj_factor": 1.0,
         "volume_shares": 3357000
+      },
+      {
+        "date": "20260608",
+        "open": 537.0,
+        "high": 590.0,
+        "low": 537.0,
+        "close": 586.0,
+        "adj_factor": 1.0,
+        "volume_shares": 2857000
       }
     ],
     "8996": [
@@ -35707,6 +36202,15 @@
         "close": 1125.0,
         "adj_factor": 1.0,
         "volume_shares": 2885310
+      },
+      {
+        "date": "20260608",
+        "open": 1015.0,
+        "high": 1230.0,
+        "low": 1015.0,
+        "close": 1210.0,
+        "adj_factor": 1.0,
+        "volume_shares": 5831697
       }
     ],
     "202603TX": [],
@@ -36421,6 +36925,15 @@
         "close": 102.0,
         "adj_factor": 1.0,
         "volume_shares": 15677000
+      },
+      {
+        "date": "20260608",
+        "open": 91.8,
+        "high": 97.3,
+        "low": 91.8,
+        "close": 96.9,
+        "adj_factor": 1.0,
+        "volume_shares": 19885000
       }
     ],
     "2337": [
@@ -37134,6 +37647,15 @@
         "close": 150.0,
         "adj_factor": 1.0,
         "volume_shares": 54586699
+      },
+      {
+        "date": "20260608",
+        "open": 135.0,
+        "high": 143.5,
+        "low": 135.0,
+        "close": 143.5,
+        "adj_factor": 1.0,
+        "volume_shares": 34560976
       }
     ],
     "2449": [
@@ -37847,6 +38369,15 @@
         "close": 309.5,
         "adj_factor": 1.0,
         "volume_shares": 28827200
+      },
+      {
+        "date": "20260608",
+        "open": 279.5,
+        "high": 289.5,
+        "low": 279.0,
+        "close": 288.5,
+        "adj_factor": 1.0,
+        "volume_shares": 37192419
       }
     ],
     "3491": [
@@ -38560,6 +39091,15 @@
         "close": 1935.0,
         "adj_factor": 1.0,
         "volume_shares": 1077000
+      },
+      {
+        "date": "20260608",
+        "open": 1745.0,
+        "high": 1820.0,
+        "low": 1745.0,
+        "close": 1785.0,
+        "adj_factor": 1.0,
+        "volume_shares": 931000
       }
     ],
     "3533": [
@@ -39273,6 +39813,15 @@
         "close": 2365.0,
         "adj_factor": 1.0,
         "volume_shares": 1739901
+      },
+      {
+        "date": "20260608",
+        "open": 2130.0,
+        "high": 2295.0,
+        "low": 2130.0,
+        "close": 2290.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1014184
       }
     ],
     "3653": [
@@ -39986,6 +40535,15 @@
         "close": 3620.0,
         "adj_factor": 1.0,
         "volume_shares": 1169958
+      },
+      {
+        "date": "20260608",
+        "open": 3260.0,
+        "high": 3860.0,
+        "low": 3260.0,
+        "close": 3820.0,
+        "adj_factor": 1.0,
+        "volume_shares": 2195430
       }
     ],
     "4722": [
@@ -40699,6 +41257,15 @@
         "close": 277.0,
         "adj_factor": 1.0,
         "volume_shares": 534594
+      },
+      {
+        "date": "20260608",
+        "open": 249.5,
+        "high": 249.5,
+        "low": 249.5,
+        "close": 249.5,
+        "adj_factor": 1.0,
+        "volume_shares": 520332
       }
     ],
     "6223": [
@@ -41412,6 +41979,15 @@
         "close": 5765.0,
         "adj_factor": 1.0,
         "volume_shares": 1292000
+      },
+      {
+        "date": "20260608",
+        "open": 5190.0,
+        "high": 5650.0,
+        "low": 5190.0,
+        "close": 5515.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1014000
       }
     ],
     "6285": [
@@ -42125,6 +42701,15 @@
         "close": 292.0,
         "adj_factor": 1.0,
         "volume_shares": 12424943
+      },
+      {
+        "date": "20260608",
+        "open": 263.0,
+        "high": 276.5,
+        "low": 263.0,
+        "close": 273.5,
+        "adj_factor": 1.0,
+        "volume_shares": 9780056
       }
     ],
     "6290": [
@@ -42838,6 +43423,15 @@
         "close": 350.5,
         "adj_factor": 1.0,
         "volume_shares": 4696000
+      },
+      {
+        "date": "20260608",
+        "open": 315.5,
+        "high": 320.0,
+        "low": 315.5,
+        "close": 315.5,
+        "adj_factor": 1.0,
+        "volume_shares": 5001000
       }
     ],
     "6446": [
@@ -43551,6 +44145,15 @@
         "close": 937.0,
         "adj_factor": 1.0,
         "volume_shares": 2516300
+      },
+      {
+        "date": "20260608",
+        "open": 907.0,
+        "high": 956.0,
+        "low": 907.0,
+        "close": 926.0,
+        "adj_factor": 1.0,
+        "volume_shares": 3873609
       }
     ],
     "6805": [
@@ -44255,6 +44858,24 @@
         "close": 1985.0,
         "adj_factor": 1.0,
         "volume_shares": 1191740
+      },
+      {
+        "date": "20260605",
+        "open": 1925.0,
+        "high": 2065.0,
+        "low": 1890.0,
+        "close": 1950.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1437459
+      },
+      {
+        "date": "20260608",
+        "open": 1760.0,
+        "high": 1935.0,
+        "low": 1760.0,
+        "close": 1895.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1291612
       }
     ],
     "8021": [
@@ -44959,6 +45580,24 @@
         "close": 441.0,
         "adj_factor": 1.0,
         "volume_shares": 940903
+      },
+      {
+        "date": "20260605",
+        "open": 430.0,
+        "high": 458.0,
+        "low": 415.0,
+        "close": 458.0,
+        "adj_factor": 1.0,
+        "volume_shares": 972595
+      },
+      {
+        "date": "20260608",
+        "open": 412.5,
+        "high": 460.0,
+        "low": 412.5,
+        "close": 460.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1941008
       }
     ],
     "202604TX": [],
@@ -45673,6 +46312,15 @@
         "close": 1545.0,
         "adj_factor": 1.0,
         "volume_shares": 249000
+      },
+      {
+        "date": "20260608",
+        "open": 1410.0,
+        "high": 1440.0,
+        "low": 1395.0,
+        "close": 1430.0,
+        "adj_factor": 1.0,
+        "volume_shares": 572000
       }
     ],
     "2347": [
@@ -46386,6 +47034,15 @@
         "close": 88.3,
         "adj_factor": 1.0,
         "volume_shares": 15802966
+      },
+      {
+        "date": "20260608",
+        "open": 85.5,
+        "high": 87.7,
+        "low": 84.1,
+        "close": 85.3,
+        "adj_factor": 1.0,
+        "volume_shares": 15735325
       }
     ],
     "2395": [
@@ -47099,6 +47756,15 @@
         "close": 496.0,
         "adj_factor": 1.0,
         "volume_shares": 5250790
+      },
+      {
+        "date": "20260608",
+        "open": 456.0,
+        "high": 474.5,
+        "low": 456.0,
+        "close": 471.0,
+        "adj_factor": 1.0,
+        "volume_shares": 3763357
       }
     ],
     "2404": [
@@ -47803,6 +48469,24 @@
         "close": 1230.0,
         "adj_factor": 1.0,
         "volume_shares": 6428543
+      },
+      {
+        "date": "20260605",
+        "open": 1210.0,
+        "high": 1280.0,
+        "low": 1190.0,
+        "close": 1205.0,
+        "adj_factor": 1.0,
+        "volume_shares": 6169316
+      },
+      {
+        "date": "20260608",
+        "open": 1100.0,
+        "high": 1120.0,
+        "low": 1085.0,
+        "close": 1110.0,
+        "adj_factor": 1.0,
+        "volume_shares": 4582659
       }
     ],
     "2603": [
@@ -48507,6 +49191,24 @@
         "close": 236.0,
         "adj_factor": 1.0,
         "volume_shares": 27370783
+      },
+      {
+        "date": "20260605",
+        "open": 239.0,
+        "high": 241.0,
+        "low": 232.0,
+        "close": 232.0,
+        "adj_factor": 1.0,
+        "volume_shares": 23664933
+      },
+      {
+        "date": "20260608",
+        "open": 222.0,
+        "high": 228.5,
+        "low": 222.0,
+        "close": 224.0,
+        "adj_factor": 1.0,
+        "volume_shares": 22448385
       }
     ],
     "2606": [
@@ -49211,6 +49913,24 @@
         "close": 69.9,
         "adj_factor": 1.0,
         "volume_shares": 3598291
+      },
+      {
+        "date": "20260605",
+        "open": 69.9,
+        "high": 72.1,
+        "low": 69.6,
+        "close": 70.8,
+        "adj_factor": 1.0,
+        "volume_shares": 8020529
+      },
+      {
+        "date": "20260608",
+        "open": 68.0,
+        "high": 69.2,
+        "low": 67.1,
+        "close": 68.2,
+        "adj_factor": 1.0,
+        "volume_shares": 4836395
       }
     ],
     "2885": [
@@ -49924,6 +50644,15 @@
         "close": 65.3,
         "adj_factor": 1.0,
         "volume_shares": 40414143
+      },
+      {
+        "date": "20260608",
+        "open": 63.9,
+        "high": 64.6,
+        "low": 60.9,
+        "close": 62.0,
+        "adj_factor": 1.0,
+        "volume_shares": 47187669
       }
     ],
     "2891": [
@@ -50619,6 +51348,33 @@
         "close": 70.5,
         "adj_factor": 1.0,
         "volume_shares": 84076949
+      },
+      {
+        "date": "20260604",
+        "open": 68.0,
+        "high": 69.2,
+        "low": 66.0,
+        "close": 68.0,
+        "adj_factor": 1.0,
+        "volume_shares": 97008090
+      },
+      {
+        "date": "20260605",
+        "open": 66.3,
+        "high": 68.0,
+        "low": 66.0,
+        "close": 66.6,
+        "adj_factor": 1.0,
+        "volume_shares": 63844979
+      },
+      {
+        "date": "20260608",
+        "open": 65.2,
+        "high": 66.9,
+        "low": 64.5,
+        "close": 65.4,
+        "adj_factor": 1.0,
+        "volume_shares": 46262357
       }
     ],
     "3023": [
@@ -51332,6 +52088,15 @@
         "close": 329.0,
         "adj_factor": 1.0,
         "volume_shares": 4294930
+      },
+      {
+        "date": "20260608",
+        "open": 316.0,
+        "high": 340.0,
+        "low": 312.0,
+        "close": 322.5,
+        "adj_factor": 1.0,
+        "volume_shares": 5000971
       }
     ],
     "3131": [
@@ -52045,6 +52810,15 @@
         "close": 3150.0,
         "adj_factor": 1.0,
         "volume_shares": 418000
+      },
+      {
+        "date": "20260608",
+        "open": 2835.0,
+        "high": 3075.0,
+        "low": 2835.0,
+        "close": 3030.0,
+        "adj_factor": 1.0,
+        "volume_shares": 312000
       }
     ],
     "3293": [
@@ -52758,6 +53532,15 @@
         "close": 790.0,
         "adj_factor": 1.0,
         "volume_shares": 3842000
+      },
+      {
+        "date": "20260608",
+        "open": 740.0,
+        "high": 786.0,
+        "low": 740.0,
+        "close": 780.0,
+        "adj_factor": 1.0,
+        "volume_shares": 3741000
       }
     ],
     "3583": [
@@ -53471,6 +54254,15 @@
         "close": 868.0,
         "adj_factor": 1.0,
         "volume_shares": 2236615
+      },
+      {
+        "date": "20260608",
+        "open": 782.0,
+        "high": 811.0,
+        "low": 782.0,
+        "close": 807.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1672178
       }
     ],
     "3702": [
@@ -54184,6 +54976,15 @@
         "close": 114.5,
         "adj_factor": 1.0,
         "volume_shares": 16516439
+      },
+      {
+        "date": "20260608",
+        "open": 108.0,
+        "high": 109.5,
+        "low": 105.5,
+        "close": 108.0,
+        "adj_factor": 1.0,
+        "volume_shares": 27570429
       }
     ],
     "4904": [
@@ -54897,6 +55698,15 @@
         "close": 101.5,
         "adj_factor": 1.0,
         "volume_shares": 8624646
+      },
+      {
+        "date": "20260608",
+        "open": 102.0,
+        "high": 102.5,
+        "low": 100.0,
+        "close": 101.0,
+        "adj_factor": 1.0,
+        "volume_shares": 9459578
       }
     ],
     "4958": [
@@ -55610,6 +56420,15 @@
         "close": 504.0,
         "adj_factor": 1.0,
         "volume_shares": 8176859
+      },
+      {
+        "date": "20260608",
+        "open": 456.0,
+        "high": 512.0,
+        "low": 456.0,
+        "close": 512.0,
+        "adj_factor": 1.0,
+        "volume_shares": 10721588
       }
     ],
     "5904": [
@@ -56323,6 +57142,15 @@
         "close": 577.0,
         "adj_factor": 1.0,
         "volume_shares": 409000
+      },
+      {
+        "date": "20260608",
+        "open": 566.0,
+        "high": 586.0,
+        "low": 561.0,
+        "close": 582.0,
+        "adj_factor": 1.0,
+        "volume_shares": 720000
       }
     ],
     "6213": [
@@ -57036,6 +57864,15 @@
         "close": 254.5,
         "adj_factor": 1.0,
         "volume_shares": 7795202
+      },
+      {
+        "date": "20260608",
+        "open": 229.5,
+        "high": 244.5,
+        "low": 229.5,
+        "close": 243.5,
+        "adj_factor": 1.0,
+        "volume_shares": 7487353
       }
     ],
     "6505": [
@@ -57749,6 +58586,15 @@
         "close": 55.3,
         "adj_factor": 1.0,
         "volume_shares": 10995075
+      },
+      {
+        "date": "20260608",
+        "open": 52.8,
+        "high": 53.5,
+        "low": 51.9,
+        "close": 52.6,
+        "adj_factor": 1.0,
+        "volume_shares": 8476427
       }
     ],
     "202605TX": [],
@@ -58454,6 +59300,24 @@
         "close": 44.1,
         "adj_factor": 1.0,
         "volume_shares": 26108921
+      },
+      {
+        "date": "20260605",
+        "open": 44.5,
+        "high": 44.5,
+        "low": 43.35,
+        "close": 43.8,
+        "adj_factor": 1.0,
+        "volume_shares": 22945418
+      },
+      {
+        "date": "20260608",
+        "open": 41.5,
+        "high": 42.2,
+        "low": 40.6,
+        "close": 41.8,
+        "adj_factor": 1.0,
+        "volume_shares": 35147056
       }
     ],
     "2049": [
@@ -59167,6 +60031,15 @@
         "close": 345.0,
         "adj_factor": 1.0,
         "volume_shares": 7178751
+      },
+      {
+        "date": "20260608",
+        "open": 316.5,
+        "high": 330.5,
+        "low": 313.0,
+        "close": 329.5,
+        "adj_factor": 1.0,
+        "volume_shares": 5375250
       }
     ],
     "2610": [
@@ -59871,6 +60744,24 @@
         "close": 19.9,
         "adj_factor": 1.0,
         "volume_shares": 45086926
+      },
+      {
+        "date": "20260605",
+        "open": 19.95,
+        "high": 20.15,
+        "low": 19.65,
+        "close": 19.95,
+        "adj_factor": 1.0,
+        "volume_shares": 49346438
+      },
+      {
+        "date": "20260608",
+        "open": 19.0,
+        "high": 19.3,
+        "low": 18.9,
+        "close": 19.05,
+        "adj_factor": 1.0,
+        "volume_shares": 59519767
       }
     ],
     "2618": [
@@ -60584,6 +61475,15 @@
         "close": 37.7,
         "adj_factor": 1.0,
         "volume_shares": 39384323
+      },
+      {
+        "date": "20260608",
+        "open": 36.25,
+        "high": 36.6,
+        "low": 35.85,
+        "close": 36.4,
+        "adj_factor": 1.0,
+        "volume_shares": 52725893
       }
     ],
     "3189": [
@@ -61297,6 +62197,15 @@
         "close": 712.0,
         "adj_factor": 1.0,
         "volume_shares": 7602120
+      },
+      {
+        "date": "20260608",
+        "open": 641.0,
+        "high": 698.0,
+        "low": 641.0,
+        "close": 698.0,
+        "adj_factor": 1.0,
+        "volume_shares": 8137218
       }
     ],
     "4749": [
@@ -62010,6 +62919,15 @@
         "close": 1015.0,
         "adj_factor": 1.0,
         "volume_shares": 1096000
+      },
+      {
+        "date": "20260608",
+        "open": 914.0,
+        "high": 960.0,
+        "low": 914.0,
+        "close": 947.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1906000
       }
     ],
     "5289": [
@@ -62723,6 +63641,15 @@
         "close": 1755.0,
         "adj_factor": 1.0,
         "volume_shares": 4262000
+      },
+      {
+        "date": "20260608",
+        "open": 1585.0,
+        "high": 1820.0,
+        "low": 1585.0,
+        "close": 1810.0,
+        "adj_factor": 1.0,
+        "volume_shares": 4315000
       }
     ],
     "6584": [
@@ -63436,6 +64363,15 @@
         "close": 650.0,
         "adj_factor": 1.0,
         "volume_shares": 649000
+      },
+      {
+        "date": "20260608",
+        "open": 585.0,
+        "high": 628.0,
+        "low": 585.0,
+        "close": 624.0,
+        "adj_factor": 1.0,
+        "volume_shares": 904000
       }
     ],
     "6669": [
@@ -64149,6 +65085,15 @@
         "close": 5660.0,
         "adj_factor": 1.0,
         "volume_shares": 2033000
+      },
+      {
+        "date": "20260608",
+        "open": 5200.0,
+        "high": 5330.0,
+        "low": 5135.0,
+        "close": 5275.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1928576
       }
     ],
     "7769": [
@@ -64853,6 +65798,24 @@
         "close": 7385.0,
         "adj_factor": 1.0,
         "volume_shares": 435258
+      },
+      {
+        "date": "20260605",
+        "open": 7195.0,
+        "high": 7500.0,
+        "low": 7100.0,
+        "close": 7275.0,
+        "adj_factor": 1.0,
+        "volume_shares": 688847
+      },
+      {
+        "date": "20260608",
+        "open": 6595.0,
+        "high": 7270.0,
+        "low": 6595.0,
+        "close": 7035.0,
+        "adj_factor": 1.0,
+        "volume_shares": 942525
       }
     ],
     "8046": [
@@ -65566,6 +66529,15 @@
         "close": 845.0,
         "adj_factor": 1.0,
         "volume_shares": 14136931
+      },
+      {
+        "date": "20260608",
+        "open": 761.0,
+        "high": 853.0,
+        "low": 761.0,
+        "close": 831.0,
+        "adj_factor": 1.0,
+        "volume_shares": 15131933
       }
     ],
     "3661": [
@@ -66279,6 +67251,15 @@
         "close": 4285.0,
         "adj_factor": 1.0,
         "volume_shares": 1623019
+      },
+      {
+        "date": "20260608",
+        "open": 3900.0,
+        "high": 4180.0,
+        "low": 3895.0,
+        "close": 4170.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1491317
       }
     ],
     "3680": [
@@ -66992,6 +67973,15 @@
         "close": 520.0,
         "adj_factor": 1.0,
         "volume_shares": 2144000
+      },
+      {
+        "date": "20260608",
+        "open": 468.0,
+        "high": 504.0,
+        "low": 468.0,
+        "close": 501.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1787000
       }
     ],
     "6415": [
@@ -67705,6 +68695,15 @@
         "close": 582.0,
         "adj_factor": 1.0,
         "volume_shares": 4298180
+      },
+      {
+        "date": "20260608",
+        "open": 524.0,
+        "high": 534.0,
+        "low": 524.0,
+        "close": 524.0,
+        "adj_factor": 1.0,
+        "volume_shares": 3698288
       }
     ],
     "6640": [
@@ -68418,6 +69417,15 @@
         "close": 1190.0,
         "adj_factor": 1.0,
         "volume_shares": 379000
+      },
+      {
+        "date": "20260608",
+        "open": 1075.0,
+        "high": 1155.0,
+        "low": 1075.0,
+        "close": 1150.0,
+        "adj_factor": 1.0,
+        "volume_shares": 333000
       }
     ],
     "2059": [
@@ -69131,6 +70139,15 @@
         "close": 5620.0,
         "adj_factor": 1.0,
         "volume_shares": 1330055
+      },
+      {
+        "date": "20260608",
+        "open": 6000.0,
+        "high": 6180.0,
+        "low": 6000.0,
+        "close": 6180.0,
+        "adj_factor": 1.0,
+        "volume_shares": 566358
       }
     ],
     "2881": [
@@ -69844,6 +70861,15 @@
         "close": 118.0,
         "adj_factor": 1.0,
         "volume_shares": 61781441
+      },
+      {
+        "date": "20260608",
+        "open": 112.0,
+        "high": 117.5,
+        "low": 112.0,
+        "close": 116.0,
+        "adj_factor": 1.0,
+        "volume_shares": 104685607
       }
     ],
     "3042": [
@@ -70557,6 +71583,15 @@
         "close": 212.0,
         "adj_factor": 1.0,
         "volume_shares": 15946082
+      },
+      {
+        "date": "20260608",
+        "open": 191.0,
+        "high": 217.0,
+        "low": 191.0,
+        "close": 210.5,
+        "adj_factor": 1.0,
+        "volume_shares": 22132239
       }
     ],
     "4991": [
@@ -71270,6 +72305,15 @@
         "close": 654.0,
         "adj_factor": 1.0,
         "volume_shares": 4068000
+      },
+      {
+        "date": "20260608",
+        "open": 589.0,
+        "high": 618.0,
+        "low": 589.0,
+        "close": 612.0,
+        "adj_factor": 1.0,
+        "volume_shares": 2191000
       }
     ],
     "6147": [
@@ -71983,6 +73027,15 @@
         "close": 270.0,
         "adj_factor": 1.0,
         "volume_shares": 48672000
+      },
+      {
+        "date": "20260608",
+        "open": 243.0,
+        "high": 243.0,
+        "low": 243.0,
+        "close": 243.0,
+        "adj_factor": 1.0,
+        "volume_shares": 13268000
       }
     ],
     "6239": [
@@ -72696,6 +73749,15 @@
         "close": 338.0,
         "adj_factor": 1.0,
         "volume_shares": 16699684
+      },
+      {
+        "date": "20260608",
+        "open": 304.5,
+        "high": 312.5,
+        "low": 304.5,
+        "close": 309.0,
+        "adj_factor": 1.0,
+        "volume_shares": 14379409
       }
     ],
     "6531": [
@@ -73400,6 +74462,24 @@
         "close": 1055.0,
         "adj_factor": 1.0,
         "volume_shares": 4002822
+      },
+      {
+        "date": "20260605",
+        "open": 1030.0,
+        "high": 1055.0,
+        "low": 999.0,
+        "close": 1010.0,
+        "adj_factor": 1.0,
+        "volume_shares": 5307163
+      },
+      {
+        "date": "20260608",
+        "open": 909.0,
+        "high": 909.0,
+        "low": 909.0,
+        "close": 909.0,
+        "adj_factor": 1.0,
+        "volume_shares": 933349
       }
     ],
     "8028": [
@@ -74104,9 +75184,27 @@
         "close": 341.0,
         "adj_factor": 1.0,
         "volume_shares": 5926654
+      },
+      {
+        "date": "20260605",
+        "open": 340.0,
+        "high": 343.0,
+        "low": 327.5,
+        "close": 337.5,
+        "adj_factor": 1.0,
+        "volume_shares": 6896147
+      },
+      {
+        "date": "20260608",
+        "open": 304.0,
+        "high": 304.0,
+        "low": 304.0,
+        "close": 304.0,
+        "adj_factor": 1.0,
+        "volume_shares": 4245639
       }
     ]
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-06-05T13:17:15Z"
+  "generated_at": "2026-06-08T13:40:48Z"
 }
