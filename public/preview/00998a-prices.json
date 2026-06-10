@@ -1,7 +1,8 @@
 {
-  "as_of": "20260608",
+  "as_of": "20260609",
   "first_date": "20260407",
   "codes": [
+    "032830 KS",
     "202606FESB",
     "5844 JP",
     "7167 JP",
@@ -12,6 +13,7 @@
     "8331 JP",
     "8377 JP",
     "ABN NA",
+    "AGN NA",
     "AGS BB",
     "AMUN FP",
     "BAMI IM",
@@ -111,8 +113,10 @@
     "7182 JP": [],
     "IBKR US": [],
     "AMUN FP": [],
-    "8308 JP": []
+    "8308 JP": [],
+    "032830 KS": [],
+    "AGN NA": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-06-09T12:45:52Z"
+  "generated_at": "2026-06-10T13:03:56Z"
 }
