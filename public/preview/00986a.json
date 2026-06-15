@@ -4,232 +4,239 @@
     "name": "主動台新龍頭成長",
     "issuer": "台新投信"
   },
-  "as_of": "20260611",
+  "as_of": "20260612",
   "first_date": "20250825",
-  "n_days": 190,
+  "n_days": 191,
   "current": [
     {
-      "date": "20260611",
+      "date": "20260612",
       "code": "GOOGL US",
       "name": "Alphabet 公司",
-      "weight": 7.98,
+      "weight": 7.94,
       "shares": 4500.0
     },
     {
-      "date": "20260611",
-      "code": "MU US",
-      "name": "美光科技公司",
-      "weight": 7.9,
-      "shares": 1600.0
-    },
-    {
-      "date": "20260611",
+      "date": "20260612",
       "code": "2330",
       "name": "台積電",
-      "weight": 7.75,
+      "weight": 7.88,
       "shares": 22000.0
     },
     {
-      "date": "20260611",
+      "date": "20260612",
+      "code": "MU US",
+      "name": "美光科技公司",
+      "weight": 7.7,
+      "shares": 1600.0
+    },
+    {
+      "date": "20260612",
       "code": "AVGO US",
       "name": "博通公司",
-      "weight": 7.45,
+      "weight": 7.31,
       "shares": 3900.0
     },
     {
-      "date": "20260611",
+      "date": "20260612",
       "code": "NVDA US",
       "name": "輝達",
-      "weight": 6.6,
+      "weight": 6.54,
       "shares": 6500.0
     },
     {
-      "date": "20260611",
+      "date": "20260612",
       "code": "LITE US",
       "name": "魯門特姆控股公司",
-      "weight": 3.97,
+      "weight": 4.07,
       "shares": 900.0
     },
     {
-      "date": "20260611",
+      "date": "20260612",
       "code": "LRCX US",
       "name": "科林研發股份有限公司",
-      "weight": 3.63,
+      "weight": 3.64,
       "shares": 2021.0
     },
     {
-      "date": "20260611",
-      "code": "AMZN US",
-      "name": "AMAZON. COM INC",
-      "weight": 3.59,
-      "shares": 3000.0
-    },
-    {
-      "date": "20260611",
+      "date": "20260612",
       "code": "IFX GY",
       "name": "英飛凌科技股份有限公司",
-      "weight": 3.53,
+      "weight": 3.64,
       "shares": 8000.0
     },
     {
-      "date": "20260611",
-      "code": "CRWD US",
-      "name": "Crowdstrike控股公司",
-      "weight": 3.22,
-      "shares": 938.0
-    },
-    {
-      "date": "20260611",
-      "code": "GEV US",
-      "name": "奇異維諾瓦公司",
-      "weight": 2.92,
-      "shares": 650.0
-    },
-    {
-      "date": "20260611",
-      "code": "GS US",
-      "name": "高盛集團",
-      "weight": 2.72,
-      "shares": 530.0
-    },
-    {
-      "date": "20260611",
-      "code": "COHR US",
-      "name": "連貫公司",
-      "weight": 2.34,
-      "shares": 1300.0
-    },
-    {
-      "date": "20260611",
-      "code": "HWM US",
-      "name": "Howmet航太公司",
-      "weight": 2.23,
-      "shares": 1700.0
-    },
-    {
-      "date": "20260611",
-      "code": "AMD US",
-      "name": "超微半導體公司",
-      "weight": 2.06,
-      "shares": 850.0
-    },
-    {
-      "date": "20260611",
-      "code": "SNDK US",
-      "name": "晟碟公司（德拉瓦州）",
-      "weight": 2.05,
-      "shares": 220.0
-    },
-    {
-      "date": "20260611",
-      "code": "WMT UN",
-      "name": "沃爾瑪公司",
-      "weight": 2.03,
-      "shares": 3400.0
-    },
-    {
-      "date": "20260611",
-      "code": "ETN US",
-      "name": "伊頓公開有限公司",
-      "weight": 1.95,
-      "shares": 1000.0
-    },
-    {
-      "date": "20260611",
-      "code": "MSFT US",
-      "name": "Microsoft Corp",
-      "weight": 1.93,
-      "shares": 1000.0
-    },
-    {
-      "date": "20260611",
-      "code": "ENR GY",
-      "name": "Siemens Energy AG",
-      "weight": 1.85,
-      "shares": 2200.0
-    },
-    {
-      "date": "20260611",
-      "code": "LLY US",
-      "name": "禮來公司",
-      "weight": 1.73,
-      "shares": 300.0
-    },
-    {
-      "date": "20260611",
-      "code": "4062 JT",
-      "name": "Ibiden Co Ltd",
-      "weight": 1.69,
+      "date": "20260612",
+      "code": "AMZN US",
+      "name": "AMAZON. COM INC",
+      "weight": 3.51,
       "shares": 3000.0
     },
     {
-      "date": "20260611",
-      "code": "CAT US",
-      "name": "Caterpillar Inc",
-      "weight": 1.56,
+      "date": "20260612",
+      "code": "CRWD US",
+      "name": "Crowdstrike控股公司",
+      "weight": 3.14,
+      "shares": 938.0
+    },
+    {
+      "date": "20260612",
+      "code": "GEV US",
+      "name": "奇異維諾瓦公司",
+      "weight": 3.0,
+      "shares": 650.0
+    },
+    {
+      "date": "20260612",
+      "code": "GS US",
+      "name": "高盛集團",
+      "weight": 2.76,
+      "shares": 530.0
+    },
+    {
+      "date": "20260612",
+      "code": "COHR US",
+      "name": "連貫公司",
+      "weight": 2.46,
+      "shares": 1300.0
+    },
+    {
+      "date": "20260612",
+      "code": "HWM US",
+      "name": "Howmet航太公司",
+      "weight": 2.21,
+      "shares": 1700.0
+    },
+    {
+      "date": "20260612",
+      "code": "SNDK US",
+      "name": "晟碟公司（德拉瓦州）",
+      "weight": 2.14,
+      "shares": 220.0
+    },
+    {
+      "date": "20260612",
+      "code": "AMD US",
+      "name": "超微半導體公司",
+      "weight": 2.13,
+      "shares": 850.0
+    },
+    {
+      "date": "20260612",
+      "code": "4062 JT",
+      "name": "Ibiden Co Ltd",
+      "weight": 2.05,
+      "shares": 3500.0
+    },
+    {
+      "date": "20260612",
+      "code": "WMT UN",
+      "name": "沃爾瑪公司",
+      "weight": 2.02,
+      "shares": 3400.0
+    },
+    {
+      "date": "20260612",
+      "code": "LLY US",
+      "name": "禮來公司",
+      "weight": 1.95,
       "shares": 350.0
     },
     {
-      "date": "20260611",
+      "date": "20260612",
+      "code": "MSFT US",
+      "name": "Microsoft Corp",
+      "weight": 1.92,
+      "shares": 1000.0
+    },
+    {
+      "date": "20260612",
+      "code": "ENR GY",
+      "name": "Siemens Energy AG",
+      "weight": 1.92,
+      "shares": 2200.0
+    },
+    {
+      "date": "20260612",
+      "code": "ETN US",
+      "name": "伊頓公開有限公司",
+      "weight": 1.92,
+      "shares": 1000.0
+    },
+    {
+      "date": "20260612",
+      "code": "CAT US",
+      "name": "Caterpillar Inc",
+      "weight": 1.79,
+      "shares": 400.0
+    },
+    {
+      "date": "20260612",
       "code": "GLEN LN",
       "name": "嘉能可公司",
-      "weight": 1.52,
+      "weight": 1.55,
       "shares": 40000.0
     },
     {
-      "date": "20260611",
+      "date": "20260612",
       "code": "SU FP",
       "name": "施奈德電機公司",
-      "weight": 1.44,
+      "weight": 1.43,
       "shares": 950.0
     },
     {
-      "date": "20260611",
+      "date": "20260612",
       "code": "NET US",
       "name": "Cloudflare公司",
-      "weight": 1.35,
+      "weight": 1.34,
       "shares": 1200.0
     },
     {
-      "date": "20260611",
+      "date": "20260612",
       "code": "8306 JT",
       "name": "三菱UFJ金融集團公司",
       "weight": 1.16,
       "shares": 12000.0
     },
     {
-      "date": "20260611",
+      "date": "20260612",
+      "code": "TSLA US",
+      "name": "特斯拉公司",
+      "weight": 1.1,
+      "shares": 550.0
+    },
+    {
+      "date": "20260612",
       "code": "BWXT US",
       "name": "BWX科技股份有限公司",
-      "weight": 1.06,
+      "weight": 1.04,
       "shares": 1100.0
     },
     {
-      "date": "20260611",
+      "date": "20260612",
       "code": "6981 JT",
       "name": "村田製作所有限公司",
-      "weight": 1.05,
+      "weight": 0.99,
       "shares": 3800.0
     },
     {
-      "date": "20260611",
-      "code": "TSLA US",
-      "name": "特斯拉公司",
-      "weight": 0.99,
-      "shares": 500.0
-    },
-    {
-      "date": "20260611",
+      "date": "20260612",
       "code": "6506 JT",
       "name": "安川電機公司",
-      "weight": 0.74,
+      "weight": 0.78,
       "shares": 4000.0
     },
     {
-      "date": "20260611",
+      "date": "20260612",
+      "code": "MRVL US",
+      "name": "Marvell Technology Inc",
+      "weight": 0.55,
+      "shares": 400.0
+    },
+    {
+      "date": "20260612",
       "code": "SNOW US",
       "name": "Snowflake公司",
-      "weight": 0.48,
+      "weight": 0.46,
       "shares": 400.0
     }
   ],
@@ -300,69 +307,70 @@
     "6501 JT": "20260609"
   },
   "active_days": {
-    "2330": 190,
+    "2330": 191,
     "7011 JT": 152,
-    "8306 JT": 190,
-    "AMD US": 82,
-    "AMZN US": 190,
-    "AVGO US": 190,
+    "8306 JT": 191,
+    "AMD US": 83,
+    "AMZN US": 191,
+    "AVGO US": 191,
     "BKNG US": 15,
     "CDNS US": 106,
     "CLS US": 109,
-    "CRWD US": 190,
+    "CRWD US": 191,
     "C US": 141,
     "DASH US": 100,
-    "GEV US": 190,
-    "GOOGL US": 190,
+    "GEV US": 191,
+    "GOOGL US": 191,
     "HOOD US": 100,
-    "HWM US": 190,
+    "HWM US": 191,
     "INTU US": 16,
-    "LITE US": 190,
-    "LLY US": 156,
+    "LITE US": 191,
+    "LLY US": 157,
     "MA US": 73,
     "META US": 141,
-    "MSFT US": 190,
-    "NET US": 190,
+    "MSFT US": 191,
+    "NET US": 191,
     "NFLX US": 93,
     "NOW US": 97,
-    "NVDA US": 190,
+    "NVDA US": 191,
     "ORCL US": 66,
     "PLTR US": 113,
     "PWR US": 10,
     "SHOP UN": 112,
-    "SNOW US": 152,
+    "SNOW US": 153,
     "UBER US": 110,
     "6701 JT": 16,
     "700 HK": 109,
     "ADI US": 29,
     "CRDO US": 101,
-    "GS US": 189,
-    "IFX GY": 189,
+    "GS US": 190,
+    "IFX GY": 190,
     "SPOT US": 94,
     "WO US": 58,
     "6501 JT": 175,
-    "MU US": 178,
-    "SU FP": 178,
-    "LRCX US": 171,
+    "MU US": 179,
+    "SU FP": 179,
+    "LRCX US": 172,
     "TER US": 145,
-    "BWXT US": 155,
+    "BWXT US": 156,
     "NRG US": 57,
     "TTWO US": 9,
-    "ENR GY": 104,
+    "ENR GY": 105,
     "TEAM US": 11,
     "TMO US": 31,
-    "WMT UN": 93,
+    "WMT UN": 94,
     "6857 JT": 38,
-    "COHR US": 92,
-    "ETN US": 92,
+    "COHR US": 93,
+    "ETN US": 93,
     "VRTX US": 78,
-    "CAT US": 79,
-    "GLEN LN": 75,
-    "4062 JT": 22,
-    "SNDK US": 21,
-    "TSLA US": 15,
-    "6981 JT": 15,
-    "6506 JT": 13
+    "CAT US": 80,
+    "GLEN LN": 76,
+    "4062 JT": 23,
+    "SNDK US": 22,
+    "TSLA US": 16,
+    "6981 JT": 16,
+    "6506 JT": 14,
+    "MRVL US": 1
   },
   "series": {
     "2330": [
@@ -1314,6 +1322,11 @@
       {
         "date": "20260611",
         "weight": 7.75,
+        "shares": 22000.0
+      },
+      {
+        "date": "20260612",
+        "weight": 7.88,
         "shares": 22000.0
       }
     ],
@@ -3033,6 +3046,11 @@
         "date": "20260611",
         "weight": 1.16,
         "shares": 12000.0
+      },
+      {
+        "date": "20260612",
+        "weight": 1.16,
+        "shares": 12000.0
       }
     ],
     "AMD US": [
@@ -3453,6 +3471,11 @@
       {
         "date": "20260611",
         "weight": 2.06,
+        "shares": 850.0
+      },
+      {
+        "date": "20260612",
+        "weight": 2.13,
         "shares": 850.0
       }
     ],
@@ -4406,6 +4429,11 @@
         "date": "20260611",
         "weight": 3.59,
         "shares": 3000.0
+      },
+      {
+        "date": "20260612",
+        "weight": 3.51,
+        "shares": 3000.0
       }
     ],
     "AVGO US": [
@@ -5357,6 +5385,11 @@
       {
         "date": "20260611",
         "weight": 7.45,
+        "shares": 3900.0
+      },
+      {
+        "date": "20260612",
+        "weight": 7.31,
         "shares": 3900.0
       }
     ],
@@ -7477,6 +7510,11 @@
       {
         "date": "20260611",
         "weight": 3.22,
+        "shares": 938.0
+      },
+      {
+        "date": "20260612",
+        "weight": 3.14,
         "shares": 938.0
       }
     ],
@@ -9647,6 +9685,11 @@
         "date": "20260611",
         "weight": 2.92,
         "shares": 650.0
+      },
+      {
+        "date": "20260612",
+        "weight": 3.0,
+        "shares": 650.0
       }
     ],
     "GOOGL US": [
@@ -10598,6 +10641,11 @@
       {
         "date": "20260611",
         "weight": 7.98,
+        "shares": 4500.0
+      },
+      {
+        "date": "20260612",
+        "weight": 7.94,
         "shares": 4500.0
       }
     ],
@@ -12057,6 +12105,11 @@
         "date": "20260611",
         "weight": 2.23,
         "shares": 1700.0
+      },
+      {
+        "date": "20260612",
+        "weight": 2.21,
+        "shares": 1700.0
       }
     ],
     "INTU US": [
@@ -13095,6 +13148,11 @@
         "date": "20260611",
         "weight": 3.97,
         "shares": 900.0
+      },
+      {
+        "date": "20260612",
+        "weight": 4.07,
+        "shares": 900.0
       }
     ],
     "LLY US": [
@@ -13881,6 +13939,11 @@
         "date": "20260611",
         "weight": 1.73,
         "shares": 300.0
+      },
+      {
+        "date": "20260612",
+        "weight": 1.95,
+        "shares": 350.0
       }
     ],
     "MA US": [
@@ -15915,6 +15978,11 @@
         "date": "20260611",
         "weight": 1.93,
         "shares": 1000.0
+      },
+      {
+        "date": "20260612",
+        "weight": 1.92,
+        "shares": 1000.0
       }
     ],
     "NET US": [
@@ -16866,6 +16934,11 @@
       {
         "date": "20260611",
         "weight": 1.35,
+        "shares": 1200.0
+      },
+      {
+        "date": "20260612",
+        "weight": 1.34,
         "shares": 1200.0
       }
     ],
@@ -18780,6 +18853,11 @@
       {
         "date": "20260611",
         "weight": 6.6,
+        "shares": 6500.0
+      },
+      {
+        "date": "20260612",
+        "weight": 6.54,
         "shares": 6500.0
       }
     ],
@@ -21075,6 +21153,11 @@
       {
         "date": "20260611",
         "weight": 0.48,
+        "shares": 400.0
+      },
+      {
+        "date": "20260612",
+        "weight": 0.46,
         "shares": 400.0
       }
     ],
@@ -23878,6 +23961,11 @@
         "date": "20260611",
         "weight": 2.72,
         "shares": 530.0
+      },
+      {
+        "date": "20260612",
+        "weight": 2.76,
+        "shares": 530.0
       }
     ],
     "IFX GY": [
@@ -24824,6 +24912,11 @@
       {
         "date": "20260611",
         "weight": 3.53,
+        "shares": 8000.0
+      },
+      {
+        "date": "20260612",
+        "weight": 3.64,
         "shares": 8000.0
       }
     ],
@@ -27366,6 +27459,11 @@
         "date": "20260611",
         "weight": 7.9,
         "shares": 1600.0
+      },
+      {
+        "date": "20260612",
+        "weight": 7.7,
+        "shares": 1600.0
       }
     ],
     "SU FP": [
@@ -28258,6 +28356,11 @@
         "date": "20260611",
         "weight": 1.44,
         "shares": 950.0
+      },
+      {
+        "date": "20260612",
+        "weight": 1.43,
+        "shares": 950.0
       }
     ],
     "LRCX US": [
@@ -29114,6 +29217,11 @@
       {
         "date": "20260611",
         "weight": 3.63,
+        "shares": 2021.0
+      },
+      {
+        "date": "20260612",
+        "weight": 3.64,
         "shares": 2021.0
       }
     ],
@@ -30619,6 +30727,11 @@
         "date": "20260611",
         "weight": 1.06,
         "shares": 1100.0
+      },
+      {
+        "date": "20260612",
+        "weight": 1.04,
+        "shares": 1100.0
       }
     ],
     "NRG US": [
@@ -31483,6 +31596,11 @@
         "date": "20260611",
         "weight": 1.85,
         "shares": 2200.0
+      },
+      {
+        "date": "20260612",
+        "weight": 1.92,
+        "shares": 2200.0
       }
     ],
     "TEAM US": [
@@ -32172,6 +32290,11 @@
         "date": "20260611",
         "weight": 2.03,
         "shares": 3400.0
+      },
+      {
+        "date": "20260612",
+        "weight": 2.02,
+        "shares": 3400.0
       }
     ],
     "6857 JT": [
@@ -32830,6 +32953,11 @@
         "date": "20260611",
         "weight": 2.34,
         "shares": 1300.0
+      },
+      {
+        "date": "20260612",
+        "weight": 2.46,
+        "shares": 1300.0
       }
     ],
     "ETN US": [
@@ -33291,6 +33419,11 @@
       {
         "date": "20260611",
         "weight": 1.95,
+        "shares": 1000.0
+      },
+      {
+        "date": "20260612",
+        "weight": 1.92,
         "shares": 1000.0
       }
     ],
@@ -34081,6 +34214,11 @@
         "date": "20260611",
         "weight": 1.56,
         "shares": 350.0
+      },
+      {
+        "date": "20260612",
+        "weight": 1.79,
+        "shares": 400.0
       }
     ],
     "GLEN LN": [
@@ -34458,6 +34596,11 @@
         "date": "20260611",
         "weight": 1.52,
         "shares": 40000.0
+      },
+      {
+        "date": "20260612",
+        "weight": 1.55,
+        "shares": 40000.0
       }
     ],
     "4062 JT": [
@@ -34570,6 +34713,11 @@
         "date": "20260611",
         "weight": 1.69,
         "shares": 3000.0
+      },
+      {
+        "date": "20260612",
+        "weight": 2.05,
+        "shares": 3500.0
       }
     ],
     "SNDK US": [
@@ -34677,6 +34825,11 @@
         "date": "20260611",
         "weight": 2.05,
         "shares": 220.0
+      },
+      {
+        "date": "20260612",
+        "weight": 2.14,
+        "shares": 220.0
       }
     ],
     "TSLA US": [
@@ -34754,6 +34907,11 @@
         "date": "20260611",
         "weight": 0.99,
         "shares": 500.0
+      },
+      {
+        "date": "20260612",
+        "weight": 1.1,
+        "shares": 550.0
       }
     ],
     "6981 JT": [
@@ -34831,6 +34989,11 @@
         "date": "20260611",
         "weight": 1.05,
         "shares": 3800.0
+      },
+      {
+        "date": "20260612",
+        "weight": 0.99,
+        "shares": 3800.0
       }
     ],
     "6506 JT": [
@@ -34898,6 +35061,18 @@
         "date": "20260611",
         "weight": 0.74,
         "shares": 4000.0
+      },
+      {
+        "date": "20260612",
+        "weight": 0.78,
+        "shares": 4000.0
+      }
+    ],
+    "MRVL US": [
+      {
+        "date": "20260612",
+        "weight": 0.55,
+        "shares": 400.0
       }
     ]
   },
@@ -34964,72 +35139,74 @@
     "SNDK US": "晟碟公司（德拉瓦州）",
     "TSLA US": "特斯拉公司",
     "6981 JT": "村田製作所有限公司",
-    "6506 JT": "安川電機公司"
+    "6506 JT": "安川電機公司",
+    "MRVL US": "Marvell Technology Inc"
   },
   "days_held": {
-    "2330": 190,
+    "2330": 191,
     "7011 JT": 152,
-    "8306 JT": 190,
-    "AMD US": 82,
-    "AMZN US": 190,
-    "AVGO US": 190,
+    "8306 JT": 191,
+    "AMD US": 83,
+    "AMZN US": 191,
+    "AVGO US": 191,
     "BKNG US": 15,
     "CDNS US": 106,
     "CLS US": 109,
-    "CRWD US": 190,
+    "CRWD US": 191,
     "C US": 141,
     "DASH US": 100,
-    "GEV US": 190,
-    "GOOGL US": 190,
+    "GEV US": 191,
+    "GOOGL US": 191,
     "HOOD US": 100,
-    "HWM US": 190,
+    "HWM US": 191,
     "INTU US": 16,
-    "LITE US": 190,
-    "LLY US": 156,
+    "LITE US": 191,
+    "LLY US": 157,
     "MA US": 73,
     "META US": 141,
-    "MSFT US": 190,
-    "NET US": 190,
+    "MSFT US": 191,
+    "NET US": 191,
     "NFLX US": 93,
     "NOW US": 97,
-    "NVDA US": 190,
+    "NVDA US": 191,
     "ORCL US": 66,
     "PLTR US": 113,
     "PWR US": 10,
     "SHOP UN": 112,
-    "SNOW US": 152,
+    "SNOW US": 153,
     "UBER US": 110,
     "6701 JT": 16,
     "700 HK": 109,
     "ADI US": 29,
     "CRDO US": 101,
-    "GS US": 189,
-    "IFX GY": 189,
+    "GS US": 190,
+    "IFX GY": 190,
     "SPOT US": 94,
     "WO US": 58,
     "6501 JT": 175,
-    "MU US": 178,
-    "SU FP": 178,
-    "LRCX US": 171,
+    "MU US": 179,
+    "SU FP": 179,
+    "LRCX US": 172,
     "TER US": 145,
-    "BWXT US": 155,
+    "BWXT US": 156,
     "NRG US": 57,
     "TTWO US": 9,
-    "ENR GY": 104,
+    "ENR GY": 105,
     "TEAM US": 11,
     "TMO US": 31,
-    "WMT UN": 93,
+    "WMT UN": 94,
     "6857 JT": 38,
-    "COHR US": 92,
-    "ETN US": 92,
+    "COHR US": 93,
+    "ETN US": 93,
     "VRTX US": 78,
-    "CAT US": 79,
-    "GLEN LN": 75,
-    "4062 JT": 22,
-    "SNDK US": 21,
-    "TSLA US": 15,
-    "6981 JT": 15,
-    "6506 JT": 13
+    "CAT US": 80,
+    "GLEN LN": 76,
+    "4062 JT": 23,
+    "SNDK US": 22,
+    "TSLA US": 16,
+    "6981 JT": 16,
+    "6506 JT": 14,
+    "MRVL US": 1
   },
   "is_new": {},
   "daily_shares": {

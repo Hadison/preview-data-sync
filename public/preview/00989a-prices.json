@@ -1,5 +1,5 @@
 {
-  "as_of": "20260611",
+  "as_of": "20260612",
   "first_date": "20251014",
   "codes": [
     "ADI",
@@ -73,6 +73,7 @@
     "SNDK",
     "SNOW",
     "SNPS",
+    "SPCX",
     "SPOT",
     "SYM",
     "TEM",
@@ -182,8 +183,9 @@
     "CBRS": [],
     "CRM": [],
     "WOLF": [],
-    "ENPH": []
+    "ENPH": [],
+    "SPCX": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-06-12T13:18:28Z"
+  "generated_at": "2026-06-15T15:41:19Z"
 }
