@@ -1,5 +1,5 @@
 {
-  "as_of": "20260612",
+  "as_of": "20260615",
   "first_date": "20250610",
   "codes": [
     "ABNB US",
@@ -50,6 +50,7 @@
     "SDGR US",
     "SHOP US",
     "SOFI US",
+    "SPCX US",
     "SPOT US",
     "TEM US",
     "TER US",
@@ -124,8 +125,9 @@
     "CBRS US": [],
     "FIG US": [],
     "XE US": [],
-    "GOOG US": []
+    "GOOG US": [],
+    "SPCX US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-06-15T15:32:07Z"
+  "generated_at": "2026-06-16T14:33:31Z"
 }

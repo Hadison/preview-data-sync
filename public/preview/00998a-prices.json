@@ -1,5 +1,5 @@
 {
-  "as_of": "20260612",
+  "as_of": "20260615",
   "first_date": "20260407",
   "codes": [
     "032830 KS",
@@ -28,12 +28,14 @@
     "CRCL US",
     "DBS SP",
     "ETE GA",
+    "GLE FP",
     "GS US",
     "HOOD US",
     "HSBA LN",
     "IBKR US",
     "INGA NA",
     "ISP IM",
+    "JPM US",
     "LGEN LN",
     "LLOY LN",
     "MFG US",
@@ -117,8 +119,10 @@
     "8308 JP": [],
     "032830 KS": [],
     "AGN NA": [],
-    "BAC US": []
+    "BAC US": [],
+    "GLE FP": [],
+    "JPM US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-06-15T15:50:21Z"
+  "generated_at": "2026-06-16T14:48:34Z"
 }

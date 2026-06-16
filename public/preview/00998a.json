@@ -4,268 +4,275 @@
     "name": "主動復華金融股息",
     "issuer": "復華投信"
   },
-  "as_of": "20260612",
+  "as_of": "20260615",
   "first_date": "20260407",
-  "n_days": 47,
+  "n_days": 48,
   "current": [
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "BMPS IM",
       "name": "義大利西恩那銀行股份公司",
-      "weight": 5.39,
+      "weight": 5.2,
       "shares": 430000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "TPEIR GA",
       "name": "Piraeus Bank SA",
-      "weight": 4.98,
+      "weight": 4.93,
       "shares": 470000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "UNI IM",
       "name": "Unipol保險股份公司",
-      "weight": 4.81,
+      "weight": 4.63,
       "shares": 170000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "ABN NA",
       "name": "荷蘭銀行公眾有限公司",
-      "weight": 4.45,
+      "weight": 4.35,
       "shares": 109800.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "AGN NA",
       "name": "荷蘭保險公司",
-      "weight": 4.27,
+      "weight": 4.15,
       "shares": 500000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "C US",
       "name": "花旗集團公司",
-      "weight": 4.24,
+      "weight": 4.1,
       "shares": 30000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "HSBA LN",
       "name": "匯豐控股有限公司",
-      "weight": 4.09,
+      "weight": 3.96,
       "shares": 220000.0
     },
     {
-      "date": "20260612",
-      "code": "AGS BB",
-      "name": "Ageas",
-      "weight": 3.9,
-      "shares": 50000.0
-    },
-    {
-      "date": "20260612",
+      "date": "20260615",
       "code": "MS US",
       "name": "摩根士丹利",
-      "weight": 3.9,
+      "weight": 3.79,
       "shares": 18000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
+      "code": "AGS BB",
+      "name": "Ageas",
+      "weight": 3.76,
+      "shares": 50000.0
+    },
+    {
+      "date": "20260615",
       "code": "AMUN FP",
       "name": "東方匯理資產管理有限責任公司",
-      "weight": 3.86,
+      "weight": 3.74,
       "shares": 40000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "ETE GA",
       "name": "希臘國家銀行",
-      "weight": 3.32,
+      "weight": 3.26,
       "shares": 190000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "GS US",
       "name": "高盛集團",
-      "weight": 2.69,
+      "weight": 2.6,
       "shares": 2500.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "MRX US",
       "name": "Marex Group PLC",
-      "weight": 2.51,
+      "weight": 2.42,
       "shares": 40000.0
     },
     {
-      "date": "20260612",
-      "code": "BNY US",
-      "name": "紐約梅隆銀行",
-      "weight": 2.48,
-      "shares": 17000.0
-    },
-    {
-      "date": "20260612",
+      "date": "20260615",
       "code": "7167 JP",
       "name": "Mebuki金融集團公司",
-      "weight": 2.48,
+      "weight": 2.39,
       "shares": 280000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "8377 JP",
       "name": "北北金融集團公司",
-      "weight": 2.46,
+      "weight": 2.36,
       "shares": 60000.0
     },
     {
-      "date": "20260612",
-      "code": "7182 JP",
-      "name": "日本郵政銀行有限公司",
-      "weight": 2.43,
-      "shares": 120000.0
-    },
-    {
-      "date": "20260612",
-      "code": "SDLF LN",
-      "name": "標準人壽公開有限公司",
-      "weight": 2.36,
-      "shares": 220000.0
-    },
-    {
-      "date": "20260612",
-      "code": "LGEN LN",
-      "name": "法通保險集團公開有限公司",
-      "weight": 2.28,
-      "shares": 600000.0
-    },
-    {
-      "date": "20260612",
-      "code": "BNP FP",
-      "name": "法國巴黎銀行有限責任公司",
-      "weight": 2.26,
-      "shares": 20000.0
-    },
-    {
-      "date": "20260612",
-      "code": "ISP IM",
-      "name": "聯合聖保羅銀行",
-      "weight": 2.25,
-      "shares": 330000.0
-    },
-    {
-      "date": "20260612",
-      "code": "SNEX US",
-      "name": "StoneX集團公司",
-      "weight": 2.25,
+      "date": "20260615",
+      "code": "BNY US",
+      "name": "紐約梅隆銀行",
+      "weight": 2.34,
       "shares": 17000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
+      "code": "7182 JP",
+      "name": "日本郵政銀行有限公司",
+      "weight": 2.32,
+      "shares": 120000.0
+    },
+    {
+      "date": "20260615",
+      "code": "SDLF LN",
+      "name": "標準人壽公開有限公司",
+      "weight": 2.27,
+      "shares": 220000.0
+    },
+    {
+      "date": "20260615",
+      "code": "SNEX US",
+      "name": "StoneX集團公司",
+      "weight": 2.23,
+      "shares": 17000.0
+    },
+    {
+      "date": "20260615",
+      "code": "BNP FP",
+      "name": "法國巴黎銀行有限責任公司",
+      "weight": 2.21,
+      "shares": 20000.0
+    },
+    {
+      "date": "20260615",
+      "code": "LGEN LN",
+      "name": "法通保險集團公開有限公司",
+      "weight": 2.19,
+      "shares": 600000.0
+    },
+    {
+      "date": "20260615",
+      "code": "ISP IM",
+      "name": "聯合聖保羅銀行",
+      "weight": 2.18,
+      "shares": 330000.0
+    },
+    {
+      "date": "20260615",
       "code": "IBKR US",
       "name": "盈透證券集團公司",
-      "weight": 2.2,
+      "weight": 2.15,
       "shares": 24000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "UCG IM",
       "name": "裕信銀行",
-      "weight": 2.14,
+      "weight": 2.09,
       "shares": 25000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "UBS US",
       "name": "瑞銀集團公司",
-      "weight": 2.13,
+      "weight": 2.06,
       "shares": 43000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
+      "code": "GLE FP",
+      "name": "法國興業銀行股份有限公司",
+      "weight": 2.0,
+      "shares": 23500.0
+    },
+    {
+      "date": "20260615",
       "code": "8309 JP",
       "name": "三井住友信託集團公司",
-      "weight": 2.03,
+      "weight": 1.98,
       "shares": 54000.0
     },
     {
-      "date": "20260612",
-      "code": "BAC US",
-      "name": "美國銀行",
-      "weight": 1.98,
-      "shares": 35000.0
-    },
-    {
-      "date": "20260612",
+      "date": "20260615",
       "code": "8331 JP",
       "name": "千葉銀行有限公司",
-      "weight": 1.92,
+      "weight": 1.9,
       "shares": 125000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
+      "code": "BAC US",
+      "name": "美國銀行",
+      "weight": 1.89,
+      "shares": 35000.0
+    },
+    {
+      "date": "20260615",
       "code": "BAMI IM",
       "name": "BPM銀行股份公司",
-      "weight": 1.86,
+      "weight": 1.83,
       "shares": 110000.0
     },
     {
-      "date": "20260612",
-      "code": "5844 JP",
-      "name": "京都金融集團公司",
-      "weight": 1.83,
-      "shares": 65000.0
-    },
-    {
-      "date": "20260612",
+      "date": "20260615",
       "code": "STAN LN",
       "name": "渣打集團有限公司",
-      "weight": 1.83,
+      "weight": 1.79,
       "shares": 70000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "032830 KS",
       "name": "三星人壽保險有限公司",
-      "weight": 1.69,
+      "weight": 1.78,
       "shares": 6600.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
+      "code": "5844 JP",
+      "name": "京都金融集團公司",
+      "weight": 1.77,
+      "shares": 65000.0
+    },
+    {
+      "date": "20260615",
+      "code": "JPM US",
+      "name": "摩根大通銀行",
+      "weight": 1.42,
+      "shares": 4600.0
+    },
+    {
+      "date": "20260615",
       "code": "8308 JP",
       "name": "Resona控股公司",
-      "weight": 1.36,
+      "weight": 1.33,
       "shares": 100000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "BPE IM",
       "name": "BPER銀行有限公司",
-      "weight": 1.22,
+      "weight": 1.21,
       "shares": 80000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "MFG US",
       "name": "瑞穗金融集團",
-      "weight": 0.98,
+      "weight": 0.94,
       "shares": 100000.0
     },
     {
-      "date": "20260612",
+      "date": "20260615",
       "code": "7180 JP",
       "name": "九州金融集團公司",
-      "weight": 0.91,
+      "weight": 0.89,
       "shares": 100000.0
-    },
-    {
-      "date": "20260612",
-      "code": "NN NA",
-      "name": "NN集團公眾有限公司",
-      "weight": 0.86,
-      "shares": 10000.0
     }
   ],
   "exited_codes": [
@@ -283,6 +290,7 @@
     "LLOY LN",
     "MUFG US",
     "M_EUR",
+    "NN NA",
     "NWG LN",
     "OCBC SP",
     "RELY US",
@@ -313,68 +321,71 @@
     "OCBC SP": "20260522",
     "RELY US": "20260522",
     "CRCL US": "20260527",
-    "INGA NA": "20260611"
+    "INGA NA": "20260611",
+    "NN NA": "20260615"
   },
   "active_days": {
     "202606FESB": 19,
-    "BAMI IM": 47,
+    "BAMI IM": 48,
     "BBVA SM": 23,
-    "BNP FP": 47,
-    "BPE IM": 47,
-    "C US": 47,
+    "BNP FP": 48,
+    "BPE IM": 48,
+    "C US": 48,
     "DA_EUR": 1,
     "DA_NTD": 19,
     "DA_SGD": 2,
     "DA_USD": 14,
     "DBS SP": 5,
-    "HSBA LN": 47,
-    "LGEN LN": 47,
+    "HSBA LN": 48,
+    "LGEN LN": 48,
     "LLOY LN": 21,
     "M_EUR": 18,
-    "MFG US": 47,
+    "MFG US": 48,
     "MUFG US": 11,
     "NN NA": 47,
     "NWG LN": 10,
     "SAN SM": 30,
-    "SDLF LN": 47,
-    "TPEIR GA": 47,
+    "SDLF LN": 48,
+    "TPEIR GA": 48,
     "UNI SM": 27,
     "WF US": 14,
-    "ABN NA": 46,
+    "ABN NA": 47,
     "INGA NA": 44,
     "OCBC SP": 27,
-    "UCG IM": 42,
-    "BMPS IM": 40,
+    "UCG IM": 43,
+    "BMPS IM": 41,
     "SOFI US": 10,
     "HOOD US": 6,
-    "MS US": 36,
+    "MS US": 37,
     "SHG US": 13,
-    "GS US": 33,
-    "MRX US": 31,
-    "UBS US": 31,
-    "ISP IM": 29,
-    "UNI IM": 29,
-    "7167 JP": 26,
+    "GS US": 34,
+    "MRX US": 32,
+    "UBS US": 32,
+    "ISP IM": 30,
+    "UNI IM": 30,
+    "7167 JP": 27,
     "RELY US": 10,
-    "8309 JP": 25,
-    "8377 JP": 25,
+    "8309 JP": 26,
+    "8377 JP": 26,
     "CRCL US": 10,
-    "5844 JP": 22,
+    "5844 JP": 23,
     "BK US": 5,
-    "8331 JP": 20,
-    "STAN LN": 19,
-    "7180 JP": 18,
-    "BNY US": 16,
-    "SNEX US": 15,
-    "AGS BB": 14,
-    "ETE GA": 12,
-    "IBKR US": 11,
-    "7182 JP": 11,
-    "AMUN FP": 8,
-    "8308 JP": 5,
-    "AGN NA": 4,
-    "032830 KS": 4,
-    "BAC US": 2
+    "8331 JP": 21,
+    "STAN LN": 20,
+    "7180 JP": 19,
+    "BNY US": 17,
+    "SNEX US": 16,
+    "AGS BB": 15,
+    "ETE GA": 13,
+    "IBKR US": 12,
+    "7182 JP": 12,
+    "AMUN FP": 9,
+    "8308 JP": 6,
+    "AGN NA": 5,
+    "032830 KS": 5,
+    "BAC US": 3,
+    "GLE FP": 1,
+    "JPM US": 1
   },
   "series": {
     "202606FESB": [
@@ -708,6 +719,11 @@
       {
         "date": "20260612",
         "weight": 1.86,
+        "shares": 110000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 1.83,
         "shares": 110000.0
       }
     ],
@@ -1063,6 +1079,11 @@
         "date": "20260612",
         "weight": 2.26,
         "shares": 20000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.21,
+        "shares": 20000.0
       }
     ],
     "BPE IM": [
@@ -1300,6 +1321,11 @@
         "date": "20260612",
         "weight": 1.22,
         "shares": 80000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 1.21,
+        "shares": 80000.0
       }
     ],
     "C US": [
@@ -1536,6 +1562,11 @@
       {
         "date": "20260612",
         "weight": 4.24,
+        "shares": 30000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 4.1,
         "shares": 30000.0
       }
     ],
@@ -2193,6 +2224,11 @@
         "date": "20260612",
         "weight": 4.09,
         "shares": 220000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 3.96,
+        "shares": 220000.0
       }
     ],
     "LGEN LN": [
@@ -2429,6 +2465,11 @@
       {
         "date": "20260612",
         "weight": 2.28,
+        "shares": 600000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.19,
         "shares": 600000.0
       }
     ],
@@ -2870,6 +2911,11 @@
       {
         "date": "20260612",
         "weight": 0.98,
+        "shares": 100000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 0.94,
         "shares": 100000.0
       }
     ],
@@ -3614,6 +3660,11 @@
         "date": "20260612",
         "weight": 2.36,
         "shares": 220000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.27,
+        "shares": 220000.0
       }
     ],
     "TPEIR GA": [
@@ -3850,6 +3901,11 @@
       {
         "date": "20260612",
         "weight": 4.98,
+        "shares": 470000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 4.93,
         "shares": 470000.0
       }
     ],
@@ -4295,6 +4351,11 @@
       {
         "date": "20260612",
         "weight": 4.45,
+        "shares": 109800.0
+      },
+      {
+        "date": "20260615",
+        "weight": 4.35,
         "shares": 109800.0
       }
     ],
@@ -4867,6 +4928,11 @@
         "date": "20260612",
         "weight": 2.14,
         "shares": 25000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.09,
+        "shares": 25000.0
       }
     ],
     "BMPS IM": [
@@ -5068,6 +5134,11 @@
       {
         "date": "20260612",
         "weight": 5.39,
+        "shares": 430000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 5.2,
         "shares": 430000.0
       }
     ],
@@ -5343,6 +5414,11 @@
         "date": "20260612",
         "weight": 3.9,
         "shares": 18000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 3.79,
+        "shares": 18000.0
       }
     ],
     "SHG US": [
@@ -5577,6 +5653,11 @@
         "date": "20260612",
         "weight": 2.69,
         "shares": 2500.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.6,
+        "shares": 2500.0
       }
     ],
     "MRX US": [
@@ -5733,6 +5814,11 @@
       {
         "date": "20260612",
         "weight": 2.51,
+        "shares": 40000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.42,
         "shares": 40000.0
       }
     ],
@@ -5891,6 +5977,11 @@
         "date": "20260612",
         "weight": 2.13,
         "shares": 43000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.06,
+        "shares": 43000.0
       }
     ],
     "ISP IM": [
@@ -6037,6 +6128,11 @@
       {
         "date": "20260612",
         "weight": 2.25,
+        "shares": 330000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.18,
         "shares": 330000.0
       }
     ],
@@ -6185,6 +6281,11 @@
         "date": "20260612",
         "weight": 4.81,
         "shares": 170000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 4.63,
+        "shares": 170000.0
       }
     ],
     "7167 JP": [
@@ -6316,6 +6417,11 @@
       {
         "date": "20260612",
         "weight": 2.48,
+        "shares": 280000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.39,
         "shares": 280000.0
       }
     ],
@@ -6496,6 +6602,11 @@
         "date": "20260612",
         "weight": 2.03,
         "shares": 54000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 1.98,
+        "shares": 54000.0
       }
     ],
     "8377 JP": [
@@ -6622,6 +6733,11 @@
       {
         "date": "20260612",
         "weight": 2.46,
+        "shares": 60000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.36,
         "shares": 60000.0
       }
     ],
@@ -6787,6 +6903,11 @@
         "date": "20260612",
         "weight": 1.83,
         "shares": 65000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 1.77,
+        "shares": 65000.0
       }
     ],
     "BK US": [
@@ -6916,6 +7037,11 @@
         "date": "20260612",
         "weight": 1.92,
         "shares": 125000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 1.9,
+        "shares": 125000.0
       }
     ],
     "STAN LN": [
@@ -7013,6 +7139,11 @@
         "date": "20260612",
         "weight": 1.83,
         "shares": 70000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 1.79,
+        "shares": 70000.0
       }
     ],
     "7180 JP": [
@@ -7105,6 +7236,11 @@
         "date": "20260612",
         "weight": 0.91,
         "shares": 100000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 0.89,
+        "shares": 100000.0
       }
     ],
     "BNY US": [
@@ -7187,6 +7323,11 @@
         "date": "20260612",
         "weight": 2.48,
         "shares": 17000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.34,
+        "shares": 17000.0
       }
     ],
     "SNEX US": [
@@ -7264,6 +7405,11 @@
         "date": "20260612",
         "weight": 2.25,
         "shares": 17000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.23,
+        "shares": 17000.0
       }
     ],
     "AGS BB": [
@@ -7336,6 +7482,11 @@
         "date": "20260612",
         "weight": 3.9,
         "shares": 50000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 3.76,
+        "shares": 50000.0
       }
     ],
     "ETE GA": [
@@ -7398,6 +7549,11 @@
         "date": "20260612",
         "weight": 3.32,
         "shares": 190000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 3.26,
+        "shares": 190000.0
       }
     ],
     "IBKR US": [
@@ -7454,6 +7610,11 @@
       {
         "date": "20260612",
         "weight": 2.2,
+        "shares": 24000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.15,
         "shares": 24000.0
       }
     ],
@@ -7512,6 +7673,11 @@
         "date": "20260612",
         "weight": 2.43,
         "shares": 120000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 2.32,
+        "shares": 120000.0
       }
     ],
     "AMUN FP": [
@@ -7554,6 +7720,11 @@
         "date": "20260612",
         "weight": 3.86,
         "shares": 40000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 3.74,
+        "shares": 40000.0
       }
     ],
     "8308 JP": [
@@ -7581,6 +7752,11 @@
         "date": "20260612",
         "weight": 1.36,
         "shares": 100000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 1.33,
+        "shares": 100000.0
       }
     ],
     "AGN NA": [
@@ -7602,6 +7778,11 @@
       {
         "date": "20260612",
         "weight": 4.27,
+        "shares": 500000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 4.15,
         "shares": 500000.0
       }
     ],
@@ -7625,6 +7806,11 @@
         "date": "20260612",
         "weight": 1.69,
         "shares": 6600.0
+      },
+      {
+        "date": "20260615",
+        "weight": 1.78,
+        "shares": 6600.0
       }
     ],
     "BAC US": [
@@ -7637,6 +7823,25 @@
         "date": "20260612",
         "weight": 1.98,
         "shares": 35000.0
+      },
+      {
+        "date": "20260615",
+        "weight": 1.89,
+        "shares": 35000.0
+      }
+    ],
+    "GLE FP": [
+      {
+        "date": "20260615",
+        "weight": 2.0,
+        "shares": 23500.0
+      }
+    ],
+    "JPM US": [
+      {
+        "date": "20260615",
+        "weight": 1.42,
+        "shares": 4600.0
       }
     ]
   },
@@ -7699,68 +7904,72 @@
     "8308 JP": "Resona控股公司",
     "AGN NA": "荷蘭保險公司",
     "032830 KS": "三星人壽保險有限公司",
-    "BAC US": "美國銀行"
+    "BAC US": "美國銀行",
+    "GLE FP": "法國興業銀行股份有限公司",
+    "JPM US": "摩根大通銀行"
   },
   "days_held": {
     "202606FESB": 19,
-    "BAMI IM": 47,
+    "BAMI IM": 48,
     "BBVA SM": 23,
-    "BNP FP": 47,
-    "BPE IM": 47,
-    "C US": 47,
+    "BNP FP": 48,
+    "BPE IM": 48,
+    "C US": 48,
     "DA_EUR": 1,
     "DA_NTD": 19,
     "DA_SGD": 2,
     "DA_USD": 14,
     "DBS SP": 5,
-    "HSBA LN": 47,
-    "LGEN LN": 47,
+    "HSBA LN": 48,
+    "LGEN LN": 48,
     "LLOY LN": 21,
     "M_EUR": 18,
-    "MFG US": 47,
+    "MFG US": 48,
     "MUFG US": 11,
     "NN NA": 47,
     "NWG LN": 10,
     "SAN SM": 30,
-    "SDLF LN": 47,
-    "TPEIR GA": 47,
+    "SDLF LN": 48,
+    "TPEIR GA": 48,
     "UNI SM": 27,
     "WF US": 14,
-    "ABN NA": 46,
+    "ABN NA": 47,
     "INGA NA": 44,
     "OCBC SP": 27,
-    "UCG IM": 42,
-    "BMPS IM": 40,
+    "UCG IM": 43,
+    "BMPS IM": 41,
     "SOFI US": 10,
     "HOOD US": 6,
-    "MS US": 36,
+    "MS US": 37,
     "SHG US": 13,
-    "GS US": 33,
-    "MRX US": 31,
-    "UBS US": 31,
-    "ISP IM": 29,
-    "UNI IM": 29,
-    "7167 JP": 26,
+    "GS US": 34,
+    "MRX US": 32,
+    "UBS US": 32,
+    "ISP IM": 30,
+    "UNI IM": 30,
+    "7167 JP": 27,
     "RELY US": 10,
-    "8309 JP": 25,
-    "8377 JP": 25,
+    "8309 JP": 26,
+    "8377 JP": 26,
     "CRCL US": 10,
-    "5844 JP": 22,
+    "5844 JP": 23,
     "BK US": 5,
-    "8331 JP": 20,
-    "STAN LN": 19,
-    "7180 JP": 18,
-    "BNY US": 16,
-    "SNEX US": 15,
-    "AGS BB": 14,
-    "ETE GA": 12,
-    "IBKR US": 11,
-    "7182 JP": 11,
-    "AMUN FP": 8,
-    "8308 JP": 5,
-    "AGN NA": 4,
-    "032830 KS": 4,
-    "BAC US": 2
+    "8331 JP": 21,
+    "STAN LN": 20,
+    "7180 JP": 19,
+    "BNY US": 17,
+    "SNEX US": 16,
+    "AGS BB": 15,
+    "ETE GA": 13,
+    "IBKR US": 12,
+    "7182 JP": 12,
+    "AMUN FP": 9,
+    "8308 JP": 6,
+    "AGN NA": 5,
+    "032830 KS": 5,
+    "BAC US": 3,
+    "GLE FP": 1,
+    "JPM US": 1
   },
   "is_new": {},
   "daily_shares": {
