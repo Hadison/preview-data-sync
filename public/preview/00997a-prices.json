@@ -1,5 +1,5 @@
 {
-  "as_of": "20260616",
+  "as_of": "20260617",
   "first_date": "20260410",
   "codes": [
     "009150 KS",
@@ -494,6 +494,15 @@
         "close": 2400.0,
         "adj_factor": 1.0,
         "volume_shares": 37145708
+      },
+      {
+        "date": "20260617",
+        "open": 2355.0,
+        "high": 2385.0,
+        "low": 2350.0,
+        "close": 2385.0,
+        "adj_factor": 1.0,
+        "volume_shares": 30059393
       }
     ],
     "3110 JP": [],
@@ -920,6 +929,15 @@
         "close": 876.0,
         "adj_factor": 1.0,
         "volume_shares": 4644000
+      },
+      {
+        "date": "20260617",
+        "open": 879.0,
+        "high": 911.0,
+        "low": 855.0,
+        "close": 903.0,
+        "adj_factor": 1.0,
+        "volume_shares": 4318000
       }
     ],
     "4062 JP": [],
@@ -1383,6 +1401,15 @@
         "close": 2230.0,
         "adj_factor": 1.0,
         "volume_shares": 9190426
+      },
+      {
+        "date": "20260617",
+        "open": 2220.0,
+        "high": 2220.0,
+        "low": 2140.0,
+        "close": 2155.0,
+        "adj_factor": 1.0,
+        "volume_shares": 11613654
       }
     ],
     "5801 JP": [],
@@ -1809,6 +1836,15 @@
         "close": 2520.0,
         "adj_factor": 1.0,
         "volume_shares": 3072890
+      },
+      {
+        "date": "20260617",
+        "open": 2555.0,
+        "high": 2600.0,
+        "low": 2470.0,
+        "close": 2495.0,
+        "adj_factor": 1.0,
+        "volume_shares": 2648670
       }
     ],
     "2383": [
@@ -2234,6 +2270,15 @@
         "close": 5120.0,
         "adj_factor": 1.0,
         "volume_shares": 2171931
+      },
+      {
+        "date": "20260617",
+        "open": 5105.0,
+        "high": 5230.0,
+        "low": 4885.0,
+        "close": 5200.0,
+        "adj_factor": 1.0,
+        "volume_shares": 2440312
       }
     ],
     "6515": [
@@ -2659,6 +2704,15 @@
         "close": 9945.0,
         "adj_factor": 1.0,
         "volume_shares": 366700
+      },
+      {
+        "date": "20260617",
+        "open": 9885.0,
+        "high": 9950.0,
+        "low": 9400.0,
+        "close": 9450.0,
+        "adj_factor": 1.0,
+        "volume_shares": 308483
       }
     ],
     "PL US": [],
@@ -3095,6 +3149,15 @@
         "close": 4560.0,
         "adj_factor": 1.0,
         "volume_shares": 11309893
+      },
+      {
+        "date": "20260617",
+        "open": 4495.0,
+        "high": 4535.0,
+        "low": 4380.0,
+        "close": 4460.0,
+        "adj_factor": 1.0,
+        "volume_shares": 9197868
       }
     ],
     "IFX GY": [],
@@ -3528,9 +3591,18 @@
         "close": 950.0,
         "adj_factor": 1.0,
         "volume_shares": 79608290
+      },
+      {
+        "date": "20260617",
+        "open": 936.0,
+        "high": 998.0,
+        "low": 930.0,
+        "close": 984.0,
+        "adj_factor": 1.0,
+        "volume_shares": 56180641
       }
     ]
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-06-17T13:26:28Z"
+  "generated_at": "2026-06-18T12:59:05Z"
 }
