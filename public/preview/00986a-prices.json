@@ -1,5 +1,5 @@
 {
-  "as_of": "20260617",
+  "as_of": "20260618",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -1823,6 +1823,15 @@
         "close": 2385.0,
         "adj_factor": 1.0,
         "volume_shares": 30059393
+      },
+      {
+        "date": "20260618",
+        "open": 2395.0,
+        "high": 2415.0,
+        "low": 2385.0,
+        "close": 2410.0,
+        "adj_factor": 1.0,
+        "volume_shares": 49982610
       }
     ],
     "7011 JT": [],
@@ -1890,5 +1899,5 @@
     "MRVL US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-06-18T12:47:45Z"
+  "generated_at": "2026-06-22T15:15:02Z"
 }
