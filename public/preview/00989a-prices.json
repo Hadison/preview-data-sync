@@ -1,5 +1,5 @@
 {
-  "as_of": "20260623",
+  "as_of": "20260624",
   "first_date": "20251014",
   "codes": [
     "ADI",
@@ -27,6 +27,7 @@
     "DASH",
     "DDOG",
     "DOCN",
+    "ECHO",
     "ENPH",
     "ENTG",
     "FIG",
@@ -184,8 +185,9 @@
     "CRM": [],
     "WOLF": [],
     "ENPH": [],
-    "SPCX": []
+    "SPCX": [],
+    "ECHO": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-06-24T12:17:59Z"
+  "generated_at": "2026-06-25T12:16:47Z"
 }

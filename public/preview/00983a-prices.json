@@ -1,5 +1,5 @@
 {
-  "as_of": "20260623",
+  "as_of": "20260624",
   "first_date": "20250610",
   "codes": [
     "ABNB US",
@@ -32,6 +32,7 @@
     "IRDM US",
     "JOBY US",
     "KTOS US",
+    "LLY US",
     "MELI US",
     "META US",
     "NTLA US",
@@ -49,6 +50,7 @@
     "RXRX US",
     "SDGR US",
     "SHOP US",
+    "SNOW US",
     "SOFI US",
     "SPCX US",
     "SPOT US",
@@ -126,8 +128,10 @@
     "FIG US": [],
     "XE US": [],
     "GOOG US": [],
-    "SPCX US": []
+    "SPCX US": [],
+    "LLY US": [],
+    "SNOW US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-06-24T12:09:29Z"
+  "generated_at": "2026-06-25T12:06:27Z"
 }
