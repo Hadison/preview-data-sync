@@ -1,5 +1,5 @@
 {
-  "as_of": "20260701",
+  "as_of": "20260702",
   "first_date": "20260407",
   "codes": [
     "032830 KS",
@@ -64,6 +64,7 @@
     "UCG IM",
     "UNI IM",
     "UNI SM",
+    "USB US",
     "WF US"
   ],
   "prices": {
@@ -133,8 +134,9 @@
     "NLY US": [],
     "CBK GY": [],
     "BARC LN": [],
-    "402340 KS": []
+    "402340 KS": [],
+    "USB US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-07-02T12:08:12Z"
+  "generated_at": "2026-07-03T12:06:18Z"
 }
