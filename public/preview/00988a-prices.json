@@ -14752,6 +14752,15 @@
         "close": 6180.0,
         "adj_factor": 1.0,
         "volume_shares": 752443
+      },
+      {
+        "date": "20260708",
+        "open": 6340.0,
+        "high": 6340.0,
+        "low": 6010.0,
+        "close": 6055.0,
+        "adj_factor": 1.0,
+        "volume_shares": 611869
       }
     ],
     "6954 JP": [],
@@ -29561,5 +29570,5 @@
     "000660 KS": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-07-09T12:30:26Z"
+  "generated_at": "2026-07-10T12:09:30Z"
 }

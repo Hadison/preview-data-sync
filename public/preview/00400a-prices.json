@@ -19424,6 +19424,15 @@
         "close": 1900.0,
         "adj_factor": 1.0,
         "volume_shares": 3599849
+      },
+      {
+        "date": "20260709",
+        "open": 1905.0,
+        "high": 1910.0,
+        "low": 1865.0,
+        "close": 1865.0,
+        "adj_factor": 1.0,
+        "volume_shares": 1576338
       }
     ],
     "5274": [
@@ -48468,5 +48477,5 @@
     ]
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-07-09T12:18:20Z"
+  "generated_at": "2026-07-10T12:09:12Z"
 }
