@@ -1,5 +1,5 @@
 {
-  "as_of": "20260714",
+  "as_of": "20260715",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -36,6 +36,7 @@
     "HWM US",
     "IFX GY",
     "INTU US",
+    "JPM US",
     "LITE US",
     "LLY US",
     "LRCX US",
@@ -1976,6 +1977,15 @@
         "close": 2420.0,
         "adj_factor": 1.0,
         "volume_shares": 42857055
+      },
+      {
+        "date": "20260715",
+        "open": 2425.0,
+        "high": 2460.0,
+        "low": 2415.0,
+        "close": 2440.0,
+        "adj_factor": 1.0,
+        "volume_shares": 33665566
       }
     ],
     "7011 JT": [],
@@ -2040,8 +2050,9 @@
     "6981 JT": [],
     "TSLA US": [],
     "6506 JT": [],
-    "MRVL US": []
+    "MRVL US": [],
+    "JPM US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-07-15T11:24:27Z"
+  "generated_at": "2026-07-16T11:27:47Z"
 }
