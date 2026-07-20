@@ -1,5 +1,5 @@
 {
-  "as_of": "20260716",
+  "as_of": "20260717",
   "first_date": "20260407",
   "codes": [
     "032830 KS",
@@ -53,6 +53,7 @@
     "NN NA",
     "NWG LN",
     "OCBC SP",
+    "PFG US",
     "RELY US",
     "SAN SM",
     "SDLF LN",
@@ -66,6 +67,7 @@
     "UNI IM",
     "UNI SM",
     "USB US",
+    "V US",
     "WF US"
   ],
   "prices": {
@@ -137,8 +139,10 @@
     "BARC LN": [],
     "402340 KS": [],
     "USB US": [],
-    "AJG US": []
+    "AJG US": [],
+    "PFG US": [],
+    "V US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-07-17T11:12:50Z"
+  "generated_at": "2026-07-20T12:18:03Z"
 }
