@@ -4,296 +4,303 @@
     "name": "主動統一全球創新",
     "issuer": "統一投信"
   },
-  "as_of": "20260720",
+  "as_of": "20260721",
   "first_date": "20251103",
-  "n_days": 170,
+  "n_days": 171,
   "current": [
     {
-      "date": "20260720",
+      "date": "20260721",
       "code": "AMD US",
       "name": "ADVANCED MICRO DEVICES.amd us(超微半導體公司)",
-      "weight": 6.1,
+      "weight": 6.16,
       "shares": 205000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
       "code": "MU US",
       "name": "MICRON TECHNOLOGY INC",
-      "weight": 4.91,
-      "shares": 96000.0
+      "weight": 5.81,
+      "shares": 108569.0
     },
     {
-      "date": "20260720",
-      "code": "009150 KS",
-      "name": "Samsung Electro-Mechanics co(009150 ks)",
-      "weight": 4.41,
-      "shares": 83000.0
-    },
-    {
-      "date": "20260720",
+      "date": "20260721",
       "code": "AMAT US",
       "name": "APPLIED MATERIALS INC",
-      "weight": 4.19,
+      "weight": 4.2,
       "shares": 135000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
+      "code": "009150 KS",
+      "name": "Samsung Electro-Mechanics co(009150 ks)",
+      "weight": 4.12,
+      "shares": 83000.0
+    },
+    {
+      "date": "20260721",
       "code": "BE US",
       "name": "BLOOM ENERGY CORP- A",
-      "weight": 3.61,
+      "weight": 3.87,
       "shares": 310000.0
     },
     {
-      "date": "20260720",
-      "code": "6981 JP",
-      "name": "MURATA MANUFACTURING CO LTD",
-      "weight": 3.47,
-      "shares": 1250000.0
-    },
-    {
-      "date": "20260720",
+      "date": "20260721",
       "code": "285A JP",
       "name": "KIOXIA HOLDINGS CORP",
-      "weight": 3.41,
+      "weight": 3.73,
       "shares": 180000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
+      "code": "6981 JP",
+      "name": "MURATA MANUFACTURING CO LTD",
+      "weight": 3.39,
+      "shares": 1250000.0
+    },
+    {
+      "date": "20260721",
+      "code": "2383",
+      "name": "台光電",
+      "weight": 3.37,
+      "shares": 410000.0
+    },
+    {
+      "date": "20260721",
       "code": "3037",
       "name": "欣興",
-      "weight": 3.29,
+      "weight": 3.37,
       "shares": 2400000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
       "code": "2330",
       "name": "台積電",
-      "weight": 3.18,
+      "weight": 3.08,
       "shares": 750000.0
     },
     {
-      "date": "20260720",
-      "code": "2383",
-      "name": "台光電",
-      "weight": 2.98,
-      "shares": 370000.0
-    },
-    {
-      "date": "20260720",
+      "date": "20260721",
       "code": "SNDK US",
       "name": "SANDISK CORP",
-      "weight": 2.87,
+      "weight": 3.07,
       "shares": 35000.0
     },
     {
-      "date": "20260720",
-      "code": "2327",
-      "name": "國巨*",
-      "weight": 2.77,
-      "shares": 2400000.0
-    },
-    {
-      "date": "20260720",
+      "date": "20260721",
       "code": "2454",
       "name": "聯發科",
-      "weight": 2.72,
+      "weight": 2.78,
       "shares": 445000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
       "code": "IFX GY",
       "name": "INFINEON TECHNOLOGIES AG",
-      "weight": 2.7,
+      "weight": 2.66,
       "shares": 625000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
+      "code": "LITE US",
+      "name": "LUMENTUM HOLDINGS INC",
+      "weight": 2.63,
+      "shares": 57000.0
+    },
+    {
+      "date": "20260721",
       "code": "8035 JP",
       "name": "TOKYO ELECTRON LTD",
-      "weight": 2.6,
+      "weight": 2.49,
       "shares": 110000.0
     },
     {
-      "date": "20260720",
-      "code": "6976 JP",
-      "name": "TAIYO YUDEN CO LTD",
-      "weight": 2.41,
-      "shares": 600000.0
-    },
-    {
-      "date": "20260720",
-      "code": "3436 JP",
-      "name": "SUMCO CORP",
-      "weight": 2.24,
-      "shares": 1572000.0
-    },
-    {
-      "date": "20260720",
+      "date": "20260721",
       "code": "CRDO US",
       "name": "CREDO TECHNOLOGY GROUP HOLDI",
-      "weight": 2.0,
-      "shares": 160000.0
-    },
-    {
-      "date": "20260720",
-      "code": "6920 JP",
-      "name": "LASERTEC CORP",
-      "weight": 1.98,
-      "shares": 130000.0
-    },
-    {
-      "date": "20260720",
-      "code": "3711",
-      "name": "日月光投控",
-      "weight": 1.97,
-      "shares": 1800000.0
-    },
-    {
-      "date": "20260720",
-      "code": "KLAC US",
-      "name": "KLA CORP",
-      "weight": 1.96,
-      "shares": 160000.0
-    },
-    {
-      "date": "20260720",
-      "code": "FTNT US",
-      "name": "FORTINET INC",
-      "weight": 1.89,
+      "weight": 2.47,
       "shares": 200000.0
     },
     {
-      "date": "20260720",
-      "code": "PANW US",
-      "name": "PALO ALTO NETWORKS INC",
-      "weight": 1.85,
-      "shares": 90000.0
+      "date": "20260721",
+      "code": "6976 JP",
+      "name": "TAIYO YUDEN CO LTD",
+      "weight": 2.39,
+      "shares": 600000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
+      "code": "3436 JP",
+      "name": "SUMCO CORP",
+      "weight": 2.08,
+      "shares": 1572000.0
+    },
+    {
+      "date": "20260721",
+      "code": "2327",
+      "name": "國巨*",
+      "weight": 2.05,
+      "shares": 1800000.0
+    },
+    {
+      "date": "20260721",
+      "code": "3711",
+      "name": "日月光投控",
+      "weight": 1.94,
+      "shares": 1800000.0
+    },
+    {
+      "date": "20260721",
+      "code": "KLAC US",
+      "name": "KLA CORP",
+      "weight": 1.92,
+      "shares": 160000.0
+    },
+    {
+      "date": "20260721",
+      "code": "6920 JP",
+      "name": "LASERTEC CORP",
+      "weight": 1.88,
+      "shares": 130000.0
+    },
+    {
+      "date": "20260721",
+      "code": "TSEM US",
+      "name": "TOWER SEMICONDUCTOR LTD",
+      "weight": 1.82,
+      "shares": 131825.0
+    },
+    {
+      "date": "20260721",
+      "code": "FTNT US",
+      "name": "FORTINET INC",
+      "weight": 1.74,
+      "shares": 200000.0
+    },
+    {
+      "date": "20260721",
       "code": "STM US",
       "name": "STMICROELECTRONICS NV-NY SHS",
-      "weight": 1.73,
+      "weight": 1.71,
       "shares": 475000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
+      "code": "PANW US",
+      "name": "PALO ALTO NETWORKS INC",
+      "weight": 1.7,
+      "shares": 90000.0
+    },
+    {
+      "date": "20260721",
       "code": "NOW US",
       "name": "SERVICENOW INC",
-      "weight": 1.67,
+      "weight": 1.52,
       "shares": 270000.0
     },
     {
-      "date": "20260720",
-      "code": "LITE US",
-      "name": "LUMENTUM HOLDINGS INC",
-      "weight": 1.67,
-      "shares": 37000.0
+      "date": "20260721",
+      "code": "VECO US",
+      "name": "VEECO INSTRUMENTS INC",
+      "weight": 1.52,
+      "shares": 500000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
       "code": "6871 JP",
       "name": "MICRONICS JAPAN CO LTD",
       "weight": 1.52,
       "shares": 300000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
+      "code": "WDC US",
+      "name": "WESTERN DIGITAL CORP",
+      "weight": 1.51,
+      "shares": 50000.0
+    },
+    {
+      "date": "20260721",
       "code": "MRVL US",
       "name": "MARVELL TECHNOLOGY INC",
-      "weight": 1.5,
+      "weight": 1.49,
       "shares": 130000.0
     },
     {
-      "date": "20260720",
-      "code": "VECO US",
-      "name": "VEECO INSTRUMENTS INC",
-      "weight": 1.5,
-      "shares": 500000.0
-    },
-    {
-      "date": "20260720",
-      "code": "6997 JP",
-      "name": "NIPPON CHEMI-CON CORP",
-      "weight": 1.47,
-      "shares": 1275100.0
-    },
-    {
-      "date": "20260720",
+      "date": "20260721",
       "code": "6223",
       "name": "旺矽",
       "weight": 1.45,
       "shares": 145000.0
     },
     {
-      "date": "20260720",
-      "code": "WDC US",
-      "name": "WESTERN DIGITAL CORP",
-      "weight": 1.44,
-      "shares": 50000.0
-    },
-    {
-      "date": "20260720",
+      "date": "20260721",
       "code": "2303",
       "name": "聯電",
-      "weight": 1.43,
+      "weight": 1.37,
       "shares": 6000000.0
     },
     {
-      "date": "20260720",
-      "code": "TSEM US",
-      "name": "TOWER SEMICONDUCTOR LTD",
-      "weight": 1.41,
-      "shares": 105000.0
+      "date": "20260721",
+      "code": "6997 JP",
+      "name": "NIPPON CHEMI-CON CORP",
+      "weight": 1.34,
+      "shares": 1275100.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
       "code": "301377 CH",
       "name": "GUANGDONG DTECH TECHNOLOGY-A",
-      "weight": 0.62,
+      "weight": 0.65,
       "shares": 189988.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
       "code": "2308",
       "name": "台達電",
       "weight": 0.55,
       "shares": 175000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
+      "code": "300408 CH",
+      "name": "CHAOZHOU THREE-CIRCLE GROU-A",
+      "weight": 0.53,
+      "shares": 599909.0
+    },
+    {
+      "date": "20260721",
       "code": "AIXA GY",
       "name": "AIXTRON SE",
       "weight": 0.53,
       "shares": 200000.0
     },
     {
-      "date": "20260720",
-      "code": "300408 CH",
-      "name": "CHAOZHOU THREE-CIRCLE GROU-A",
-      "weight": 0.48,
-      "shares": 599909.0
-    },
-    {
-      "date": "20260720",
+      "date": "20260721",
       "code": "3017",
       "name": "奇鋐",
       "weight": 0.45,
       "shares": 115000.0
     },
     {
-      "date": "20260720",
+      "date": "20260721",
+      "code": "3665",
+      "name": "貿聯-KY",
+      "weight": 0.43,
+      "shares": 126000.0
+    },
+    {
+      "date": "20260721",
       "code": "4062 JP",
       "name": "IBIDEN CO LTD",
-      "weight": 0.34,
+      "weight": 0.35,
       "shares": 60000.0
     },
     {
-      "date": "20260720",
-      "code": "6278 JP",
-      "name": "UNION TOOL CO",
-      "weight": 0.19,
-      "shares": 30000.0
+      "date": "20260721",
+      "code": "AEHR US",
+      "name": "AEHR TEST SYSTEMS",
+      "weight": 0.06,
+      "shares": 10459.0
     }
   ],
   "exited_codes": [
@@ -308,7 +315,6 @@
     "268A JP",
     "300308 CH",
     "3110 JP",
-    "3665",
     "3715",
     "403870 KS",
     "4971 JP",
@@ -322,6 +328,7 @@
     "603256 CH",
     "6227 JP",
     "6274",
+    "6278 JP",
     "6515",
     "6525 JP",
     "6590 JP",
@@ -425,7 +432,6 @@
     "VSH US"
   ],
   "exit_date": {
-    "3665": "20260121",
     "7011 JP": "20251222",
     "9984 JP": "20260223",
     "9988 HK": "20251208",
@@ -550,28 +556,29 @@
     "VSH US": "20260715",
     "COHR US": "20260716",
     "000660 KS": "20260720",
-    "6274": "20260720"
+    "6274": "20260720",
+    "6278 JP": "20260721"
   },
   "active_days": {
-    "2308": 169,
-    "2330": 169,
-    "2383": 154,
-    "285A JP": 126,
-    "3017": 169,
-    "3665": 55,
+    "2308": 170,
+    "2330": 170,
+    "2383": 155,
+    "285A JP": 127,
+    "3017": 170,
+    "3665": 56,
     "5706 JP": 158,
     "5803 JP": 89,
     "7011 JP": 35,
     "9984 JP": 34,
     "9988 HK": 25,
     "AVGO US": 101,
-    "BE US": 169,
+    "BE US": 170,
     "CCJ US": 88,
     "CIEN US": 141,
     "CLS US": 42,
     "COIN US": 41,
     "CRCL US": 20,
-    "CRDO US": 76,
+    "CRDO US": 77,
     "CRWD US": 59,
     "ENR GR": 20,
     "GEV US": 135,
@@ -582,11 +589,11 @@
     "KTOS US": 91,
     "LEU US": 49,
     "LGN US": 42,
-    "LITE US": 169,
+    "LITE US": 170,
     "MP US": 43,
     "MPWR US": 11,
     "MSFT US": 23,
-    "MU US": 169,
+    "MU US": 170,
     "NBIS US": 29,
     "NVDA US": 150,
     "OKLO US": 32,
@@ -600,7 +607,7 @@
     "SAF FP": 53,
     "SE US": 8,
     "SHOP US": 13,
-    "SNDK US": 169,
+    "SNDK US": 170,
     "SNOW US": 30,
     "TSLA US": 21,
     "ALAB US": 16,
@@ -608,7 +615,7 @@
     "6857 JP": 58,
     "CWR LN": 30,
     "300308 CH": 62,
-    "WDC US": 163,
+    "WDC US": 164,
     "3715": 35,
     "9696 HK": 8,
     "C_CNH": 64,
@@ -622,29 +629,29 @@
     "RDI_GBP": 9,
     "VRT US": 24,
     "5801 JP": 97,
-    "2454": 75,
+    "2454": 76,
     "C_JPY": 2,
     "3110 JP": 68,
-    "TSEM US": 36,
+    "TSEM US": 37,
     "2368": 33,
     "ENR GY": 117,
     "HOT GY": 126,
     "RHM GY": 71,
     "5802 JP": 22,
     "TER US": 103,
-    "4062 JP": 100,
+    "4062 JP": 101,
     "COHR US": 140,
     "7769": 108,
     "6954 JP": 26,
     "ENS US": 19,
-    "KLAC US": 43,
+    "KLAC US": 44,
     "6869 HK": 73,
     "8210": 25,
     "6525 JP": 34,
     "6590 JP": 39,
     "BA/ LN": 17,
     "ASML US": 26,
-    "AMD US": 84,
+    "AMD US": 85,
     "5016 JP": 37,
     "INTC US": 4,
     "6515": 100,
@@ -659,7 +666,7 @@
     "4971 JP": 44,
     "6787 JP": 99,
     "FCX US": 16,
-    "3037": 104,
+    "3037": 105,
     "CAT US": 17,
     "GLW US": 74,
     "6227 JP": 21,
@@ -670,8 +677,8 @@
     "SMHN GY\\r\\n": 1,
     "SOI FP": 71,
     "SMHN GY": 24,
-    "009150 KS": 83,
-    "AIXA GY": 83,
+    "009150 KS": 84,
+    "AIXA GY": 84,
     "047040 KS": 4,
     "403870 KS": 16,
     "VIAV US": 41,
@@ -682,44 +689,45 @@
     "BKSY US": 20,
     "7826 JP": 58,
     "FORM US": 23,
-    "MRVL US": 67,
-    "3711": 65,
-    "6997 JP": 65,
+    "MRVL US": 68,
+    "3711": 66,
+    "6997 JP": 66,
     "RKLB US": 6,
     "ONTO US": 11,
     "006400 KS": 13,
-    "6223": 53,
+    "6223": 54,
     "AAOI US": 12,
     "6274": 49,
     "010120 KS": 7,
     "603256 CH": 27,
-    "IFX GY": 45,
+    "IFX GY": 46,
     "NOK US": 23,
-    "6981 JP": 43,
+    "6981 JP": 44,
     "VSH US": 39,
     "ARM US": 30,
     "6963 JP": 15,
     "7220 JP": 9,
-    "3436 JP": 34,
+    "3436 JP": 35,
     "DDOG US": 14,
-    "STM US": 32,
-    "6920 JP": 31,
-    "6976 JP": 28,
+    "STM US": 33,
+    "6920 JP": 32,
+    "6976 JP": 29,
     "BESI NA": 15,
-    "8035 JP": 25,
-    "2303": 23,
+    "8035 JP": 26,
+    "2303": 24,
     "6278 JP": 22,
     "688146 CH": 14,
-    "2327": 18,
-    "6871 JP": 17,
-    "AMAT US": 16,
-    "300408 CH": 15,
+    "2327": 19,
+    "6871 JP": 18,
+    "AMAT US": 17,
+    "300408 CH": 16,
     "000660 KS": 9,
-    "FTNT US": 7,
-    "NOW US": 7,
-    "VECO US": 6,
-    "PANW US": 3,
-    "301377 CH": 3
+    "FTNT US": 8,
+    "NOW US": 8,
+    "VECO US": 7,
+    "PANW US": 4,
+    "301377 CH": 4,
+    "AEHR US": 1
   },
   "series": {
     "2308": [
@@ -1565,6 +1573,11 @@
       },
       {
         "date": "20260720",
+        "weight": 0.55,
+        "shares": 175000.0
+      },
+      {
+        "date": "20260721",
         "weight": 0.55,
         "shares": 175000.0
       }
@@ -2414,6 +2427,11 @@
         "date": "20260720",
         "weight": 3.18,
         "shares": 750000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 3.08,
+        "shares": 750000.0
       }
     ],
     "2383": [
@@ -3186,6 +3204,11 @@
         "date": "20260720",
         "weight": 2.98,
         "shares": 370000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 3.37,
+        "shares": 410000.0
       }
     ],
     "285A JP": [
@@ -3817,6 +3840,11 @@
       {
         "date": "20260720",
         "weight": 3.41,
+        "shares": 180000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 3.73,
         "shares": 180000.0
       }
     ],
@@ -4665,6 +4693,11 @@
         "date": "20260720",
         "weight": 0.45,
         "shares": 115000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 0.45,
+        "shares": 115000.0
       }
     ],
     "3665": [
@@ -4946,6 +4979,11 @@
       {
         "date": "20260122",
         "weight": 0.0
+      },
+      {
+        "date": "20260721",
+        "weight": 0.43,
+        "shares": 126000.0
       }
     ],
     "5706 JP": [
@@ -8027,6 +8065,11 @@
         "date": "20260720",
         "weight": 3.61,
         "shares": 310000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 3.87,
+        "shares": 310000.0
       }
     ],
     "CCJ US": [
@@ -10099,6 +10142,11 @@
         "date": "20260720",
         "weight": 2.0,
         "shares": 160000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 2.47,
+        "shares": 200000.0
       }
     ],
     "CRWD US": [
@@ -14153,6 +14201,11 @@
         "date": "20260720",
         "weight": 1.67,
         "shares": 37000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 2.63,
+        "shares": 57000.0
       }
     ],
     "MP US": [
@@ -15403,6 +15456,11 @@
         "date": "20260720",
         "weight": 4.91,
         "shares": 96000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 5.81,
+        "shares": 108569.0
       }
     ],
     "NBIS US": [
@@ -18695,6 +18753,11 @@
         "date": "20260720",
         "weight": 2.87,
         "shares": 35000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 3.07,
+        "shares": 35000.0
       }
     ],
     "SNOW US": [
@@ -20728,6 +20791,11 @@
       {
         "date": "20260720",
         "weight": 1.44,
+        "shares": 50000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.51,
         "shares": 50000.0
       }
     ],
@@ -24604,6 +24672,11 @@
         "date": "20260720",
         "weight": 2.72,
         "shares": 445000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 2.78,
+        "shares": 445000.0
       }
     ],
     "C_JPY": [
@@ -25148,6 +25221,11 @@
         "date": "20260720",
         "weight": 1.41,
         "shares": 105000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.82,
+        "shares": 131825.0
       }
     ],
     "2368": [
@@ -28034,6 +28112,11 @@
         "date": "20260720",
         "weight": 0.34,
         "shares": 60000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 0.35,
+        "shares": 60000.0
       }
     ],
     "COHR US": [
@@ -29740,6 +29823,11 @@
         "date": "20260720",
         "weight": 1.96,
         "shares": 160000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.92,
+        "shares": 160000.0
       }
     ],
     "6869 HK": [
@@ -31263,6 +31351,11 @@
       {
         "date": "20260720",
         "weight": 6.1,
+        "shares": 205000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 6.16,
         "shares": 205000.0
       }
     ],
@@ -34438,6 +34531,11 @@
         "date": "20260720",
         "weight": 3.29,
         "shares": 2400000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 3.37,
+        "shares": 2400000.0
       }
     ],
     "CAT US": [
@@ -36548,6 +36646,11 @@
         "date": "20260720",
         "weight": 4.41,
         "shares": 83000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 4.12,
+        "shares": 83000.0
       }
     ],
     "AIXA GY": [
@@ -36963,6 +37066,11 @@
       },
       {
         "date": "20260720",
+        "weight": 0.53,
+        "shares": 200000.0
+      },
+      {
+        "date": "20260721",
         "weight": 0.53,
         "shares": 200000.0
       }
@@ -38988,6 +39096,11 @@
         "date": "20260720",
         "weight": 1.5,
         "shares": 130000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.49,
+        "shares": 130000.0
       }
     ],
     "3711": [
@@ -39315,6 +39428,11 @@
         "date": "20260720",
         "weight": 1.97,
         "shares": 1800000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.94,
+        "shares": 1800000.0
       }
     ],
     "6997 JP": [
@@ -39641,6 +39759,11 @@
       {
         "date": "20260720",
         "weight": 1.47,
+        "shares": 1275100.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.34,
         "shares": 1275100.0
       }
     ],
@@ -40067,6 +40190,11 @@
       },
       {
         "date": "20260720",
+        "weight": 1.45,
+        "shares": 145000.0
+      },
+      {
+        "date": "20260721",
         "weight": 1.45,
         "shares": 145000.0
       }
@@ -40779,6 +40907,11 @@
         "date": "20260720",
         "weight": 2.7,
         "shares": 625000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 2.66,
+        "shares": 625000.0
       }
     ],
     "NOK US": [
@@ -41112,6 +41245,11 @@
       {
         "date": "20260720",
         "weight": 3.47,
+        "shares": 1250000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 3.39,
         "shares": 1250000.0
       }
     ],
@@ -41758,6 +41896,11 @@
         "date": "20260720",
         "weight": 2.24,
         "shares": 1572000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 2.08,
+        "shares": 1572000.0
       }
     ],
     "DDOG US": [
@@ -41992,6 +42135,11 @@
         "date": "20260720",
         "weight": 1.73,
         "shares": 475000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.71,
+        "shares": 475000.0
       }
     ],
     "6920 JP": [
@@ -42149,6 +42297,11 @@
         "date": "20260720",
         "weight": 1.98,
         "shares": 130000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.88,
+        "shares": 130000.0
       }
     ],
     "6976 JP": [
@@ -42290,6 +42443,11 @@
       {
         "date": "20260720",
         "weight": 2.41,
+        "shares": 600000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 2.39,
         "shares": 600000.0
       }
     ],
@@ -42495,6 +42653,11 @@
         "date": "20260720",
         "weight": 2.6,
         "shares": 110000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 2.49,
+        "shares": 110000.0
       }
     ],
     "2303": [
@@ -42611,6 +42774,11 @@
       {
         "date": "20260720",
         "weight": 1.43,
+        "shares": 6000000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.37,
         "shares": 6000000.0
       }
     ],
@@ -42888,6 +43056,11 @@
         "date": "20260720",
         "weight": 2.77,
         "shares": 2400000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 2.05,
+        "shares": 1800000.0
       }
     ],
     "6871 JP": [
@@ -42975,6 +43148,11 @@
         "date": "20260720",
         "weight": 1.52,
         "shares": 300000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.52,
+        "shares": 300000.0
       }
     ],
     "AMAT US": [
@@ -43057,6 +43235,11 @@
         "date": "20260720",
         "weight": 4.19,
         "shares": 135000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 4.2,
+        "shares": 135000.0
       }
     ],
     "300408 CH": [
@@ -43133,6 +43316,11 @@
       {
         "date": "20260720",
         "weight": 0.48,
+        "shares": 599909.0
+      },
+      {
+        "date": "20260721",
+        "weight": 0.53,
         "shares": 599909.0
       }
     ],
@@ -43218,6 +43406,11 @@
         "date": "20260720",
         "weight": 1.89,
         "shares": 200000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.74,
+        "shares": 200000.0
       }
     ],
     "NOW US": [
@@ -43255,6 +43448,11 @@
         "date": "20260720",
         "weight": 1.67,
         "shares": 270000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.52,
+        "shares": 270000.0
       }
     ],
     "VECO US": [
@@ -43287,6 +43485,11 @@
         "date": "20260720",
         "weight": 1.5,
         "shares": 500000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.52,
+        "shares": 500000.0
       }
     ],
     "PANW US": [
@@ -43303,6 +43506,11 @@
       {
         "date": "20260720",
         "weight": 1.85,
+        "shares": 90000.0
+      },
+      {
+        "date": "20260721",
+        "weight": 1.7,
         "shares": 90000.0
       }
     ],
@@ -43321,6 +43529,18 @@
         "date": "20260720",
         "weight": 0.62,
         "shares": 189988.0
+      },
+      {
+        "date": "20260721",
+        "weight": 0.65,
+        "shares": 189988.0
+      }
+    ],
+    "AEHR US": [
+      {
+        "date": "20260721",
+        "weight": 0.06,
+        "shares": 10459.0
       }
     ]
   },
@@ -43491,28 +43711,29 @@
     "NOW US": "SERVICENOW INC",
     "VECO US": "VEECO INSTRUMENTS INC",
     "PANW US": "PALO ALTO NETWORKS INC",
-    "301377 CH": "GUANGDONG DTECH TECHNOLOGY-A"
+    "301377 CH": "GUANGDONG DTECH TECHNOLOGY-A",
+    "AEHR US": "AEHR TEST SYSTEMS"
   },
   "days_held": {
-    "2308": 169,
-    "2330": 169,
-    "2383": 154,
-    "285A JP": 126,
-    "3017": 169,
-    "3665": 55,
+    "2308": 170,
+    "2330": 170,
+    "2383": 155,
+    "285A JP": 127,
+    "3017": 170,
+    "3665": 56,
     "5706 JP": 158,
     "5803 JP": 89,
     "7011 JP": 35,
     "9984 JP": 34,
     "9988 HK": 25,
     "AVGO US": 101,
-    "BE US": 169,
+    "BE US": 170,
     "CCJ US": 88,
     "CIEN US": 141,
     "CLS US": 42,
     "COIN US": 41,
     "CRCL US": 20,
-    "CRDO US": 76,
+    "CRDO US": 77,
     "CRWD US": 59,
     "ENR GR": 20,
     "GEV US": 135,
@@ -43523,11 +43744,11 @@
     "KTOS US": 91,
     "LEU US": 49,
     "LGN US": 42,
-    "LITE US": 169,
+    "LITE US": 170,
     "MP US": 43,
     "MPWR US": 11,
     "MSFT US": 23,
-    "MU US": 169,
+    "MU US": 170,
     "NBIS US": 29,
     "NVDA US": 150,
     "OKLO US": 32,
@@ -43541,7 +43762,7 @@
     "SAF FP": 53,
     "SE US": 8,
     "SHOP US": 13,
-    "SNDK US": 169,
+    "SNDK US": 170,
     "SNOW US": 30,
     "TSLA US": 21,
     "ALAB US": 16,
@@ -43549,7 +43770,7 @@
     "6857 JP": 58,
     "CWR LN": 30,
     "300308 CH": 62,
-    "WDC US": 163,
+    "WDC US": 164,
     "3715": 35,
     "9696 HK": 8,
     "C_CNH": 64,
@@ -43563,29 +43784,29 @@
     "RDI_GBP": 9,
     "VRT US": 24,
     "5801 JP": 97,
-    "2454": 75,
+    "2454": 76,
     "C_JPY": 2,
     "3110 JP": 68,
-    "TSEM US": 36,
+    "TSEM US": 37,
     "2368": 33,
     "ENR GY": 117,
     "HOT GY": 126,
     "RHM GY": 71,
     "5802 JP": 22,
     "TER US": 103,
-    "4062 JP": 100,
+    "4062 JP": 101,
     "COHR US": 140,
     "7769": 108,
     "6954 JP": 26,
     "ENS US": 19,
-    "KLAC US": 43,
+    "KLAC US": 44,
     "6869 HK": 73,
     "8210": 25,
     "6525 JP": 34,
     "6590 JP": 39,
     "BA/ LN": 17,
     "ASML US": 26,
-    "AMD US": 84,
+    "AMD US": 85,
     "5016 JP": 37,
     "INTC US": 4,
     "6515": 100,
@@ -43600,7 +43821,7 @@
     "4971 JP": 44,
     "6787 JP": 99,
     "FCX US": 16,
-    "3037": 104,
+    "3037": 105,
     "CAT US": 17,
     "GLW US": 74,
     "6227 JP": 21,
@@ -43611,8 +43832,8 @@
     "SMHN GY\\r\\n": 1,
     "SOI FP": 71,
     "SMHN GY": 24,
-    "009150 KS": 83,
-    "AIXA GY": 83,
+    "009150 KS": 84,
+    "AIXA GY": 84,
     "047040 KS": 4,
     "403870 KS": 16,
     "VIAV US": 41,
@@ -43623,44 +43844,45 @@
     "BKSY US": 20,
     "7826 JP": 58,
     "FORM US": 23,
-    "MRVL US": 67,
-    "3711": 65,
-    "6997 JP": 65,
+    "MRVL US": 68,
+    "3711": 66,
+    "6997 JP": 66,
     "RKLB US": 6,
     "ONTO US": 11,
     "006400 KS": 13,
-    "6223": 53,
+    "6223": 54,
     "AAOI US": 12,
     "6274": 49,
     "010120 KS": 7,
     "603256 CH": 27,
-    "IFX GY": 45,
+    "IFX GY": 46,
     "NOK US": 23,
-    "6981 JP": 43,
+    "6981 JP": 44,
     "VSH US": 39,
     "ARM US": 30,
     "6963 JP": 15,
     "7220 JP": 9,
-    "3436 JP": 34,
+    "3436 JP": 35,
     "DDOG US": 14,
-    "STM US": 32,
-    "6920 JP": 31,
-    "6976 JP": 28,
+    "STM US": 33,
+    "6920 JP": 32,
+    "6976 JP": 29,
     "BESI NA": 15,
-    "8035 JP": 25,
-    "2303": 23,
+    "8035 JP": 26,
+    "2303": 24,
     "6278 JP": 22,
     "688146 CH": 14,
-    "2327": 18,
-    "6871 JP": 17,
-    "AMAT US": 16,
-    "300408 CH": 15,
+    "2327": 19,
+    "6871 JP": 18,
+    "AMAT US": 17,
+    "300408 CH": 16,
     "000660 KS": 9,
-    "FTNT US": 7,
-    "NOW US": 7,
-    "VECO US": 6,
-    "PANW US": 3,
-    "301377 CH": 3
+    "FTNT US": 8,
+    "NOW US": 8,
+    "VECO US": 7,
+    "PANW US": 4,
+    "301377 CH": 4,
+    "AEHR US": 1
   },
   "is_new": {},
   "daily_shares": {
