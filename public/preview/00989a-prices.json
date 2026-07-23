@@ -1,5 +1,5 @@
 {
-  "as_of": "20260721",
+  "as_of": "20260722",
   "first_date": "20251014",
   "codes": [
     "ADI",
@@ -86,6 +86,7 @@
     "TTWO",
     "TWLO",
     "TXN",
+    "U",
     "UBER",
     "VEEV",
     "VICR",
@@ -188,8 +189,9 @@
     "ENPH": [],
     "SPCX": [],
     "ECHO": [],
-    "AMAT": []
+    "AMAT": [],
+    "U": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-07-22T11:32:27Z"
+  "generated_at": "2026-07-23T11:33:58Z"
 }
