@@ -1,5 +1,5 @@
 {
-  "as_of": "20260728",
+  "as_of": "20260729",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -2068,6 +2068,15 @@
         "close": 2280.0,
         "adj_factor": 1.0,
         "volume_shares": 45333029
+      },
+      {
+        "date": "20260729",
+        "open": 2260.0,
+        "high": 2280.0,
+        "low": 2180.0,
+        "close": 2200.0,
+        "adj_factor": 1.0,
+        "volume_shares": 68139691
       }
     ],
     "7011 JT": [],
@@ -2137,5 +2146,5 @@
     "AAPL US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-07-29T11:46:13Z"
+  "generated_at": "2026-07-30T11:37:25Z"
 }
