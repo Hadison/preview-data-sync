@@ -1,5 +1,5 @@
 {
-  "as_of": "20260729",
+  "as_of": "20260730",
   "first_date": "20251014",
   "codes": [
     "ADBE",
@@ -32,6 +32,7 @@
     "ECHO",
     "ENPH",
     "ENTG",
+    "ESTC",
     "FIG",
     "FIGR",
     "FN",
@@ -192,8 +193,9 @@
     "ECHO": [],
     "AMAT": [],
     "U": [],
-    "ADBE": []
+    "ADBE": [],
+    "ESTC": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-07-30T11:38:47Z"
+  "generated_at": "2026-07-31T11:46:58Z"
 }

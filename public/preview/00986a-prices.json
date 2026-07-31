@@ -1,5 +1,5 @@
 {
-  "as_of": "20260729",
+  "as_of": "20260730",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -27,6 +27,7 @@
     "CRDO US",
     "CRWD US",
     "DASH US",
+    "DDOG US",
     "ENR GY",
     "ETN US",
     "GEV US",
@@ -2077,6 +2078,15 @@
         "close": 2200.0,
         "adj_factor": 1.0,
         "volume_shares": 68139691
+      },
+      {
+        "date": "20260730",
+        "open": 2205.0,
+        "high": 2260.0,
+        "low": 2190.0,
+        "close": 2205.0,
+        "adj_factor": 1.0,
+        "volume_shares": 51372177
       }
     ],
     "7011 JT": [],
@@ -2143,8 +2153,9 @@
     "6506 JT": [],
     "MRVL US": [],
     "JPM US": [],
-    "AAPL US": []
+    "AAPL US": [],
+    "DDOG US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-07-30T11:37:25Z"
+  "generated_at": "2026-07-31T11:46:01Z"
 }
