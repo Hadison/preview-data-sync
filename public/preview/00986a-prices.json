@@ -1,5 +1,5 @@
 {
-  "as_of": "20260730",
+  "as_of": "20260731",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -14,6 +14,7 @@
     "8306 JT",
     "AAPL US",
     "ADI US",
+    "AMAT US",
     "AMD US",
     "AMZN US",
     "AVGO US",
@@ -63,6 +64,7 @@
     "TEAM US",
     "TER US",
     "TMO US",
+    "TSEM US",
     "TSLA US",
     "TTWO US",
     "UBER US",
@@ -2087,6 +2089,15 @@
         "close": 2205.0,
         "adj_factor": 1.0,
         "volume_shares": 51372177
+      },
+      {
+        "date": "20260731",
+        "open": 2350.0,
+        "high": 2425.0,
+        "low": 2345.0,
+        "close": 2425.0,
+        "adj_factor": 1.0,
+        "volume_shares": 69478145
       }
     ],
     "7011 JT": [],
@@ -2154,8 +2165,10 @@
     "MRVL US": [],
     "JPM US": [],
     "AAPL US": [],
-    "DDOG US": []
+    "DDOG US": [],
+    "AMAT US": [],
+    "TSEM US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-07-31T11:46:01Z"
+  "generated_at": "2026-08-03T12:54:10Z"
 }
