@@ -1,5 +1,5 @@
 {
-  "as_of": "20260806",
+  "as_of": "20260807",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -2135,6 +2135,15 @@
         "close": 2365.0,
         "adj_factor": 1.0,
         "volume_shares": 25536816
+      },
+      {
+        "date": "20260807",
+        "open": 2390.0,
+        "high": 2395.0,
+        "low": 2355.0,
+        "close": 2370.0,
+        "adj_factor": 1.0,
+        "volume_shares": 24414025
       }
     ],
     "7011 JT": [],
@@ -4275,9 +4284,18 @@
         "close": 3920.0,
         "adj_factor": 1.0,
         "volume_shares": 7213332
+      },
+      {
+        "date": "20260807",
+        "open": 3990.0,
+        "high": 4010.0,
+        "low": 3825.0,
+        "close": 3900.0,
+        "adj_factor": 1.0,
+        "volume_shares": 6607003
       }
     ]
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-08-07T10:19:25Z"
+  "generated_at": "2026-08-10T10:52:08Z"
 }
