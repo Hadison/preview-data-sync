@@ -1,5 +1,5 @@
 {
-  "as_of": "20260814",
+  "as_of": "20260818",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -18,6 +18,7 @@
     "AMAT US",
     "AMD US",
     "AMZN US",
+    "ASML NA",
     "AVGO US",
     "BKNG US",
     "BWXT US",
@@ -2189,6 +2190,24 @@
         "close": 2395.0,
         "adj_factor": 1.0,
         "volume_shares": 21162682
+      },
+      {
+        "date": "20260817",
+        "open": 2410.0,
+        "high": 2420.0,
+        "low": 2390.0,
+        "close": 2400.0,
+        "adj_factor": 1.0,
+        "volume_shares": 13482456
+      },
+      {
+        "date": "20260818",
+        "open": 2415.0,
+        "high": 2415.0,
+        "low": 2375.0,
+        "close": 2380.0,
+        "adj_factor": 1.0,
+        "volume_shares": 19997213
       }
     ],
     "7011 JT": [],
@@ -4383,9 +4402,28 @@
         "close": 4210.0,
         "adj_factor": 1.0,
         "volume_shares": 10696134
+      },
+      {
+        "date": "20260817",
+        "open": 4205.0,
+        "high": 4225.0,
+        "low": 4025.0,
+        "close": 4050.0,
+        "adj_factor": 1.0,
+        "volume_shares": 10559715
+      },
+      {
+        "date": "20260818",
+        "open": 4020.0,
+        "high": 4050.0,
+        "low": 3885.0,
+        "close": 3885.0,
+        "adj_factor": 1.0,
+        "volume_shares": 9323808
       }
-    ]
+    ],
+    "ASML NA": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-08-17T10:14:29Z"
+  "generated_at": "2026-08-19T10:12:05Z"
 }
