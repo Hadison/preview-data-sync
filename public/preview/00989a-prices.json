@@ -1,5 +1,5 @@
 {
-  "as_of": "20260818",
+  "as_of": "20260819",
   "first_date": "20251014",
   "codes": [
     "ADBE",
@@ -81,6 +81,7 @@
     "SPCX",
     "SPOT",
     "SYM",
+    "TEAM",
     "TEM",
     "TSLA",
     "TSM",
@@ -196,8 +197,9 @@
     "U": [],
     "ADBE": [],
     "ESTC": [],
-    "CRWV": []
+    "CRWV": [],
+    "TEAM": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-08-19T10:14:48Z"
+  "generated_at": "2026-08-20T10:03:50Z"
 }
