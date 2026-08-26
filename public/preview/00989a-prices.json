@@ -1,5 +1,5 @@
 {
-  "as_of": "20260824",
+  "as_of": "20260825",
   "first_date": "20251014",
   "codes": [
     "ADBE",
@@ -43,6 +43,7 @@
     "GOOG",
     "HOOD",
     "HUBS",
+    "ILMN",
     "INTC",
     "INTU",
     "LITE",
@@ -89,6 +90,8 @@
     "TTMI",
     "TTWO",
     "TWLO",
+    "TWST",
+    "TXG",
     "TXN",
     "U",
     "UBER",
@@ -198,8 +201,11 @@
     "ADBE": [],
     "ESTC": [],
     "CRWV": [],
-    "TEAM": []
+    "TEAM": [],
+    "ILMN": [],
+    "TWST": [],
+    "TXG": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-08-25T10:06:57Z"
+  "generated_at": "2026-08-26T10:15:05Z"
 }
