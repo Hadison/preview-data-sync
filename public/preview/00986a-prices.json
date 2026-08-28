@@ -1,5 +1,5 @@
 {
-  "as_of": "20260826",
+  "as_of": "20260827",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -2262,6 +2262,15 @@
         "close": 2415.0,
         "adj_factor": 1.0,
         "volume_shares": 19467241
+      },
+      {
+        "date": "20260827",
+        "open": 2430.0,
+        "high": 2435.0,
+        "low": 2410.0,
+        "close": 2410.0,
+        "adj_factor": 1.0,
+        "volume_shares": 19214481
       }
     ],
     "7011 JT": [],
@@ -4528,10 +4537,19 @@
         "close": 3945.0,
         "adj_factor": 1.0,
         "volume_shares": 8370053
+      },
+      {
+        "date": "20260827",
+        "open": 4005.0,
+        "high": 4005.0,
+        "low": 3865.0,
+        "close": 3865.0,
+        "adj_factor": 1.0,
+        "volume_shares": 5702912
       }
     ],
     "ASML NA": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-08-27T20:06:07Z"
+  "generated_at": "2026-08-28T21:06:53Z"
 }
