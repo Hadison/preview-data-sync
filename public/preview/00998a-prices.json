@@ -1,5 +1,5 @@
 {
-  "as_of": "20260828",
+  "as_of": "20260831",
   "first_date": "20260407",
   "codes": [
     "032830 KS",
@@ -67,6 +67,7 @@
     "SAN SM",
     "SDLF LN",
     "SHG US",
+    "SHOP US",
     "SNEX US",
     "SOFI US",
     "STAN LN",
@@ -159,8 +160,9 @@
     "BX US": [],
     "GPN US": [],
     "ARES US": [],
-    "ASRNL NA": []
+    "ASRNL NA": [],
+    "SHOP US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-08-31T17:24:50Z"
+  "generated_at": "2026-09-01T14:37:30Z"
 }
