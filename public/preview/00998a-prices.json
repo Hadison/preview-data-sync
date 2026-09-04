@@ -1,5 +1,5 @@
 {
-  "as_of": "20260902",
+  "as_of": "20260903",
   "first_date": "20260407",
   "codes": [
     "032830 KS",
@@ -80,7 +80,8 @@
     "UNI SM",
     "USB US",
     "V US",
-    "WF US"
+    "WF US",
+    "WFC US"
   ],
   "prices": {
     "202606FESB": [],
@@ -165,8 +166,9 @@
     "ASRNL NA": [],
     "SHOP US": [],
     "G IM": [],
-    "MNG LN": []
+    "MNG LN": [],
+    "WFC US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-09-03T13:58:02Z"
+  "generated_at": "2026-09-04T13:58:12Z"
 }
