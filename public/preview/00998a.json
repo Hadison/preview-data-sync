@@ -4,338 +4,359 @@
     "name": "主動復華金融股息",
     "issuer": "復華投信"
   },
-  "as_of": "20260910",
+  "as_of": "20260911",
   "first_date": "20260407",
-  "n_days": 109,
+  "n_days": 110,
   "current": [
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "ABN NA",
       "name": "荷蘭銀行公眾有限公司",
-      "weight": 4.66,
+      "weight": 4.6,
       "shares": 140000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "AGN NA",
       "name": "荷蘭保險公司",
-      "weight": 4.15,
+      "weight": 4.06,
       "shares": 680000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "AV/ LN",
       "name": "英傑華保險",
-      "weight": 4.03,
+      "weight": 3.92,
       "shares": 630000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "TPEIR GA",
       "name": "Piraeus Bank SA",
-      "weight": 3.89,
+      "weight": 3.88,
       "shares": 475000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "ADM LN",
       "name": "Admiral集團公開有限公司",
-      "weight": 3.61,
+      "weight": 3.5,
       "shares": 105000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "NWG LN",
       "name": "國民西敏集團公開有限公司",
-      "weight": 3.35,
+      "weight": 3.32,
       "shares": 540000.0
     },
     {
-      "date": "20260910",
-      "code": "MNG LN",
-      "name": "M&G公開有限公司",
-      "weight": 3.02,
-      "shares": 1000000.0
-    },
-    {
-      "date": "20260910",
-      "code": "DBK GY",
-      "name": "德意志銀行",
-      "weight": 2.99,
-      "shares": 110000.0
-    },
-    {
-      "date": "20260910",
+      "date": "20260911",
       "code": "LLOY LN",
       "name": "勞埃德銀行集團",
-      "weight": 2.97,
+      "weight": 2.93,
       "shares": 3000000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
+      "code": "MNG LN",
+      "name": "M&G公開有限公司",
+      "weight": 2.93,
+      "shares": 1000000.0
+    },
+    {
+      "date": "20260911",
+      "code": "DBK GY",
+      "name": "德意志銀行",
+      "weight": 2.9,
+      "shares": 110000.0
+    },
+    {
+      "date": "20260911",
       "code": "CHYM US",
       "name": "Chime Financial Inc",
-      "weight": 2.85,
+      "weight": 2.79,
       "shares": 130000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "ASRNL NA",
       "name": "ASR荷蘭公眾有限公司",
-      "weight": 2.55,
+      "weight": 2.5,
       "shares": 45000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "BAMI IM",
       "name": "BPM銀行股份公司",
-      "weight": 2.51,
+      "weight": 2.46,
       "shares": 200000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "STAN LN",
       "name": "渣打集團有限公司",
-      "weight": 2.48,
+      "weight": 2.43,
       "shares": 120000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "WFC US",
       "name": "富國銀行",
-      "weight": 2.4,
+      "weight": 2.35,
       "shares": 40000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "GPN US",
       "name": "環匯公司",
-      "weight": 2.37,
+      "weight": 2.3,
       "shares": 40000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "BMPS IM",
       "name": "義大利西恩那銀行股份公司",
-      "weight": 2.28,
+      "weight": 2.26,
       "shares": 250000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
       "code": "7167 JP",
       "name": "Mebuki金融集團公司",
-      "weight": 2.18,
+      "weight": 2.12,
       "shares": 300000.0
     },
     {
-      "date": "20260910",
-      "code": "JPM US",
-      "name": "摩根大通銀行",
-      "weight": 2.13,
-      "shares": 9000.0
-    },
-    {
-      "date": "20260910",
+      "date": "20260911",
       "code": "BARC LN",
       "name": "巴克萊集團",
-      "weight": 2.11,
+      "weight": 2.09,
       "shares": 480000.0
     },
     {
-      "date": "20260910",
-      "code": "ARES US",
-      "name": "戰神管理公司",
-      "weight": 2.01,
-      "shares": 23000.0
-    },
-    {
-      "date": "20260910",
-      "code": "UCG IM",
-      "name": "裕信銀行",
-      "weight": 1.96,
-      "shares": 30000.0
-    },
-    {
-      "date": "20260910",
-      "code": "UNI IM",
-      "name": "Unipol保險股份公司",
-      "weight": 1.85,
-      "shares": 85000.0
-    },
-    {
-      "date": "20260910",
-      "code": "AMUN FP",
-      "name": "東方匯理資產管理有限責任公司",
-      "weight": 1.85,
-      "shares": 25000.0
-    },
-    {
-      "date": "20260910",
-      "code": "LGEN LN",
-      "name": "法通保險集團公開有限公司",
-      "weight": 1.82,
-      "shares": 700000.0
-    },
-    {
-      "date": "20260910",
-      "code": "SDLF LN",
-      "name": "標準人壽公開有限公司",
-      "weight": 1.82,
-      "shares": 220000.0
-    },
-    {
-      "date": "20260910",
-      "code": "UBS US",
-      "name": "瑞銀集團公司",
-      "weight": 1.81,
-      "shares": 50000.0
-    },
-    {
-      "date": "20260910",
-      "code": "G IM",
-      "name": "忠意保險股份公司",
-      "weight": 1.75,
-      "shares": 50000.0
-    },
-    {
-      "date": "20260910",
-      "code": "MRX US",
-      "name": "馬雷克斯集團有限公司",
-      "weight": 1.64,
-      "shares": 33000.0
-    },
-    {
-      "date": "20260910",
-      "code": "ETE GA",
-      "name": "希臘國家銀行",
-      "weight": 1.62,
-      "shares": 120000.0
-    },
-    {
-      "date": "20260910",
-      "code": "HSBA LN",
-      "name": "匯豐控股有限公司",
-      "weight": 1.53,
-      "shares": 110000.0
-    },
-    {
-      "date": "20260910",
-      "code": "8331 JP",
-      "name": "千葉銀行有限公司",
-      "weight": 1.49,
-      "shares": 125000.0
-    },
-    {
-      "date": "20260910",
-      "code": "INGA NA",
-      "name": "荷蘭國際集團",
-      "weight": 1.48,
-      "shares": 60000.0
-    },
-    {
-      "date": "20260910",
-      "code": "BLK US",
-      "name": "貝萊德公司",
-      "weight": 1.42,
-      "shares": 2000.0
-    },
-    {
-      "date": "20260910",
-      "code": "HOOD US",
-      "name": "羅賓漢市場公司",
-      "weight": 1.29,
-      "shares": 17000.0
-    },
-    {
-      "date": "20260910",
-      "code": "BNP FP",
-      "name": "法國巴黎銀行股份有限公司",
-      "weight": 1.28,
-      "shares": 16000.0
-    },
-    {
-      "date": "20260910",
-      "code": "BX US",
-      "name": "黑石公司",
-      "weight": 1.26,
-      "shares": 15000.0
-    },
-    {
-      "date": "20260910",
-      "code": "V US",
-      "name": "威士卡",
-      "weight": 1.23,
-      "shares": 5000.0
-    },
-    {
-      "date": "20260910",
-      "code": "GLE FP",
-      "name": "法國興業銀行股份有限公司",
-      "weight": 1.15,
-      "shares": 20000.0
-    },
-    {
-      "date": "20260910",
-      "code": "BOCHGR GA",
-      "name": "賽普勒斯銀行控股公開有限公司",
-      "weight": 1.11,
-      "shares": 135000.0
-    },
-    {
-      "date": "20260910",
-      "code": "RELY US",
-      "name": "Remitly全球公司",
-      "weight": 1.06,
-      "shares": 72000.0
-    },
-    {
-      "date": "20260910",
-      "code": "CRCL US",
-      "name": "Circle網路集團公司",
-      "weight": 1.03,
-      "shares": 17000.0
-    },
-    {
-      "date": "20260910",
-      "code": "BNY US",
-      "name": "紐約梅隆銀行",
-      "weight": 0.98,
+      "date": "20260911",
+      "code": "JPM US",
+      "name": "摩根大通銀行",
+      "weight": 2.09,
       "shares": 9000.0
     },
     {
-      "date": "20260910",
-      "code": "CABK SM",
-      "name": "凱克薩銀行有限責任公司",
-      "weight": 0.91,
-      "shares": 88000.0
+      "date": "20260911",
+      "code": "BOCHGR GA",
+      "name": "賽普勒斯銀行控股公開有限公司",
+      "weight": 2.03,
+      "shares": 250000.0
     },
     {
-      "date": "20260910",
-      "code": "8377 JP",
-      "name": "北北金融集團公司",
-      "weight": 0.9,
+      "date": "20260911",
+      "code": "UCG IM",
+      "name": "裕信銀行",
+      "weight": 1.93,
+      "shares": 30000.0
+    },
+    {
+      "date": "20260911",
+      "code": "UNI IM",
+      "name": "Unipol保險股份公司",
+      "weight": 1.79,
+      "shares": 85000.0
+    },
+    {
+      "date": "20260911",
+      "code": "AMUN FP",
+      "name": "東方匯理資產管理有限責任公司",
+      "weight": 1.79,
       "shares": 25000.0
     },
     {
-      "date": "20260910",
-      "code": "8308 JP",
-      "name": "Resona控股公司",
-      "weight": 0.87,
-      "shares": 80000.0
+      "date": "20260911",
+      "code": "UBS US",
+      "name": "瑞銀集團公司",
+      "weight": 1.78,
+      "shares": 50000.0
     },
     {
-      "date": "20260910",
-      "code": "8309 JP",
-      "name": "三井住友信託集團公司",
-      "weight": 0.85,
+      "date": "20260911",
+      "code": "SDLF LN",
+      "name": "標準人壽公開有限公司",
+      "weight": 1.77,
+      "shares": 220000.0
+    },
+    {
+      "date": "20260911",
+      "code": "LGEN LN",
+      "name": "法通保險集團公開有限公司",
+      "weight": 1.77,
+      "shares": 700000.0
+    },
+    {
+      "date": "20260911",
+      "code": "G IM",
+      "name": "忠意保險股份公司",
+      "weight": 1.7,
+      "shares": 50000.0
+    },
+    {
+      "date": "20260911",
+      "code": "ETE GA",
+      "name": "希臘國家銀行",
+      "weight": 1.6,
+      "shares": 120000.0
+    },
+    {
+      "date": "20260911",
+      "code": "MRX US",
+      "name": "馬雷克斯集團有限公司",
+      "weight": 1.57,
+      "shares": 33000.0
+    },
+    {
+      "date": "20260911",
+      "code": "HSBA LN",
+      "name": "匯豐控股有限公司",
+      "weight": 1.5,
       "shares": 110000.0
     },
     {
-      "date": "20260910",
+      "date": "20260911",
+      "code": "INGA NA",
+      "name": "荷蘭國際集團",
+      "weight": 1.46,
+      "shares": 60000.0
+    },
+    {
+      "date": "20260911",
+      "code": "ARES US",
+      "name": "戰神管理公司",
+      "weight": 1.46,
+      "shares": 17000.0
+    },
+    {
+      "date": "20260911",
+      "code": "8331 JP",
+      "name": "千葉銀行有限公司",
+      "weight": 1.44,
+      "shares": 125000.0
+    },
+    {
+      "date": "20260911",
+      "code": "BLK US",
+      "name": "貝萊德公司",
+      "weight": 1.41,
+      "shares": 2000.0
+    },
+    {
+      "date": "20260911",
+      "code": "CABK SM",
+      "name": "凱克薩銀行有限責任公司",
+      "weight": 1.31,
+      "shares": 130000.0
+    },
+    {
+      "date": "20260911",
+      "code": "BNP FP",
+      "name": "法國巴黎銀行股份有限公司",
+      "weight": 1.26,
+      "shares": 16000.0
+    },
+    {
+      "date": "20260911",
+      "code": "HOOD US",
+      "name": "羅賓漢市場公司",
+      "weight": 1.25,
+      "shares": 17000.0
+    },
+    {
+      "date": "20260911",
+      "code": "V US",
+      "name": "威士卡",
+      "weight": 1.21,
+      "shares": 5000.0
+    },
+    {
+      "date": "20260911",
+      "code": "GLE FP",
+      "name": "法國興業銀行股份有限公司",
+      "weight": 1.13,
+      "shares": 20000.0
+    },
+    {
+      "date": "20260911",
+      "code": "EQH US",
+      "name": "公平控股公司",
+      "weight": 1.11,
+      "shares": 32000.0
+    },
+    {
+      "date": "20260911",
+      "code": "8411 JP",
+      "name": "瑞穗金融集團",
+      "weight": 1.1,
+      "shares": 30000.0
+    },
+    {
+      "date": "20260911",
+      "code": "C US",
+      "name": "花旗集團公司",
+      "weight": 1.09,
+      "shares": 12000.0
+    },
+    {
+      "date": "20260911",
+      "code": "CRCL US",
+      "name": "Circle網路集團公司",
+      "weight": 1.0,
+      "shares": 17000.0
+    },
+    {
+      "date": "20260911",
+      "code": "BNY US",
+      "name": "紐約梅隆銀行",
+      "weight": 0.95,
+      "shares": 9000.0
+    },
+    {
+      "date": "20260911",
+      "code": "8377 JP",
+      "name": "北北金融集團公司",
+      "weight": 0.87,
+      "shares": 25000.0
+    },
+    {
+      "date": "20260911",
+      "code": "8308 JP",
+      "name": "Resona控股公司",
+      "weight": 0.85,
+      "shares": 80000.0
+    },
+    {
+      "date": "20260911",
+      "code": "8309 JP",
+      "name": "三井住友信託集團公司",
+      "weight": 0.82,
+      "shares": 110000.0
+    },
+    {
+      "date": "20260911",
       "code": "BAC US",
       "name": "美國銀行",
-      "weight": 0.84,
+      "weight": 0.82,
       "shares": 20000.0
+    },
+    {
+      "date": "20260911",
+      "code": "BX US",
+      "name": "黑石公司",
+      "weight": 0.63,
+      "shares": 7500.0
+    },
+    {
+      "date": "20260911",
+      "code": "RELY US",
+      "name": "Remitly全球公司",
+      "weight": 0.5,
+      "shares": 35000.0
     }
   ],
   "exited_codes": [
@@ -346,13 +367,11 @@
     "5844 JP",
     "7180 JP",
     "7182 JP",
-    "8411 JP",
     "AGS BB",
     "AJG US",
     "BBVA SM",
     "BK US",
     "BPE IM",
-    "C US",
     "CBK GY",
     "DA_EUR",
     "DA_NTD",
@@ -403,7 +422,6 @@
     "032830 KS": "20260709",
     "402340 KS": "20260713",
     "SNEX US": "20260714",
-    "C US": "20260723",
     "CBK GY": "20260727",
     "MFG US": "20260729",
     "GS US": "20260730",
@@ -414,98 +432,98 @@
     "7182 JP": "20260812",
     "AJG US": "20260814",
     "7180 JP": "20260817",
-    "8411 JP": "20260820",
     "USB US": "20260820",
     "PFG US": "20260827",
     "SHOP US": "20260909"
   },
   "active_days": {
     "202606FESB": 19,
-    "BAMI IM": 109,
+    "BAMI IM": 110,
     "BBVA SM": 23,
-    "BNP FP": 109,
+    "BNP FP": 110,
     "BPE IM": 79,
-    "C US": 73,
+    "C US": 74,
     "DA_EUR": 1,
     "DA_NTD": 19,
     "DA_SGD": 2,
     "DA_USD": 14,
     "DBS SP": 5,
-    "HSBA LN": 109,
-    "LGEN LN": 109,
-    "LLOY LN": 69,
+    "HSBA LN": 110,
+    "LGEN LN": 110,
+    "LLOY LN": 70,
     "M_EUR": 18,
     "MFG US": 77,
     "MUFG US": 11,
     "NN NA": 47,
-    "NWG LN": 58,
+    "NWG LN": 59,
     "SAN SM": 30,
-    "SDLF LN": 93,
-    "TPEIR GA": 109,
+    "SDLF LN": 94,
+    "TPEIR GA": 110,
     "UNI SM": 27,
     "WF US": 14,
-    "ABN NA": 108,
-    "INGA NA": 77,
+    "ABN NA": 109,
+    "INGA NA": 78,
     "OCBC SP": 27,
-    "UCG IM": 104,
-    "BMPS IM": 102,
+    "UCG IM": 105,
+    "BMPS IM": 103,
     "SOFI US": 10,
-    "HOOD US": 23,
+    "HOOD US": 24,
     "MS US": 67,
     "SHG US": 13,
     "GS US": 64,
-    "MRX US": 93,
-    "UBS US": 93,
+    "MRX US": 94,
+    "UBS US": 94,
     "ISP IM": 66,
-    "UNI IM": 91,
-    "7167 JP": 88,
-    "RELY US": 38,
-    "8309 JP": 87,
-    "8377 JP": 87,
-    "CRCL US": 12,
+    "UNI IM": 92,
+    "7167 JP": 89,
+    "RELY US": 39,
+    "8309 JP": 88,
+    "8377 JP": 88,
+    "CRCL US": 13,
     "5844 JP": 29,
     "BK US": 5,
-    "8331 JP": 82,
-    "STAN LN": 81,
+    "8331 JP": 83,
+    "STAN LN": 82,
     "7180 JP": 61,
-    "BNY US": 78,
+    "BNY US": 79,
     "SNEX US": 34,
     "AGS BB": 18,
-    "ETE GA": 74,
+    "ETE GA": 75,
     "IBKR US": 48,
     "7182 JP": 51,
-    "AMUN FP": 70,
-    "8308 JP": 67,
-    "AGN NA": 35,
+    "AMUN FP": 71,
+    "8308 JP": 68,
+    "AGN NA": 36,
     "032830 KS": 21,
-    "BAC US": 64,
-    "GLE FP": 62,
-    "JPM US": 62,
+    "BAC US": 65,
+    "GLE FP": 63,
+    "JPM US": 63,
     "055550 KS": 6,
-    "8411 JP": 45,
+    "8411 JP": 46,
     "NLY US": 12,
     "CBK GY": 25,
-    "BARC LN": 57,
+    "BARC LN": 58,
     "402340 KS": 11,
     "USB US": 34,
     "AJG US": 23,
-    "V US": 40,
+    "V US": 41,
     "PFG US": 29,
-    "AV/ LN": 32,
-    "DBK GY": 28,
-    "ADM LN": 28,
-    "CHYM US": 24,
-    "BX US": 22,
-    "BLK US": 22,
-    "GPN US": 21,
-    "ARES US": 20,
-    "ASRNL NA": 18,
+    "AV/ LN": 33,
+    "DBK GY": 29,
+    "ADM LN": 29,
+    "CHYM US": 25,
+    "BX US": 23,
+    "BLK US": 23,
+    "GPN US": 22,
+    "ARES US": 21,
+    "ASRNL NA": 19,
     "SHOP US": 7,
-    "G IM": 8,
-    "MNG LN": 8,
-    "WFC US": 6,
-    "CABK SM": 5,
-    "BOCHGR GA": 2
+    "G IM": 9,
+    "MNG LN": 9,
+    "WFC US": 7,
+    "CABK SM": 6,
+    "BOCHGR GA": 3,
+    "EQH US": 1
   },
   "series": {
     "202606FESB": [
@@ -1149,6 +1167,11 @@
       {
         "date": "20260910",
         "weight": 2.51,
+        "shares": 200000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.46,
         "shares": 200000.0
       }
     ],
@@ -1813,6 +1836,11 @@
       {
         "date": "20260910",
         "weight": 1.28,
+        "shares": 16000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.26,
         "shares": 16000.0
       }
     ],
@@ -2578,6 +2606,11 @@
         "date": "20260722",
         "weight": 1.16,
         "shares": 10000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.09,
+        "shares": 12000.0
       }
     ],
     "DA_EUR": [
@@ -3544,6 +3577,11 @@
         "date": "20260910",
         "weight": 1.53,
         "shares": 110000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.5,
+        "shares": 110000.0
       }
     ],
     "LGEN LN": [
@@ -4091,6 +4129,11 @@
         "date": "20260910",
         "weight": 1.82,
         "shares": 700000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.77,
+        "shares": 700000.0
       }
     ],
     "LLOY LN": [
@@ -4437,6 +4480,11 @@
       {
         "date": "20260910",
         "weight": 2.97,
+        "shares": 3000000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.93,
         "shares": 3000000.0
       }
     ],
@@ -5516,6 +5564,11 @@
         "date": "20260910",
         "weight": 3.35,
         "shares": 540000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 3.32,
+        "shares": 540000.0
       }
     ],
     "SAN SM": [
@@ -6135,6 +6188,11 @@
         "date": "20260910",
         "weight": 1.82,
         "shares": 220000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.77,
+        "shares": 220000.0
       }
     ],
     "TPEIR GA": [
@@ -6681,6 +6739,11 @@
       {
         "date": "20260910",
         "weight": 3.89,
+        "shares": 475000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 3.88,
         "shares": 475000.0
       }
     ],
@@ -7437,6 +7500,11 @@
         "date": "20260910",
         "weight": 4.66,
         "shares": 140000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 4.6,
+        "shares": 140000.0
       }
     ],
     "INGA NA": [
@@ -7823,6 +7891,11 @@
       {
         "date": "20260910",
         "weight": 1.48,
+        "shares": 60000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.46,
         "shares": 60000.0
       }
     ],
@@ -8483,6 +8556,11 @@
         "date": "20260910",
         "weight": 1.96,
         "shares": 30000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.93,
+        "shares": 30000.0
       }
     ],
     "BMPS IM": [
@@ -8995,6 +9073,11 @@
         "date": "20260910",
         "weight": 2.28,
         "shares": 250000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.26,
+        "shares": 250000.0
       }
     ],
     "SOFI US": [
@@ -9171,6 +9254,11 @@
       {
         "date": "20260910",
         "weight": 1.29,
+        "shares": 17000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.25,
         "shares": 17000.0
       }
     ],
@@ -10365,6 +10453,11 @@
         "date": "20260910",
         "weight": 1.64,
         "shares": 33000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.57,
+        "shares": 33000.0
       }
     ],
     "UBS US": [
@@ -10831,6 +10924,11 @@
       {
         "date": "20260910",
         "weight": 1.81,
+        "shares": 50000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.78,
         "shares": 50000.0
       }
     ],
@@ -11621,6 +11719,11 @@
         "date": "20260910",
         "weight": 1.85,
         "shares": 85000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.79,
+        "shares": 85000.0
       }
     ],
     "7167 JP": [
@@ -12063,6 +12166,11 @@
         "date": "20260910",
         "weight": 2.18,
         "shares": 300000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.12,
+        "shares": 300000.0
       }
     ],
     "RELY US": [
@@ -12255,6 +12363,11 @@
         "date": "20260910",
         "weight": 1.06,
         "shares": 72000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 0.5,
+        "shares": 35000.0
       }
     ],
     "8309 JP": [
@@ -12691,6 +12804,11 @@
       {
         "date": "20260910",
         "weight": 0.85,
+        "shares": 110000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 0.82,
         "shares": 110000.0
       }
     ],
@@ -13129,6 +13247,11 @@
         "date": "20260910",
         "weight": 0.9,
         "shares": 25000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 0.87,
+        "shares": 25000.0
       }
     ],
     "CRCL US": [
@@ -13190,6 +13313,11 @@
       {
         "date": "20260910",
         "weight": 1.03,
+        "shares": 17000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.0,
         "shares": 17000.0
       }
     ],
@@ -13777,6 +13905,11 @@
         "date": "20260910",
         "weight": 1.49,
         "shares": 125000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.44,
+        "shares": 125000.0
       }
     ],
     "STAN LN": [
@@ -14183,6 +14316,11 @@
       {
         "date": "20260910",
         "weight": 2.48,
+        "shares": 120000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.43,
         "shares": 120000.0
       }
     ],
@@ -14883,6 +15021,11 @@
         "date": "20260910",
         "weight": 0.98,
         "shares": 9000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 0.95,
+        "shares": 9000.0
       }
     ],
     "SNEX US": [
@@ -15518,6 +15661,11 @@
       {
         "date": "20260910",
         "weight": 1.62,
+        "shares": 120000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.6,
         "shares": 120000.0
       }
     ],
@@ -16370,6 +16518,11 @@
         "date": "20260910",
         "weight": 1.85,
         "shares": 25000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.79,
+        "shares": 25000.0
       }
     ],
     "8308 JP": [
@@ -16707,6 +16860,11 @@
         "date": "20260910",
         "weight": 0.87,
         "shares": 80000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 0.85,
+        "shares": 80000.0
       }
     ],
     "AGN NA": [
@@ -16883,6 +17041,11 @@
       {
         "date": "20260910",
         "weight": 4.15,
+        "shares": 680000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 4.06,
         "shares": 680000.0
       }
     ],
@@ -17313,6 +17476,11 @@
         "date": "20260910",
         "weight": 0.84,
         "shares": 20000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 0.82,
+        "shares": 20000.0
       }
     ],
     "GLE FP": [
@@ -17624,6 +17792,11 @@
       {
         "date": "20260910",
         "weight": 1.15,
+        "shares": 20000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.13,
         "shares": 20000.0
       }
     ],
@@ -17937,6 +18110,11 @@
         "date": "20260910",
         "weight": 2.13,
         "shares": 9000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.09,
+        "shares": 9000.0
       }
     ],
     "055550 KS": [
@@ -18196,6 +18374,11 @@
         "date": "20260819",
         "weight": 0.9,
         "shares": 21500.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.1,
+        "shares": 30000.0
       }
     ],
     "NLY US": [
@@ -18671,6 +18854,11 @@
       {
         "date": "20260910",
         "weight": 2.11,
+        "shares": 480000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.09,
         "shares": 480000.0
       }
     ],
@@ -19220,6 +19408,11 @@
         "date": "20260910",
         "weight": 1.23,
         "shares": 5000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.21,
+        "shares": 5000.0
       }
     ],
     "PFG US": [
@@ -19529,6 +19722,11 @@
         "date": "20260910",
         "weight": 4.03,
         "shares": 630000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 3.92,
+        "shares": 630000.0
       }
     ],
     "DBK GY": [
@@ -19670,6 +19868,11 @@
       {
         "date": "20260910",
         "weight": 2.99,
+        "shares": 110000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.9,
         "shares": 110000.0
       }
     ],
@@ -19813,6 +20016,11 @@
         "date": "20260910",
         "weight": 3.61,
         "shares": 105000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 3.5,
+        "shares": 105000.0
       }
     ],
     "CHYM US": [
@@ -19935,6 +20143,11 @@
         "date": "20260910",
         "weight": 2.85,
         "shares": 130000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.79,
+        "shares": 130000.0
       }
     ],
     "BX US": [
@@ -20047,6 +20260,11 @@
         "date": "20260910",
         "weight": 1.26,
         "shares": 15000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 0.63,
+        "shares": 7500.0
       }
     ],
     "BLK US": [
@@ -20159,6 +20377,11 @@
         "date": "20260910",
         "weight": 1.42,
         "shares": 2000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.41,
+        "shares": 2000.0
       }
     ],
     "GPN US": [
@@ -20266,6 +20489,11 @@
         "date": "20260910",
         "weight": 2.37,
         "shares": 40000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.3,
+        "shares": 40000.0
       }
     ],
     "ARES US": [
@@ -20368,6 +20596,11 @@
         "date": "20260910",
         "weight": 2.01,
         "shares": 23000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.46,
+        "shares": 17000.0
       }
     ],
     "ASRNL NA": [
@@ -20460,6 +20693,11 @@
         "date": "20260910",
         "weight": 2.55,
         "shares": 45000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.5,
+        "shares": 45000.0
       }
     ],
     "SHOP US": [
@@ -20539,6 +20777,11 @@
         "date": "20260910",
         "weight": 1.75,
         "shares": 50000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.7,
+        "shares": 50000.0
       }
     ],
     "MNG LN": [
@@ -20581,6 +20824,11 @@
         "date": "20260910",
         "weight": 3.02,
         "shares": 1000000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.93,
+        "shares": 1000000.0
       }
     ],
     "WFC US": [
@@ -20613,6 +20861,11 @@
         "date": "20260910",
         "weight": 2.4,
         "shares": 40000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.35,
+        "shares": 40000.0
       }
     ],
     "CABK SM": [
@@ -20640,6 +20893,11 @@
         "date": "20260910",
         "weight": 0.91,
         "shares": 88000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 1.31,
+        "shares": 130000.0
       }
     ],
     "BOCHGR GA": [
@@ -20652,6 +20910,18 @@
         "date": "20260910",
         "weight": 1.11,
         "shares": 135000.0
+      },
+      {
+        "date": "20260911",
+        "weight": 2.03,
+        "shares": 250000.0
+      }
+    ],
+    "EQH US": [
+      {
+        "date": "20260911",
+        "weight": 1.11,
+        "shares": 32000.0
       }
     ]
   },
@@ -20741,95 +21011,97 @@
     "MNG LN": "M&G公開有限公司",
     "WFC US": "富國銀行",
     "CABK SM": "凱克薩銀行有限責任公司",
-    "BOCHGR GA": "賽普勒斯銀行控股公開有限公司"
+    "BOCHGR GA": "賽普勒斯銀行控股公開有限公司",
+    "EQH US": "公平控股公司"
   },
   "days_held": {
     "202606FESB": 19,
-    "BAMI IM": 109,
+    "BAMI IM": 110,
     "BBVA SM": 23,
-    "BNP FP": 109,
+    "BNP FP": 110,
     "BPE IM": 79,
-    "C US": 73,
+    "C US": 74,
     "DA_EUR": 1,
     "DA_NTD": 19,
     "DA_SGD": 2,
     "DA_USD": 14,
     "DBS SP": 5,
-    "HSBA LN": 109,
-    "LGEN LN": 109,
-    "LLOY LN": 69,
+    "HSBA LN": 110,
+    "LGEN LN": 110,
+    "LLOY LN": 70,
     "M_EUR": 18,
     "MFG US": 77,
     "MUFG US": 11,
     "NN NA": 47,
-    "NWG LN": 58,
+    "NWG LN": 59,
     "SAN SM": 30,
-    "SDLF LN": 93,
-    "TPEIR GA": 109,
+    "SDLF LN": 94,
+    "TPEIR GA": 110,
     "UNI SM": 27,
     "WF US": 14,
-    "ABN NA": 108,
-    "INGA NA": 77,
+    "ABN NA": 109,
+    "INGA NA": 78,
     "OCBC SP": 27,
-    "UCG IM": 104,
-    "BMPS IM": 102,
+    "UCG IM": 105,
+    "BMPS IM": 103,
     "SOFI US": 10,
-    "HOOD US": 23,
+    "HOOD US": 24,
     "MS US": 67,
     "SHG US": 13,
     "GS US": 64,
-    "MRX US": 93,
-    "UBS US": 93,
+    "MRX US": 94,
+    "UBS US": 94,
     "ISP IM": 66,
-    "UNI IM": 91,
-    "7167 JP": 88,
-    "RELY US": 38,
-    "8309 JP": 87,
-    "8377 JP": 87,
-    "CRCL US": 12,
+    "UNI IM": 92,
+    "7167 JP": 89,
+    "RELY US": 39,
+    "8309 JP": 88,
+    "8377 JP": 88,
+    "CRCL US": 13,
     "5844 JP": 29,
     "BK US": 5,
-    "8331 JP": 82,
-    "STAN LN": 81,
+    "8331 JP": 83,
+    "STAN LN": 82,
     "7180 JP": 61,
-    "BNY US": 78,
+    "BNY US": 79,
     "SNEX US": 34,
     "AGS BB": 18,
-    "ETE GA": 74,
+    "ETE GA": 75,
     "IBKR US": 48,
     "7182 JP": 51,
-    "AMUN FP": 70,
-    "8308 JP": 67,
-    "AGN NA": 35,
+    "AMUN FP": 71,
+    "8308 JP": 68,
+    "AGN NA": 36,
     "032830 KS": 21,
-    "BAC US": 64,
-    "GLE FP": 62,
-    "JPM US": 62,
+    "BAC US": 65,
+    "GLE FP": 63,
+    "JPM US": 63,
     "055550 KS": 6,
-    "8411 JP": 45,
+    "8411 JP": 46,
     "NLY US": 12,
     "CBK GY": 25,
-    "BARC LN": 57,
+    "BARC LN": 58,
     "402340 KS": 11,
     "USB US": 34,
     "AJG US": 23,
-    "V US": 40,
+    "V US": 41,
     "PFG US": 29,
-    "AV/ LN": 32,
-    "DBK GY": 28,
-    "ADM LN": 28,
-    "CHYM US": 24,
-    "BX US": 22,
-    "BLK US": 22,
-    "GPN US": 21,
-    "ARES US": 20,
-    "ASRNL NA": 18,
+    "AV/ LN": 33,
+    "DBK GY": 29,
+    "ADM LN": 29,
+    "CHYM US": 25,
+    "BX US": 23,
+    "BLK US": 23,
+    "GPN US": 22,
+    "ARES US": 21,
+    "ASRNL NA": 19,
     "SHOP US": 7,
-    "G IM": 8,
-    "MNG LN": 8,
-    "WFC US": 6,
-    "CABK SM": 5,
-    "BOCHGR GA": 2
+    "G IM": 9,
+    "MNG LN": 9,
+    "WFC US": 7,
+    "CABK SM": 6,
+    "BOCHGR GA": 3,
+    "EQH US": 1
   },
   "is_new": {},
   "daily_shares": {
