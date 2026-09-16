@@ -1,9 +1,10 @@
 {
-  "as_of": "20260914",
+  "as_of": "20260915",
   "first_date": "20251014",
   "codes": [
     "ADBE",
     "ADI",
+    "ADSK",
     "ALGM",
     "AMAT",
     "AMD",
@@ -38,6 +39,7 @@
     "FIGR",
     "FN",
     "FSLR",
+    "GENB",
     "GFS",
     "GLW",
     "GOOG",
@@ -208,8 +210,10 @@
     "TWST": [],
     "TXG": [],
     "MDB": [],
-    "OKTA": []
+    "OKTA": [],
+    "ADSK": [],
+    "GENB": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-09-15T14:35:49Z"
+  "generated_at": "2026-09-16T14:30:10Z"
 }
