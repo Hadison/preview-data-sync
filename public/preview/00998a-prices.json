@@ -1,5 +1,5 @@
 {
-  "as_of": "20260915",
+  "as_of": "20260917",
   "first_date": "20260407",
   "codes": [
     "032830 KS",
@@ -55,6 +55,7 @@
     "INGA NA",
     "ISP IM",
     "JPM US",
+    "KBC BB",
     "LGEN LN",
     "LLOY LN",
     "MFG US",
@@ -173,8 +174,9 @@
     "WFC US": [],
     "CABK SM": [],
     "BOCHGR GA": [],
-    "EQH US": []
+    "EQH US": [],
+    "KBC BB": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-09-16T14:40:08Z"
+  "generated_at": "2026-09-18T14:02:49Z"
 }
