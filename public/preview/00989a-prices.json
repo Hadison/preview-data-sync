@@ -1,10 +1,11 @@
 {
-  "as_of": "20260917",
+  "as_of": "20260918",
   "first_date": "20251014",
   "codes": [
     "ADBE",
     "ADI",
     "ADSK",
+    "ALAB",
     "ALGM",
     "AMAT",
     "AMD",
@@ -79,6 +80,7 @@
     "SBAC",
     "SE",
     "SHOP",
+    "SMCI",
     "SNAP",
     "SNDK",
     "SNOW",
@@ -212,8 +214,10 @@
     "MDB": [],
     "OKTA": [],
     "ADSK": [],
-    "GENB": []
+    "GENB": [],
+    "ALAB": [],
+    "SMCI": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-09-18T13:54:24Z"
+  "generated_at": "2026-09-21T16:08:05Z"
 }
