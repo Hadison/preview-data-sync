@@ -1,5 +1,5 @@
 {
-  "as_of": "20260918",
+  "as_of": "20260921",
   "first_date": "20250825",
   "codes": [
     "2330",
@@ -40,6 +40,7 @@
     "HOOD US",
     "HWM US",
     "IFX GY",
+    "ILMN US",
     "INTU US",
     "JPM US",
     "LITE US",
@@ -2416,6 +2417,15 @@
         "close": 2460.0,
         "adj_factor": 1.0,
         "volume_shares": 40892688
+      },
+      {
+        "date": "20260921",
+        "open": 2445.0,
+        "high": 2485.0,
+        "low": 2445.0,
+        "close": 2480.0,
+        "adj_factor": 1.0,
+        "volume_shares": 16086510
       }
     ],
     "7011 JT": [],
@@ -4835,11 +4845,21 @@
         "close": 4710.0,
         "adj_factor": 1.0,
         "volume_shares": 10365174
+      },
+      {
+        "date": "20260921",
+        "open": 4800.0,
+        "high": 5035.0,
+        "low": 4780.0,
+        "close": 5010.0,
+        "adj_factor": 1.0,
+        "volume_shares": 11237165
       }
     ],
     "ASML NA": [],
-    "NBIS UW": []
+    "NBIS UW": [],
+    "ILMN US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-09-21T16:06:59Z"
+  "generated_at": "2026-09-22T14:19:35Z"
 }
