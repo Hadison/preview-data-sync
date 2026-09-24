@@ -1,5 +1,5 @@
 {
-  "as_of": "20260922",
+  "as_of": "20260923",
   "first_date": "20250610",
   "codes": [
     "ABNB US",
@@ -47,6 +47,7 @@
     "PLTR US",
     "PSTG US",
     "RBLX US",
+    "RKLB US",
     "ROKU US",
     "RXRX US",
     "SDGR US",
@@ -132,8 +133,9 @@
     "SPCX US": [],
     "LLY US": [],
     "SNOW US": [],
-    "NET US": []
+    "NET US": [],
+    "RKLB US": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-09-23T14:22:14Z"
+  "generated_at": "2026-09-24T14:26:19Z"
 }

@@ -1,5 +1,5 @@
 {
-  "as_of": "20260922",
+  "as_of": "20260923",
   "first_date": "20260407",
   "codes": [
     "032830 KS",
@@ -44,6 +44,7 @@
     "CS FP",
     "DBK GY",
     "DBS SP",
+    "ENX FP",
     "EQH US",
     "ETE GA",
     "G IM",
@@ -177,8 +178,9 @@
     "BOCHGR GA": [],
     "EQH US": [],
     "KBC BB": [],
-    "CS FP": []
+    "CS FP": [],
+    "ENX FP": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-09-23T14:41:25Z"
+  "generated_at": "2026-09-24T14:51:00Z"
 }
