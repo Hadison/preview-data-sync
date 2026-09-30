@@ -1,9 +1,10 @@
 {
-  "as_of": "20260924",
+  "as_of": "20260929",
   "first_date": "20260407",
   "codes": [
     "032830 KS",
     "055550 KS",
+    "105560 KS",
     "202606FESB",
     "402340 KS",
     "5844 JP",
@@ -29,6 +30,7 @@
     "BARC LN",
     "BBVA SM",
     "BK US",
+    "BKT SM",
     "BLK US",
     "BMPS IM",
     "BNP FP",
@@ -42,6 +44,7 @@
     "CHYM US",
     "CRCL US",
     "CS FP",
+    "DB1 GY",
     "DBK GY",
     "DBS SP",
     "ENX FP",
@@ -179,8 +182,11 @@
     "EQH US": [],
     "KBC BB": [],
     "CS FP": [],
-    "ENX FP": []
+    "ENX FP": [],
+    "105560 KS": [],
+    "BKT SM": [],
+    "DB1 GY": []
   },
   "source": "TWSE/TPEx official daily trading APIs",
-  "generated_at": "2026-09-29T16:17:41Z"
+  "generated_at": "2026-09-30T16:20:32Z"
 }
